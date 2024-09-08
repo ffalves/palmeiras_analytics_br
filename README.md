@@ -3,7 +3,7 @@
 This is my captstone project to my MBA in Data Science and Analytics from USP/ESALQ (Brazil). It aims to analyze the data from a Brazilian football team Palmeiras (SEP) along the Brazilian Championship during 2020 to 2023.
 
 ## Structure
-
+```bash
 palmeiras_analytics_br/
 ├── json_renamed/                           # JSON files scrapped from Sofascore with all Palmeiras matches. There are 5 different types of them.
 │   └── j_DDMMYYYY_ID_event.json
@@ -23,6 +23,7 @@ palmeiras_analytics_br/
 ├── pyproject.toml                          # Poetry project setup file
 └── poetry.lock                             # Poetry dependency lock file
 
+```
 
 ## Dependencies
 
