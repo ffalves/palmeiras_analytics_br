@@ -1,0 +1,368 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 2,
+      "awayScore": 2,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Deyverson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "deyverson",
+        "shortName": "Deyverson",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 1846,
+        "id": 270287,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيرسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Miguel Borja",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-borja",
+        "shortName": "Miguel Borja",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 2347,
+        "id": 329601
+      },
+      "id": 119338414,
+      "time": 83,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 8,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Agustín Manzur",
+        "slug": "agustin-manzur",
+        "shortName": "A. Manzur",
+        "position": "M",
+        "jerseyNumber": "16",
+        "userCount": 22,
+        "id": 924010
+      },
+      "playerOut": {
+        "name": "Ezequiel Bullaude",
+        "slug": "ezequiel-bullaude",
+        "shortName": "E. Bullaude",
+        "position": "M",
+        "jerseyNumber": "5",
+        "userCount": 645,
+        "id": 960077
+      },
+      "id": 119338412,
+      "time": 77,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 14,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119338413,
+      "time": 76,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 15,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Richard Prieto",
+        "slug": "richard-prieto",
+        "shortName": "R. Prieto",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 17,
+        "id": 923929
+      },
+      "playerOut": {
+        "name": "Miguel Merentiel",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-merentiel",
+        "shortName": "Miguel Merentiel",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 932,
+        "id": 892275
+      },
+      "id": 119338411,
+      "time": 66,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 25,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 2,
+      "player": {
+        "name": "Miguel Borja",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-borja",
+        "shortName": "Miguel Borja",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 2347,
+        "id": 329601
+      },
+      "assist1": {
+        "name": "Luan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luan",
+        "shortName": "Luan",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 759,
+        "id": 250351
+      },
+      "id": 126257200,
+      "time": 59,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 32,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Juan Brunetta",
+        "slug": "juan-brunetta",
+        "shortName": "J. Brunetta",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 610,
+        "id": 851070
+      },
+      "playerName": "Juan Brunetta",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119244872,
+      "time": 51,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 40,
+      "incidentType": "card"
+    },
+    {
+      "text": "HT",
+      "homeScore": 2,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 2,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Luan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luan",
+        "shortName": "Luan",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 759,
+        "id": 250351
+      },
+      "playerName": "Luan",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119244873,
+      "time": 41,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 5,
+      "incidentType": "card"
+    },
+    {
+      "time": 39,
+      "player": {
+        "name": "Santiago García",
+        "slug": "santiago-garcia",
+        "shortName": "S. García",
+        "position": "F",
+        "jerseyNumber": "18",
+        "userCount": 83,
+        "id": 34210
+      },
+      "description": "Goalkeeper save",
+      "id": 118285757,
+      "incidentType": "inGamePenalty",
+      "isHome": true,
+      "incidentClass": "missed",
+      "reason": "goalkeeperSave",
+      "reversedPeriodTime": 7
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 1,
+      "player": {
+        "name": "Felipe Melo",
+        "slug": "felipe-melo",
+        "shortName": "F. Melo",
+        "position": "D",
+        "jerseyNumber": "30",
+        "userCount": 1449,
+        "id": 4811
+      },
+      "assist1": {
+        "name": "Marcos Rocha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcos-rocha",
+        "shortName": "Marcos Rocha",
+        "position": "D",
+        "jerseyNumber": "2",
+        "userCount": 976,
+        "id": 82576
+      },
+      "id": 126257199,
+      "time": 34,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 12,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Agustín Aleo",
+        "slug": "agustin-aleo",
+        "shortName": "A. Aleo",
+        "position": "D",
+        "jerseyNumber": "20",
+        "userCount": 12,
+        "id": 929000
+      },
+      "playerName": "Agustín Aleo",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119244871,
+      "time": 33,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 13,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 0,
+      "player": {
+        "name": "Santiago García",
+        "slug": "santiago-garcia",
+        "shortName": "S. García",
+        "position": "F",
+        "jerseyNumber": "18",
+        "userCount": 83,
+        "id": 34210
+      },
+      "assist1": {
+        "name": "Ezequiel Bullaude",
+        "slug": "ezequiel-bullaude",
+        "shortName": "E. Bullaude",
+        "position": "M",
+        "jerseyNumber": "5",
+        "userCount": 645,
+        "id": 960077
+      },
+      "id": 126257198,
+      "time": 29,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 17,
+      "incidentType": "goal"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Santiago García",
+        "slug": "santiago-garcia",
+        "shortName": "S. García",
+        "position": "F",
+        "jerseyNumber": "18",
+        "userCount": 83,
+        "id": 34210
+      },
+      "assist1": {
+        "name": "Juan Brunetta",
+        "slug": "juan-brunetta",
+        "shortName": "J. Brunetta",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 610,
+        "id": 851070
+      },
+      "id": 126257197,
+      "time": 6,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 40,
+      "incidentType": "goal"
+    }
+  ]
+}

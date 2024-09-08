@@ -1,0 +1,273 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores",
+      "slug": "conmebol-libertadores",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 215031,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 594,
+      "competitionType": 2,
+      "id": 309
+    },
+    "season": {
+      "name": "Copa Libertadores 2022",
+      "year": "2022",
+      "editor": false,
+      "id": 40174
+    },
+    "roundInfo": {
+      "round": 8,
+      "name": "Round of 16",
+      "slug": "round-of-16",
+      "cupRoundType": 8
+    },
+    "customId": "nOsQuc",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 2,
+    "venue": {
+      "city": {
+        "name": "Asuncion"
+      },
+      "stadium": {
+        "name": "General Pablo Rojas",
+        "capacity": 45876
+      },
+      "id": 986,
+      "country": {
+        "alpha2": "PY",
+        "name": "Paraguay"
+      }
+    },
+    "referee": {
+      "name": "Wilmar Roldan",
+      "slug": "wilmar-roldan",
+      "yellowCards": 1514,
+      "redCards": 80,
+      "yellowRedCards": 44,
+      "games": 292,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 52513,
+      "country": {
+        "alpha2": "CO",
+        "name": "Colombia"
+      }
+    },
+    "homeTeam": {
+      "name": "Cerro Porteño",
+      "slug": "cerro-porteno",
+      "shortName": "Cerro Porteño",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 22306,
+      "manager": {
+        "name": "Victor Bernay",
+        "slug": "victor-bernay",
+        "shortName": "V. Bernay",
+        "id": 793575,
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Asuncion"
+        },
+        "stadium": {
+          "name": "General Pablo Rojas",
+          "capacity": 45876
+        },
+        "id": 986,
+        "country": {
+          "alpha2": "PY",
+          "name": "Paraguay"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "CPO",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 5991,
+      "country": {
+        "alpha2": "PY",
+        "name": "Paraguay"
+      },
+      "subTeams": [],
+      "fullName": "Cerro Porteño",
+      "teamColors": {
+        "primary": "#cc0000",
+        "secondary": "#003366",
+        "text": "#003366"
+      },
+      "foundationDateTimestamp": -1806710400
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209544,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "awayScore": {
+      "current": 3,
+      "display": 3,
+      "period1": 0,
+      "period2": 3,
+      "normaltime": 3
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 2,
+      "injuryTime2": 4,
+      "currentPeriodStartTimestamp": 1656547691
+    },
+    "changes": {
+      "changes": [
+        "homeScore.period2",
+        "awayScore.period2"
+      ],
+      "changeTimestamp": 1662625197
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 10341622,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1656547691,
+    "startTimestamp": 1656540900,
+    "slug": "cerro-porteno-palmeiras",
+    "finalResultOnly": false,
+    "hasBet365LiveStream": true,
+    "bet365ExcludedCountryCodes": [
+      "AR",
+      "BO",
+      "BR",
+      "CL",
+      "EC",
+      "NJ",
+      "PE",
+      "PY",
+      "UY",
+      "VE",
+      "XA",
+      "XB",
+      "IR",
+      "GR",
+      "RU",
+      "CH",
+      "CA"
+    ],
+    "cupMatchesInRound": 2,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

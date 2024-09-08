@@ -1,0 +1,270 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores, Group A",
+      "slug": "conmebol-libertadores-group-a",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 214891,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 593,
+      "competitionType": 1,
+      "id": 2928
+    },
+    "season": {
+      "name": "Copa Libertadores 2022",
+      "year": "2022",
+      "editor": false,
+      "id": 40174
+    },
+    "roundInfo": {
+      "round": 1
+    },
+    "customId": "nOsGzc",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 2,
+    "venue": {
+      "city": {
+        "name": "San Cristóbal"
+      },
+      "stadium": {
+        "name": "Polideportivo de Pueblo Nuevo",
+        "capacity": 42500
+      },
+      "id": 20,
+      "country": {
+        "alpha2": "VE",
+        "name": "Venezuela"
+      }
+    },
+    "referee": {
+      "name": "Dario Herrera",
+      "slug": "dario-herrera",
+      "yellowCards": 1857,
+      "redCards": 75,
+      "yellowRedCards": 58,
+      "games": 344,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 322839,
+      "country": {
+        "alpha2": "AR",
+        "name": "Argentina"
+      }
+    },
+    "homeTeam": {
+      "name": "Deportivo Táchira",
+      "slug": "deportivo-tachira",
+      "shortName": "Dep. Táchira",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 5946,
+      "manager": {
+        "name": "Eduardo Sarago",
+        "slug": "eduardo-sarago",
+        "shortName": "E. Sarago",
+        "id": 107969,
+        "country": {
+          "alpha2": "VE",
+          "name": "Venezuela"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "San Cristóbal"
+        },
+        "stadium": {
+          "name": "Polideportivo de Pueblo Nuevo",
+          "capacity": 42500
+        },
+        "id": 20,
+        "country": {
+          "alpha2": "VE",
+          "name": "Venezuela"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "TAC",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 6231,
+      "country": {
+        "alpha2": "VE",
+        "name": "Venezuela"
+      },
+      "subTeams": [],
+      "fullName": "Deportivo Táchira",
+      "teamColors": {
+        "primary": "#ffff00",
+        "secondary": "#000000",
+        "text": "#000000"
+      },
+      "foundationDateTimestamp": 127094400
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209465,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 45000
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "awayScore": {
+      "current": 4,
+      "display": 4,
+      "period1": 2,
+      "period2": 2,
+      "normaltime": 4
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 3,
+      "injuryTime2": 4,
+      "currentPeriodStartTimestamp": 1649296408
+    },
+    "changes": {
+      "changes": [
+        "homeScore.period2",
+        "awayScore.period2"
+      ],
+      "changeTimestamp": 1649319886
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 10219688,
+    "awayRedCards": 1,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1649296408,
+    "startTimestamp": 1649289600,
+    "slug": "deportivo-tachira-palmeiras",
+    "finalResultOnly": false,
+    "hasBet365LiveStream": true,
+    "bet365ExcludedCountryCodes": [
+      "AR",
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC",
+      "PE",
+      "PY",
+      "UY",
+      "VE",
+      "XA",
+      "XB",
+      "IR",
+      "GR",
+      "RU",
+      "CH",
+      "CA"
+    ],
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 2,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 10,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Fabinho",
+        "slug": "fabinho",
+        "shortName": "Fabinho",
+        "position": "M",
+        "userCount": 517,
+        "id": 1117513
+      },
+      "playerName": "Fabinho",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120356133,
+      "time": 84,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 7,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Jorge",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jorge",
+        "shortName": "Jorge",
+        "position": "D",
+        "userCount": 649,
+        "id": 759428
+      },
+      "playerOut": {
+        "name": "Joaquín Piquerez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "joaquin-piquerez",
+        "shortName": "J. Piquerez",
+        "position": "D",
+        "userCount": 1961,
+        "id": 881110
+      },
+      "id": 121142100,
+      "time": 83,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 8,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Rafael Navarro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rafael-navarro",
+        "shortName": "R. Navarro",
+        "position": "F",
+        "userCount": 889,
+        "id": 985427
+      },
+      "playerOut": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "userCount": 3825,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121142099,
+      "time": 81,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 10,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Fabinho",
+        "slug": "fabinho",
+        "shortName": "Fabinho",
+        "position": "M",
+        "userCount": 517,
+        "id": 1117513
+      },
+      "playerOut": {
+        "name": "Danilo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "danilo",
+        "shortName": "Danilo",
+        "position": "M",
+        "userCount": 3779,
+        "id": 1064039,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوليفيرا ، دانيلو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121142098,
+      "time": 81,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 10,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Wesley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley",
+        "shortName": "Wesley",
+        "position": "F",
+        "userCount": 699,
+        "id": 985766
+      },
+      "playerOut": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "userCount": 2668,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121142097,
+      "time": 81,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 10,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Zé Hugo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ze-hugo",
+        "shortName": "Z. Hugo",
+        "position": "F",
+        "userCount": 101,
+        "id": 1166468
+      },
+      "playerOut": {
+        "name": "Adrian Martinez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "martinez-adrian",
+        "shortName": "Adrián Martínez",
+        "position": "F",
+        "userCount": 164,
+        "id": 906811
+      },
+      "id": 121142088,
+      "time": 74,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 17,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Natanael",
+        "firstName": "",
+        "lastName": "",
+        "slug": "natanael",
+        "shortName": "Natanael",
+        "position": "D",
+        "userCount": 236,
+        "id": 1046805
+      },
+      "playerOut": {
+        "name": "Guillermo De Los Santos",
+        "firstName": "",
+        "lastName": "",
+        "slug": "guillermo-de-los-santos",
+        "shortName": "Guillermo De Los Santos",
+        "position": "D",
+        "userCount": 47,
+        "id": 158611
+      },
+      "id": 121142087,
+      "time": 73,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 18,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Thonny Anderson",
+        "slug": "thonny-anderson",
+        "shortName": "T. Anderson",
+        "position": "M",
+        "userCount": 137,
+        "id": 923836
+      },
+      "playerName": "Thonny Anderson",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120356125,
+      "time": 72,
+      "isHome": true,
+      "incidentClass": "red",
+      "reversedPeriodTime": 19,
+      "incidentType": "card"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Thonny Anderson",
+        "slug": "thonny-anderson",
+        "shortName": "T. Anderson",
+        "position": "M",
+        "userCount": 137,
+        "id": 923836
+      },
+      "isHome": true,
+      "id": 11910,
+      "time": 71,
+      "incidentClass": "cardUpgrade",
+      "reversedPeriodTime": 20,
+      "incidentType": "varDecision"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 2,
+      "player": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "userCount": 3825,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "userCount": 2668,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 163441574,
+      "time": 63,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 28,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Clayton",
+        "slug": "clayton",
+        "shortName": "Clayton",
+        "position": "F",
+        "userCount": 145,
+        "id": 1017023
+      },
+      "playerOut": {
+        "name": "Alef Manga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "manga-alef",
+        "shortName": "A. Manga",
+        "position": "M",
+        "userCount": 501,
+        "id": 954719
+      },
+      "id": 121142074,
+      "time": 62,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 29,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Thonny Anderson",
+        "slug": "thonny-anderson",
+        "shortName": "T. Anderson",
+        "position": "M",
+        "userCount": 137,
+        "id": 923836
+      },
+      "playerOut": {
+        "name": "Nathan",
+        "firstName": "Nathan",
+        "slug": "nathan",
+        "shortName": "Nathan",
+        "position": "D",
+        "userCount": 328,
+        "id": 1116955
+      },
+      "id": 121142056,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Diego Porfirio",
+        "firstName": "",
+        "lastName": "",
+        "slug": "diego-porfirio",
+        "shortName": "Diego Porfirio",
+        "position": "D",
+        "userCount": 16,
+        "id": 1123398
+      },
+      "playerOut": {
+        "name": "Guilherme Biro",
+        "firstName": "Guilherme Biro",
+        "lastName": "",
+        "slug": "guilherme-biro",
+        "shortName": "Guilherme Biro",
+        "position": "D",
+        "userCount": 81,
+        "id": 1047850
+      },
+      "id": 121142055,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 2,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Guilherme Biro",
+        "firstName": "Guilherme Biro",
+        "lastName": "",
+        "slug": "guilherme-biro",
+        "shortName": "Guilherme Biro",
+        "position": "D",
+        "userCount": 81,
+        "id": 1047850
+      },
+      "playerName": "Guilherme Biro",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120356101,
+      "time": 36,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 10,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "userCount": 4179,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Dudu",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120356097,
+      "time": 34,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 12,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Gustavo Garcia",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-garcia",
+        "shortName": "G. Garcia",
+        "position": "D",
+        "userCount": 479,
+        "id": 1002443
+      },
+      "playerOut": {
+        "name": "Marcos Rocha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcos-rocha",
+        "shortName": "Marcos Rocha",
+        "position": "D",
+        "userCount": 975,
+        "id": 82576
+      },
+      "injury": true,
+      "id": 121142030,
+      "time": 29,
+      "isHome": false,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 17,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "userCount": 4179,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Marcos Rocha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcos-rocha",
+        "shortName": "Marcos Rocha",
+        "position": "D",
+        "userCount": 975,
+        "id": 82576
+      },
+      "id": 163439334,
+      "time": 23,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 23,
+      "incidentType": "goal"
+    }
+  ]
+}

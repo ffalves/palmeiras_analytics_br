@@ -1,0 +1,492 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Emiliano Rigoni",
+        "firstName": "",
+        "lastName": "",
+        "slug": "emiliano-rigoni",
+        "shortName": "Emiliano Rigoni",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 923,
+        "id": 257587
+      },
+      "playerName": "Emiliano Rigoni",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119908387,
+      "time": 90,
+      "addedTime": 5,
+      "isHome": true,
+      "incidentClass": "red",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Miranda",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miranda",
+        "shortName": "Miranda",
+        "position": "D",
+        "jerseyNumber": "22",
+        "userCount": 969,
+        "id": 13017
+      },
+      "playerName": "Miranda",
+      "rescinded": false,
+      "id": 119908386,
+      "time": 90,
+      "addedTime": 4,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Gustavo Gómez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-gomez",
+        "shortName": "G. Gómez",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 2799,
+        "id": 220833,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غوميز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "id": 6942,
+      "time": 90,
+      "addedTime": 2,
+      "incidentClass": "goalAwarded",
+      "reversedPeriodTime": 1,
+      "incidentType": "varDecision"
+    },
+    {
+      "length": 5,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Victor Luis",
+        "firstName": "",
+        "lastName": "",
+        "slug": "victor-luis",
+        "shortName": "Victor Luis",
+        "position": "D",
+        "jerseyNumber": "26",
+        "userCount": 257,
+        "id": 252781
+      },
+      "playerOut": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 8015,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 120379743,
+      "time": 87,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 4,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Talles Costa",
+        "slug": "talles-costa",
+        "shortName": "T. Costa",
+        "position": "M",
+        "jerseyNumber": "37",
+        "userCount": 457,
+        "id": 1002360
+      },
+      "playerOut": {
+        "name": "Rodrigo Nestor",
+        "slug": "rodrigo-nestor",
+        "shortName": "R. Nestor",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 1097,
+        "id": 905461
+      },
+      "id": 120379739,
+      "time": 84,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 7,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Patrick de Paula",
+        "firstName": "",
+        "lastName": "",
+        "slug": "patrick-de-paula",
+        "shortName": "Patrick de Paula",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 729,
+        "id": 1015291
+      },
+      "playerOut": {
+        "name": "Danilo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "danilo",
+        "shortName": "Danilo",
+        "position": "M",
+        "jerseyNumber": "28",
+        "userCount": 3809,
+        "id": 1064039,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوليفيرا ، دانيلو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 120379736,
+      "time": 82,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 9,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Deyverson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "deyverson",
+        "shortName": "Deyverson",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 1846,
+        "id": 270287,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيرسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 120379735,
+      "time": 82,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 9,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Danilo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "danilo",
+        "shortName": "Danilo",
+        "position": "M",
+        "jerseyNumber": "28",
+        "userCount": 3809,
+        "id": 1064039,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوليفيرا ، دانيلو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Danilo",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119908366,
+      "time": 81,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 10,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Rodrigo Nestor",
+        "slug": "rodrigo-nestor",
+        "shortName": "R. Nestor",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 1097,
+        "id": 905461
+      },
+      "playerName": "Rodrigo Nestor",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119908362,
+      "time": 79,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 12,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Felipe Melo",
+        "slug": "felipe-melo",
+        "shortName": "F. Melo",
+        "position": "D",
+        "jerseyNumber": "30",
+        "userCount": 1449,
+        "id": 4811
+      },
+      "playerName": "Felipe Melo",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119908358,
+      "time": 78,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 13,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "jerseyNumber": "19",
+        "userCount": 783,
+        "id": 937552
+      },
+      "playerName": "Breno Lopes",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119908357,
+      "time": 77,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 14,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Gabriel Sara",
+        "slug": "gabriel-sara",
+        "shortName": "G. Sara",
+        "position": "M",
+        "jerseyNumber": "17",
+        "userCount": 1702,
+        "id": 913593
+      },
+      "playerName": "Gabriel Sara",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119908345,
+      "time": 63,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 28,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Joao Rojas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "joao-rojas",
+        "shortName": "J. Rojas",
+        "position": "M",
+        "userCount": 196,
+        "id": 52068
+      },
+      "playerOut": {
+        "name": "Marquinhos",
+        "firstName": "Marquinhos",
+        "lastName": "",
+        "slug": "marquinhos",
+        "shortName": "Marquinhos",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 4041,
+        "id": 1116954,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركينيوس"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "injury": true,
+      "id": 120379700,
+      "time": 58,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 33,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 2669,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 120379701,
+      "time": 58,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 33,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "jerseyNumber": "19",
+        "userCount": 783,
+        "id": 937552
+      },
+      "playerOut": {
+        "name": "Wesley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley",
+        "shortName": "Wesley",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 697,
+        "id": 985766
+      },
+      "id": 120379708,
+      "time": 58,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 33,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 4,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Marquinhos",
+        "firstName": "Marquinhos",
+        "lastName": "",
+        "slug": "marquinhos",
+        "shortName": "Marquinhos",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 4041,
+        "id": 1116954,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماركينيوس"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "id": 6938,
+      "time": 38,
+      "incidentClass": "penaltyAwarded",
+      "reversedPeriodTime": 8,
+      "incidentType": "varDecision"
+    }
+  ]
+}

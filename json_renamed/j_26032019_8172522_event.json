@@ -1,0 +1,250 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Paulista Série A1 - Playoffs",
+      "slug": "paulista-serie-a1-playoffs",
+      "category": {
+        "name": "Brazil",
+        "slug": "brazil",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 13,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "flag": "brazil",
+        "alpha2": "BR"
+      },
+      "uniqueTournament": {
+        "name": "Paulista Série A1",
+        "slug": "paulista-serie-a1",
+        "primaryColorHex": "#004990",
+        "secondaryColorHex": "#d1a02f",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 13,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "flag": "brazil",
+          "alpha2": "BR"
+        },
+        "userCount": 48196,
+        "id": 372,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 0,
+      "competitionType": 2,
+      "id": 58692
+    },
+    "season": {
+      "name": "Paulista Série A1 2019",
+      "year": "2019",
+      "editor": false,
+      "id": 19896
+    },
+    "roundInfo": {
+      "round": 3,
+      "name": "Quarterfinals",
+      "slug": "quarterfinals",
+      "cupRoundType": 4
+    },
+    "customId": "nOsokeb",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 1,
+    "aggregatedWinnerCode": 1,
+    "venue": {
+      "city": {
+        "name": "Sao Paulo"
+      },
+      "stadium": {
+        "name": "Allianz Parque",
+        "capacity": 43713
+      },
+      "id": 15699,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "homeTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "awayTeam": {
+      "name": "Novorizontino",
+      "slug": "novorizontino",
+      "shortName": "Novorizontino",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 12178,
+      "manager": {
+        "name": "Eduardo Baptista",
+        "slug": "eduardo-baptista",
+        "shortName": "E. Baptista",
+        "id": 551490,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Novo Horizonte"
+        },
+        "stadium": {
+          "name": "Dr. Jorge Ismael de Biase",
+          "capacity": 12398
+        },
+        "id": 13350,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "GRN",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 135514,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Novorizontino",
+      "teamColors": {
+        "primary": "#b4982d",
+        "secondary": "#1d2329",
+        "text": "#1d2329"
+      },
+      "foundationDateTimestamp": 1520553600
+    },
+    "homeScore": {
+      "current": 5,
+      "display": 5,
+      "period1": 2,
+      "period2": 3,
+      "normaltime": 5,
+      "aggregated": 6
+    },
+    "awayScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0,
+      "aggregated": 1
+    },
+    "coverage": -1,
+    "time": {
+      "injuryTime1": 1,
+      "injuryTime2": 2,
+      "currentPeriodStartTimestamp": 1553651563
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.normaltime",
+        "awayScore.normaltime"
+      ],
+      "changeTimestamp": 1553651572
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 8172522,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1553651563,
+    "previousLegEventId": 8172523,
+    "startTimestamp": 1553644800,
+    "slug": "novorizontino-palmeiras",
+    "finalResultOnly": false,
+    "cupMatchesInRound": 2,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

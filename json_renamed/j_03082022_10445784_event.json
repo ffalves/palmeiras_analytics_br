@@ -1,0 +1,278 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores",
+      "slug": "conmebol-libertadores",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 215031,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 594,
+      "competitionType": 2,
+      "id": 309
+    },
+    "season": {
+      "name": "Copa Libertadores 2022",
+      "year": "2022",
+      "editor": false,
+      "id": 40174
+    },
+    "roundInfo": {
+      "round": 4,
+      "name": "Quarterfinal",
+      "slug": "quarterfinal",
+      "cupRoundType": 4
+    },
+    "customId": "nOsCO",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 3,
+    "venue": {
+      "city": {
+        "name": "Belo Horizonte"
+      },
+      "stadium": {
+        "name": "Governador Magalhaes Pinto",
+        "capacity": 62000
+      },
+      "id": 649,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "referee": {
+      "name": "Facundo Tello",
+      "slug": "tello-facundo",
+      "yellowCards": 1315,
+      "redCards": 52,
+      "yellowRedCards": 50,
+      "games": 241,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 327873,
+      "country": {
+        "alpha2": "AR",
+        "name": "Argentina"
+      }
+    },
+    "homeTeam": {
+      "name": "Atlético Mineiro",
+      "slug": "atletico-mineiro",
+      "shortName": "Atlético-MG",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 107207,
+      "manager": {
+        "name": "Luiz Felipe Scolari",
+        "slug": "luiz-felipe-scolari",
+        "shortName": "L. F. Scolari",
+        "id": 53251,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Belo Horizonte"
+        },
+        "stadium": {
+          "name": "Arena MRV",
+          "capacity": 43000
+        },
+        "id": 987,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "ATL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1977,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Atlético Mineiro",
+      "teamColors": {
+        "primary": "#000000",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "foundationDateTimestamp": -1949356800
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209544,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 1,
+      "period2": 1,
+      "normaltime": 2
+    },
+    "awayScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 0,
+      "period2": 2,
+      "normaltime": 2
+    },
+    "time": {
+      "injuryTime1": 2,
+      "injuryTime2": 5,
+      "currentPeriodStartTimestamp": 1659579833
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.period2",
+        "homeScore.normaltime",
+        "awayScore.period2",
+        "awayScore.normaltime",
+        "time.currentPeriodStart"
+      ],
+      "changeTimestamp": 1659579836
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 10445784,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1659579833,
+    "startTimestamp": 1659573000,
+    "slug": "atletico-mineiro-palmeiras",
+    "finalResultOnly": false,
+    "hasBet365LiveStream": true,
+    "bet365ExcludedCountryCodes": [
+      "AR",
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC",
+      "PE",
+      "PY",
+      "UY",
+      "VE",
+      "XA",
+      "XB",
+      "IR",
+      "GR",
+      "RU",
+      "CH",
+      "CA"
+    ],
+    "cupMatchesInRound": 2,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

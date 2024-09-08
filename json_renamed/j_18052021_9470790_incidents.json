@@ -1,0 +1,594 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 3,
+      "awayScore": 4,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Braian Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "braian-romero",
+        "shortName": "Braian Romero",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 316,
+        "id": 789435
+      },
+      "playerName": "Braian Romero",
+      "rescinded": false,
+      "id": 119847925,
+      "time": 90,
+      "addedTime": 6,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 3,
+      "awayScore": 4,
+      "player": {
+        "name": "Braian Romero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "braian-romero",
+        "shortName": "Braian Romero",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 316,
+        "id": 789435
+      },
+      "assist1": {
+        "name": "Carlos Rotondi",
+        "slug": "carlos-rotondi",
+        "shortName": "C. Rotondi",
+        "position": "M",
+        "jerseyNumber": "29",
+        "userCount": 163,
+        "id": 884868
+      },
+      "id": 146002339,
+      "time": 90,
+      "addedTime": 4,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 1,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Vanderlan",
+        "firstName": "Vanderlan",
+        "lastName": "",
+        "slug": "vanderlan",
+        "shortName": "Vanderlan",
+        "position": "D",
+        "jerseyNumber": "6",
+        "userCount": 745,
+        "id": 1067640
+      },
+      "playerName": "Vanderlan",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119847919,
+      "time": 90,
+      "isHome": true,
+      "incidentClass": "yellowRed",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Vanderlan",
+        "firstName": "Vanderlan",
+        "lastName": "",
+        "slug": "vanderlan",
+        "shortName": "Vanderlan",
+        "position": "D",
+        "jerseyNumber": "6",
+        "userCount": 745,
+        "id": 1067640
+      },
+      "playerName": "Vanderlan",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119847918,
+      "time": 82,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 9,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Emanuel Brítez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "emanuel-britez",
+        "shortName": "Emanuel Brítez",
+        "position": "D",
+        "jerseyNumber": "19",
+        "userCount": 203,
+        "id": 789395
+      },
+      "playerName": "Emanuel Brítez",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119847924,
+      "time": 79,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 12,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Luan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luan",
+        "shortName": "Luan",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 759,
+        "id": 250351
+      },
+      "playerName": "Luan",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119847917,
+      "time": 78,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 13,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 3,
+      "awayScore": 3,
+      "player": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Matías Viña",
+        "slug": "matias-vina",
+        "shortName": "M. Viña",
+        "position": "D",
+        "jerseyNumber": "17",
+        "userCount": 1941,
+        "id": 875295,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فينا, ماتياس"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 146002335,
+      "time": 75,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 16,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Gustavo Scarpa",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119847916,
+      "time": 71,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 20,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Giovani",
+        "firstName": "Giovani",
+        "lastName": "",
+        "slug": "giovani",
+        "shortName": "Giovani",
+        "position": "F",
+        "jerseyNumber": "17",
+        "userCount": 1257,
+        "id": 1066717
+      },
+      "playerOut": {
+        "name": "Wesley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley",
+        "shortName": "Wesley",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 697,
+        "id": 985766
+      },
+      "id": 120266326,
+      "time": 69,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 22,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "jerseyNumber": "25",
+        "userCount": 1987,
+        "id": 974556
+      },
+      "playerOut": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 120266325,
+      "time": 68,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 23,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Tomás Escalante",
+        "slug": "tomas-escalante",
+        "shortName": "T. Escalante",
+        "position": "M",
+        "jerseyNumber": "15",
+        "userCount": 23,
+        "id": 1017377
+      },
+      "playerOut": {
+        "name": "Walter Bou",
+        "slug": "walter-bou",
+        "shortName": "W. A. Bou",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 280,
+        "id": 558816
+      },
+      "id": 120266329,
+      "time": 65,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 26,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Nicolás Tripichio",
+        "slug": "nicolas-tripichio",
+        "shortName": "N. Tripichio",
+        "position": "D",
+        "jerseyNumber": "4",
+        "userCount": 93,
+        "id": 358924
+      },
+      "playerName": "Nicolás Tripichio",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119847922,
+      "time": 54,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 37,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 3,
+      "player": {
+        "name": "Matías Rodríguez",
+        "slug": "matias-rodriguez",
+        "shortName": "M. Rodríguez",
+        "position": "D",
+        "userCount": 20,
+        "id": 34260
+      },
+      "assist1": {
+        "name": "Walter Bou",
+        "slug": "walter-bou",
+        "shortName": "W. A. Bou",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 280,
+        "id": 558816
+      },
+      "id": 146002338,
+      "time": 52,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 39,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Hachen",
+        "slug": "gabriel-hachen",
+        "shortName": "G. Hachen",
+        "position": "M",
+        "jerseyNumber": "32",
+        "userCount": 17,
+        "id": 250015
+      },
+      "playerOut": {
+        "name": "Raúl Loaiza",
+        "slug": "raul-loaiza",
+        "shortName": "R. Loaiza",
+        "position": "M",
+        "jerseyNumber": "15",
+        "userCount": 94,
+        "id": 991270
+      },
+      "id": 120266328,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 2,
+      "awayScore": 2,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Adonis Frías",
+        "firstName": "",
+        "lastName": "",
+        "slug": "adonis-frias",
+        "shortName": "A. Frías",
+        "position": "D",
+        "jerseyNumber": "22",
+        "userCount": 186,
+        "id": 940699
+      },
+      "playerName": "Adonis Frías",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119847921,
+      "time": 45,
+      "addedTime": 2,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Fernando Meza",
+        "slug": "fernando-meza",
+        "shortName": "F. Meza",
+        "position": "D",
+        "jerseyNumber": "2",
+        "userCount": 34,
+        "id": 33943
+      },
+      "playerOut": {
+        "name": "Juan Gabriel Rodríguez",
+        "slug": "juan-gabriel-rodriguez",
+        "shortName": "J. G. Rodríguez",
+        "position": "D",
+        "jerseyNumber": "6",
+        "userCount": 45,
+        "id": 155714
+      },
+      "injury": true,
+      "id": 120266327,
+      "time": 45,
+      "isHome": false,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 1,
+      "incidentType": "substitution"
+    },
+    {
+      "length": 2,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Matías Rodríguez",
+        "slug": "matias-rodriguez",
+        "shortName": "M. Rodríguez",
+        "position": "D",
+        "userCount": 20,
+        "id": 34260
+      },
+      "playerName": "Matías Rodríguez",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119847920,
+      "time": 41,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 5,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 2,
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 146002334,
+      "time": 35,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 11,
+      "incidentType": "goal"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 2,
+      "player": {
+        "name": "Walter Bou",
+        "slug": "walter-bou",
+        "shortName": "W. A. Bou",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 280,
+        "id": 558816
+      },
+      "assist1": {
+        "name": "Carlos Rotondi",
+        "slug": "carlos-rotondi",
+        "shortName": "C. Rotondi",
+        "position": "M",
+        "jerseyNumber": "29",
+        "userCount": 163,
+        "id": 884868
+      },
+      "id": 146002337,
+      "time": 27,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 19,
+      "incidentType": "goal"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 1,
+      "player": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 146002333,
+      "time": 11,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 35,
+      "incidentType": "goal"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "Walter Bou",
+        "slug": "walter-bou",
+        "shortName": "W. A. Bou",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 280,
+        "id": 558816
+      },
+      "assist1": {
+        "name": "Enzo Fernández",
+        "firstName": "",
+        "lastName": "",
+        "slug": "enzo-fernandez",
+        "shortName": "E. Fernández",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 55167,
+        "id": 974505,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فرنانديز، اينزو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 146002336,
+      "time": 9,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 37,
+      "incidentType": "goal"
+    }
+  ]
+}

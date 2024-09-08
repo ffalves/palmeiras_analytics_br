@@ -1,0 +1,553 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 2,
+      "awayScore": 2,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "playerIn": {
+        "name": "Laércio",
+        "firstName": "",
+        "lastName": "",
+        "slug": "laercio",
+        "shortName": "Laércio",
+        "position": "D",
+        "jerseyNumber": "3",
+        "userCount": 32,
+        "id": 866580
+      },
+      "playerOut": {
+        "name": "Felipe Jonatan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "felipe-jonatan",
+        "shortName": "F. Jonatan",
+        "position": "D",
+        "jerseyNumber": "3",
+        "userCount": 351,
+        "id": 931574
+      },
+      "injury": true,
+      "id": 119962725,
+      "time": 90,
+      "addedTime": 5,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 1,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "playerName": "Zé Rafael",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119669985,
+      "time": 90,
+      "addedTime": 4,
+      "isHome": false,
+      "incidentClass": "red",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "isHome": false,
+      "id": 4121,
+      "time": 90,
+      "addedTime": 3,
+      "incidentClass": "cardUpgrade",
+      "reversedPeriodTime": 1,
+      "incidentType": "varDecision"
+    },
+    {
+      "length": 9,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Benjamin Kuscevic",
+        "firstName": "",
+        "lastName": "",
+        "slug": "benjamin-kuscevic",
+        "shortName": "B. Kuscevic",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 965,
+        "id": 590324
+      },
+      "playerOut": {
+        "name": "Alan Empereur",
+        "firstName": "",
+        "lastName": "",
+        "slug": "alan-empereur",
+        "shortName": "A. Empereur",
+        "position": "D",
+        "jerseyNumber": "33",
+        "userCount": 214,
+        "id": 373740,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "آلان إمبيور"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "injury": true,
+      "id": 119962728,
+      "time": 88,
+      "isHome": false,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 3,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Diego Pituca",
+        "firstName": "",
+        "lastName": "",
+        "slug": "diego-pituca",
+        "shortName": "D. Pituca",
+        "position": "M",
+        "jerseyNumber": "21",
+        "userCount": 245,
+        "id": 866417
+      },
+      "playerName": "Diego Pituca",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119669981,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 5,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "jerseyNumber": "19",
+        "userCount": 783,
+        "id": 937552
+      },
+      "playerOut": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "id": 119962727,
+      "time": 75,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 16,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Mayke",
+        "slug": "mayke",
+        "shortName": "Mayke",
+        "position": "D",
+        "jerseyNumber": "12",
+        "userCount": 937,
+        "id": 273329,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايكي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Mayke",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119669984,
+      "time": 73,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 18,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 2,
+      "player": {
+        "name": "Marinho",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marinho",
+        "shortName": "Marinho",
+        "position": "M",
+        "jerseyNumber": "12",
+        "userCount": 2497,
+        "id": 798127
+      },
+      "id": 138215591,
+      "time": 71,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 20,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Bruno Marques",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bruno-marques",
+        "shortName": "Bruno Marques",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 113,
+        "id": 978517
+      },
+      "playerOut": {
+        "name": "Lucas Braga",
+        "slug": "lucas-braga",
+        "shortName": "L. Braga",
+        "position": "M",
+        "jerseyNumber": "30",
+        "userCount": 372,
+        "id": 934801
+      },
+      "injury": true,
+      "id": 119962724,
+      "time": 69,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 22,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Silva",
+        "firstName": "Gabriel Silva",
+        "lastName": "",
+        "slug": "gabriel-silva",
+        "shortName": "Gabriel Silva",
+        "position": "M",
+        "jerseyNumber": "49",
+        "userCount": 387,
+        "id": 1046794
+      },
+      "playerOut": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119962726,
+      "time": 67,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 24,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Emerson Santos",
+        "firstName": "",
+        "lastName": "",
+        "slug": "emerson-santos",
+        "shortName": "E. Santos",
+        "position": "D",
+        "userCount": 67,
+        "id": 844015
+      },
+      "playerName": "Emerson Santos",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119669983,
+      "time": 67,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 24,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 2,
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 138215593,
+      "time": 63,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 28,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Vinicius Balieiro",
+        "firstName": "Vinicius",
+        "lastName": "",
+        "slug": "vinicius-balieiro",
+        "shortName": "V. Balieiro",
+        "position": "M",
+        "jerseyNumber": "18",
+        "userCount": 148,
+        "id": 1065976
+      },
+      "playerOut": {
+        "name": "Alison",
+        "slug": "alison",
+        "shortName": "Alison",
+        "position": "M",
+        "jerseyNumber": "5",
+        "userCount": 199,
+        "id": 329201,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119962723,
+      "time": 60,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 31,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "playerName": "Lucas Lima",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119669982,
+      "time": 59,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 32,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 1,
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 8015,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 138215592,
+      "time": 55,
+      "isHome": false,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 36,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Lucas Veríssimo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "lucas-verissimo",
+        "shortName": "L. Veríssimo",
+        "position": "D",
+        "jerseyNumber": "3",
+        "userCount": 2086,
+        "id": 826343
+      },
+      "playerName": "Lucas Veríssimo",
+      "reason": "Handball",
+      "rescinded": false,
+      "id": 119669980,
+      "time": 54,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 37,
+      "incidentType": "card"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "isHome": false,
+      "id": 4120,
+      "time": 52,
+      "incidentClass": "penaltyNotAwarded",
+      "reversedPeriodTime": 39,
+      "incidentType": "varDecision"
+    },
+    {
+      "text": "HT",
+      "homeScore": 1,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 2,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Diego Pituca",
+        "firstName": "",
+        "lastName": "",
+        "slug": "diego-pituca",
+        "shortName": "D. Pituca",
+        "position": "M",
+        "jerseyNumber": "21",
+        "userCount": 245,
+        "id": 866417
+      },
+      "assist1": {
+        "name": "Kaio Jorge",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kaio-jorge",
+        "shortName": "K. Jorge",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 3076,
+        "id": 954888,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جورج, كايو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 138215590,
+      "time": 38,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 8,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Yeferson Soteldo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "yeferson-soteldo",
+        "shortName": "Y. Soteldo",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 3033,
+        "id": 789960,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سوتيلدو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Yeferson Soteldo",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119669979,
+      "time": 22,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 24,
+      "incidentType": "card"
+    }
+  ]
+}

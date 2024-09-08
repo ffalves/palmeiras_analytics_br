@@ -1,0 +1,264 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Bruno Alves",
+        "slug": "bruno-alves",
+        "shortName": "B. Alves",
+        "position": "D",
+        "userCount": 432,
+        "id": 551810
+      },
+      "playerName": "Bruno Alves",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119425379,
+      "time": 87,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 4,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Alexandre Pato",
+        "slug": "alexandre-pato",
+        "shortName": "A. Pato",
+        "position": "F",
+        "userCount": 2786,
+        "id": 32164
+      },
+      "playerOut": {
+        "name": "Pablo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pablo",
+        "shortName": "Pablo",
+        "position": "F",
+        "jerseyNumber": "92",
+        "userCount": 659,
+        "id": 374486
+      },
+      "id": 119574197,
+      "time": 83,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 8,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Patrick de Paula",
+        "firstName": "",
+        "lastName": "",
+        "slug": "patrick-de-paula",
+        "shortName": "Patrick de Paula",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 729,
+        "id": 1015291
+      },
+      "playerOut": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "jerseyNumber": "25",
+        "userCount": 1987,
+        "id": 974556
+      },
+      "id": 119574181,
+      "time": 79,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 12,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Éverton",
+        "firstName": "",
+        "lastName": "",
+        "slug": "everton",
+        "shortName": "Everton",
+        "position": "M",
+        "userCount": 334,
+        "id": 76526
+      },
+      "playerOut": {
+        "name": "Hernanes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hernanes",
+        "shortName": "Hernanes",
+        "position": "M",
+        "userCount": 469,
+        "id": 34335
+      },
+      "id": 119574146,
+      "time": 72,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 19,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "playerOut": {
+        "name": "Ramires",
+        "slug": "ramires",
+        "shortName": "Ramires",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 309,
+        "id": 33110
+      },
+      "id": 119574115,
+      "time": 67,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 24,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 2669,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119574110,
+      "time": 63,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 28,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Vitor Bueno",
+        "firstName": "",
+        "lastName": "",
+        "slug": "vitor-bueno",
+        "shortName": "Vitor Bueno",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 655,
+        "id": 808785
+      },
+      "playerName": "Vitor Bueno",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119425326,
+      "time": 53,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 38,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Liziero",
+        "slug": "liziero",
+        "shortName": "Liziero",
+        "position": "M",
+        "jerseyNumber": "28",
+        "userCount": 350,
+        "id": 822510
+      },
+      "playerOut": {
+        "name": "Helinho",
+        "firstName": "",
+        "lastName": "",
+        "slug": "helinho",
+        "shortName": "Helinho",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 517,
+        "id": 906837,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيلينو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119574060,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 3,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    }
+  ]
+}

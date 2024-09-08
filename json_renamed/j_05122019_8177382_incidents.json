@@ -1,0 +1,543 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 5,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "homeScore": 5,
+      "awayScore": 1,
+      "player": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 2669,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 127161742,
+      "time": 90,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 1,
+      "incidentType": "goal"
+    },
+    {
+      "length": 3,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Ramires",
+        "slug": "ramires",
+        "shortName": "Ramires",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 309,
+        "id": 33110
+      },
+      "playerOut": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "id": 119528923,
+      "time": 89,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 2,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Vinícius Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "vinicius-lopes",
+        "shortName": "V. Lopes",
+        "position": "F",
+        "jerseyNumber": "70",
+        "userCount": 83,
+        "id": 1001753
+      },
+      "playerOut": {
+        "name": "Rafael Moura",
+        "slug": "rafael-moura",
+        "shortName": "R. Moura",
+        "position": "F",
+        "userCount": 77,
+        "id": 23395
+      },
+      "id": 119528926,
+      "time": 86,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 4,
+      "awayScore": 1,
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 2669,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 127161741,
+      "time": 82,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 9,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Matheus Fernandes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "matheus-fernandes",
+        "shortName": "Matheus Fernandes",
+        "position": "M",
+        "jerseyNumber": "35",
+        "userCount": 1014,
+        "id": 840150
+      },
+      "playerName": "Matheus Fernandes",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119391270,
+      "time": 77,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 14,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 3,
+      "awayScore": 1,
+      "player": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 2669,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Jean",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jean",
+        "shortName": "Jean",
+        "position": "M",
+        "jerseyNumber": "17",
+        "userCount": 75,
+        "id": 39394
+      },
+      "id": 127161740,
+      "time": 70,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 21,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Jean",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jean",
+        "shortName": "Jean",
+        "position": "M",
+        "jerseyNumber": "17",
+        "userCount": 75,
+        "id": 39394
+      },
+      "playerOut": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 8015,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119528922,
+      "time": 69,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 22,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Weverton",
+        "slug": "weverton",
+        "shortName": "Weverton",
+        "position": "G",
+        "jerseyNumber": "21",
+        "userCount": 2685,
+        "id": 243529,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويفرتون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Weverton",
+      "reason": "Time wasting",
+      "rescinded": false,
+      "id": 119391269,
+      "time": 66,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 25,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Kaio Nunes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "kaio-nunes",
+        "shortName": "Kaio Nunes",
+        "position": "M",
+        "userCount": 38,
+        "id": 931809
+      },
+      "playerOut": {
+        "name": "Rafinha",
+        "slug": "rafinha",
+        "shortName": "Rafinha",
+        "position": "M",
+        "jerseyNumber": "17",
+        "userCount": 34,
+        "id": 329115
+      },
+      "id": 119528925,
+      "time": 58,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 33,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 2669,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 119528921,
+      "time": 58,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 33,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "playerName": "Zé Rafael",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119391268,
+      "time": 53,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 38,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Rafinha",
+        "slug": "rafinha",
+        "shortName": "Rafinha",
+        "position": "M",
+        "jerseyNumber": "17",
+        "userCount": 34,
+        "id": 329115
+      },
+      "playerName": "Rafinha",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119391271,
+      "time": 52,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 39,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Thalles",
+        "slug": "thalles",
+        "shortName": "Thalles",
+        "position": "M",
+        "userCount": 16,
+        "id": 870894
+      },
+      "playerOut": {
+        "name": "Yago",
+        "firstName": "",
+        "lastName": "",
+        "slug": "yago",
+        "shortName": "Yago",
+        "position": "D",
+        "jerseyNumber": "66",
+        "userCount": 7,
+        "id": 869533
+      },
+      "id": 119528924,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 2,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 3,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 1,
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 127161739,
+      "time": 34,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 12,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Edu Dracena",
+        "slug": "edu-dracena",
+        "shortName": "E. Dracena",
+        "position": "D",
+        "jerseyNumber": "3",
+        "userCount": 59,
+        "id": 18763
+      },
+      "playerName": "Edu Dracena",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119391267,
+      "time": 29,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 17,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 1,
+      "player": {
+        "name": "Rafael Moura",
+        "slug": "rafael-moura",
+        "shortName": "R. Moura",
+        "position": "F",
+        "userCount": 77,
+        "id": 23395
+      },
+      "id": 127161743,
+      "time": 27,
+      "isHome": false,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 19,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Diogo Barbosa",
+        "slug": "diogo-barbosa",
+        "shortName": "Diogo Barbosa",
+        "position": "D",
+        "jerseyNumber": "40",
+        "userCount": 343,
+        "id": 243107
+      },
+      "playerName": "Diogo Barbosa",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119391266,
+      "time": 26,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 20,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "assist1": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "id": 127161738,
+      "time": 22,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 24,
+      "incidentType": "goal"
+    }
+  ]
+}

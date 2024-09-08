@@ -1,0 +1,260 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Brasileirão Série A",
+      "slug": "brasileirao-serie-a",
+      "category": {
+        "name": "Brazil",
+        "slug": "brazil",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 13,
+        "flag": "brazil",
+        "alpha2": "BR"
+      },
+      "uniqueTournament": {
+        "name": "Brasileirão Série A",
+        "slug": "brasileirao-serie-a",
+        "primaryColorHex": "#C7FF00",
+        "secondaryColorHex": "#969696",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR"
+        },
+        "userCount": 291229,
+        "id": 325,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": true,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 442,
+      "competitionType": 1,
+      "id": 83
+    },
+    "season": {
+      "name": "Brasileirão Série A 2023",
+      "year": "2023",
+      "editor": false,
+      "seasonCoverageInfo": {},
+      "id": 48982
+    },
+    "roundInfo": {
+      "round": 34
+    },
+    "customId": "nOsqO",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 1,
+    "venue": {
+      "city": {
+        "name": "Sao Paulo"
+      },
+      "stadium": {
+        "name": "Allianz Parque",
+        "capacity": 45000
+      },
+      "id": 15699,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "referee": {
+      "name": "Paulo Cesar Zanovelli da Silva",
+      "slug": "paulo-cesar-zanovelli-da-silva",
+      "yellowCards": 328,
+      "redCards": 10,
+      "yellowRedCards": 15,
+      "games": 54,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 787819,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "homeTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209415,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 45000
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "awayTeam": {
+      "name": "Internacional",
+      "slug": "internacional",
+      "shortName": "Internacional",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 91821,
+      "manager": {
+        "name": "Eduardo Coudet",
+        "slug": "eduardo-coudet",
+        "shortName": "E. Coudet",
+        "id": 784639,
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Porto Alegre"
+        },
+        "stadium": {
+          "name": "Estadio Beira-Rio",
+          "capacity": 50842
+        },
+        "id": 3423,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "INT",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1966,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Internacional",
+      "teamColors": {
+        "primary": "#cc0000",
+        "secondary": "#cc0000",
+        "text": "#cc0000"
+      },
+      "foundationDateTimestamp": -1916956800
+    },
+    "homeScore": {
+      "current": 3,
+      "display": 3,
+      "period1": 1,
+      "period2": 2,
+      "normaltime": 3
+    },
+    "awayScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "time": {
+      "injuryTime1": 4,
+      "injuryTime2": 4,
+      "currentPeriodStartTimestamp": 1699751120
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type"
+      ],
+      "changeTimestamp": 1699754056
+    },
+    "hasGlobalHighlights": false,
+    "hasXg": true,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 11067527,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1699751120,
+    "startTimestamp": 1699747200,
+    "slug": "internacional-palmeiras",
+    "finalResultOnly": false,
+    "hasBet365LiveStream": true,
+    "bet365ExcludedCountryCodes": [
+      "BR",
+      "IR",
+      "GR",
+      "RU",
+      "CH",
+      "CA"
+    ],
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

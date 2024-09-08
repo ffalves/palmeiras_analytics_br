@@ -1,0 +1,256 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Club World Cup",
+      "slug": "club-world-cup",
+      "category": {
+        "name": "World",
+        "slug": "world",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1468,
+        "country": {},
+        "flag": "international"
+      },
+      "uniqueTournament": {
+        "name": "Club World Championship",
+        "slug": "club-world-championship",
+        "primaryColorHex": "#8d1536",
+        "secondaryColorHex": "#0bbda4",
+        "category": {
+          "name": "World",
+          "slug": "world",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1468,
+          "country": {},
+          "flag": "international"
+        },
+        "userCount": 190700,
+        "id": 357,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 472,
+      "competitionType": 2,
+      "id": 3888
+    },
+    "season": {
+      "name": "Club World Cup 2020",
+      "year": "2020",
+      "editor": false,
+      "id": 35183
+    },
+    "roundInfo": {
+      "round": 50,
+      "name": "Match for 3rd place",
+      "slug": "match-for-3rd-place"
+    },
+    "customId": "nOskNc",
+    "status": {
+      "code": 120,
+      "description": "AP",
+      "type": "finished"
+    },
+    "winnerCode": 1,
+    "venue": {
+      "city": {
+        "name": "Al Rayyan"
+      },
+      "stadium": {
+        "name": "Education City Stadium",
+        "capacity": 45350
+      },
+      "id": 30001,
+      "country": {
+        "alpha2": "QA",
+        "name": "Qatar"
+      }
+    },
+    "referee": {
+      "name": "Maguette N'Diaye",
+      "slug": "ndiaye-maguette",
+      "yellowCards": 16,
+      "redCards": 0,
+      "yellowRedCards": 0,
+      "games": 5,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 787178,
+      "country": {
+        "alpha2": "SN",
+        "name": "Senegal"
+      }
+    },
+    "homeTeam": {
+      "name": "Al Ahly FC",
+      "slug": "al-ahly-fc",
+      "shortName": "Al Ahly",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 256802,
+      "manager": {
+        "name": "Marcel Koller",
+        "slug": "marcel-koller",
+        "shortName": "M. Koller",
+        "id": 52831,
+        "country": {
+          "alpha2": "CH",
+          "name": "Switzerland"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Cairo"
+        },
+        "stadium": {
+          "name": "Al Ahly Stadium"
+        },
+        "id": 28083,
+        "country": {
+          "alpha2": "EG",
+          "name": "Egypt"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "AHL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 6910,
+      "country": {
+        "alpha2": "EG",
+        "name": "Egypt"
+      },
+      "subTeams": [],
+      "fullName": "Al Ahly FC",
+      "teamColors": {
+        "primary": "#cc0000",
+        "secondary": "#990000",
+        "text": "#990000"
+      },
+      "foundationDateTimestamp": -1978387200
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 3,
+      "display": 0,
+      "period1": 0,
+      "normaltime": 0,
+      "penalties": 3
+    },
+    "awayScore": {
+      "current": 2,
+      "display": 0,
+      "period1": 0,
+      "normaltime": 0,
+      "penalties": 2
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 2,
+      "injuryTime2": 3,
+      "currentPeriodStartTimestamp": 1613063364
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.display",
+        "homeScore.penalties",
+        "awayScore.display",
+        "awayScore.penalties"
+      ],
+      "changeTimestamp": 1613063368
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 9333608,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1613063364,
+    "startTimestamp": 1613055600,
+    "slug": "al-ahly-fc-palmeiras",
+    "finalResultOnly": false,
+    "cupMatchesInRound": 1,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 1,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Nino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nino",
+        "shortName": "Nino",
+        "position": "D",
+        "jerseyNumber": "33",
+        "userCount": 1559,
+        "id": 870788,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نينو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Nino",
+      "reason": "Time wasting",
+      "rescinded": false,
+      "id": 119383421,
+      "time": 90,
+      "addedTime": 3,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Weverton",
+        "slug": "weverton",
+        "shortName": "Weverton",
+        "position": "G",
+        "jerseyNumber": "21",
+        "userCount": 2685,
+        "id": 243529,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويفرتون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Weverton",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119383422,
+      "time": 90,
+      "addedTime": 3,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Danielzinho",
+        "slug": "danielzinho",
+        "shortName": "Danielzinho",
+        "position": "M",
+        "jerseyNumber": "20",
+        "userCount": 299,
+        "id": 840218
+      },
+      "playerName": "Danielzinho",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119383415,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 5,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Nenê",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nene",
+        "shortName": "Nenê",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 1182,
+        "id": 5672
+      },
+      "playerOut": {
+        "name": "Ganso",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ganso",
+        "shortName": "Ganso",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 1815,
+        "id": 116853,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غانسو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119518943,
+      "time": 84,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 7,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 2669,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119518946,
+      "time": 76,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 15,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Pablo Dyego",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pablo-dyego",
+        "shortName": "Pablo Dyego",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 64,
+        "id": 550248
+      },
+      "playerOut": {
+        "name": "Marcos Paulo",
+        "slug": "marcos-paulo",
+        "shortName": "M. Paulo",
+        "position": "M",
+        "jerseyNumber": "32",
+        "userCount": 989,
+        "id": 962027,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باولو, ماركوس"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119518942,
+      "time": 74,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 17,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Willian",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119383418,
+      "time": 72,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 19,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Victor Luis",
+        "firstName": "",
+        "lastName": "",
+        "slug": "victor-luis",
+        "shortName": "Victor Luis",
+        "position": "D",
+        "jerseyNumber": "26",
+        "userCount": 257,
+        "id": 252781
+      },
+      "playerName": "Victor Luis",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119383417,
+      "time": 65,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 26,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "playerOut": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 8015,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119518945,
+      "time": 57,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 34,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119518944,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 1,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 3,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Digão",
+        "slug": "digao",
+        "shortName": "Digão",
+        "position": "D",
+        "userCount": 52,
+        "id": 76491
+      },
+      "playerName": "Digão",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119383414,
+      "time": 44,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 2,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Hyoran",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119383416,
+      "time": 42,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 4,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Marcos Paulo",
+        "slug": "marcos-paulo",
+        "shortName": "M. Paulo",
+        "position": "M",
+        "jerseyNumber": "32",
+        "userCount": 989,
+        "id": 962027,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باولو, ماركوس"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 127085848,
+      "time": 38,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 8,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Dodi",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dodi",
+        "shortName": "Dodi",
+        "position": "M",
+        "jerseyNumber": "19",
+        "userCount": 256,
+        "id": 870804
+      },
+      "playerOut": {
+        "name": "Airton",
+        "slug": "airton",
+        "shortName": "Airton",
+        "position": "M",
+        "userCount": 17,
+        "id": 36685
+      },
+      "injury": true,
+      "id": 119518941,
+      "time": 12,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 34,
+      "incidentType": "substitution"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores",
+      "slug": "conmebol-libertadores",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 215551,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 594,
+      "competitionType": 2,
+      "id": 309
+    },
+    "season": {
+      "name": "Copa Libertadores 2019",
+      "year": "2019",
+      "editor": false,
+      "id": 19989
+    },
+    "roundInfo": {
+      "round": 4,
+      "name": "1/8",
+      "slug": "18",
+      "cupRoundType": 8
+    },
+    "customId": "nOszwc",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 3,
+    "venue": {
+      "city": {
+        "name": "Mendoza"
+      },
+      "stadium": {
+        "name": "Estadio Malvinas Argentinas"
+      },
+      "id": 15598,
+      "country": {
+        "alpha2": "AR",
+        "name": "Argentina"
+      }
+    },
+    "referee": {
+      "name": "Wilmar Roldan",
+      "slug": "wilmar-roldan",
+      "yellowCards": 1514,
+      "redCards": 80,
+      "yellowRedCards": 44,
+      "games": 292,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 52513,
+      "country": {
+        "alpha2": "CO",
+        "name": "Colombia"
+      }
+    },
+    "homeTeam": {
+      "name": "Godoy Cruz",
+      "slug": "godoy-cruz",
+      "shortName": "Godoy Cruz",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 12415,
+      "manager": {
+        "name": "Daniel Walter Oldra",
+        "slug": "daniel-walter-oldra",
+        "shortName": "D. W. Oldra",
+        "id": 292481,
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Mendoza"
+        },
+        "stadium": {
+          "name": "Estadio Malvinas Argentinas",
+          "capacity": 40628
+        },
+        "id": 2249,
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "GOD",
+      "national": false,
+      "type": 0,
+      "id": 6074,
+      "country": {
+        "alpha2": "AR",
+        "name": "Argentina"
+      },
+      "subTeams": [],
+      "fullName": "Godoy Cruz",
+      "teamColors": {
+        "primary": "#002593",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "foundationDateTimestamp": -1533254400
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 2,
+      "period2": 0,
+      "normaltime": 2
+    },
+    "awayScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 1,
+      "period2": 1,
+      "normaltime": 2
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 2,
+      "injuryTime2": 4,
+      "currentPeriodStartTimestamp": 1563934917
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.normaltime",
+        "awayScore.normaltime"
+      ],
+      "changeTimestamp": 1563934918
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 8218335,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1563934917,
+    "startTimestamp": 1563928200,
+    "slug": "godoy-cruz-palmeiras",
+    "finalResultOnly": false,
+    "hasBet365LiveStream": true,
+    "bet365ExcludedCountryCodes": [
+      "AR",
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC",
+      "PE",
+      "PY",
+      "UY",
+      "VE"
+    ],
+    "cupMatchesInRound": 2,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

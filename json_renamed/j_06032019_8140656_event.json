@@ -1,0 +1,253 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores, Group F",
+      "slug": "conmebol-libertadores-group-f",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 215551,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 588,
+      "competitionType": 1,
+      "id": 2933
+    },
+    "season": {
+      "name": "Copa Libertadores 2019",
+      "year": "2019",
+      "editor": false,
+      "id": 19989
+    },
+    "roundInfo": {
+      "round": 1
+    },
+    "customId": "nOsfxc",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 2,
+    "venue": {
+      "city": {
+        "name": "Barranquilla"
+      },
+      "stadium": {
+        "name": "Estadio Metropolitano Roberto Melendez",
+        "capacity": 46692
+      },
+      "id": 1594,
+      "country": {
+        "alpha2": "CO",
+        "name": "Colombia"
+      }
+    },
+    "referee": {
+      "name": "Daniel Fedorczuk",
+      "slug": "fedorczuk-daniel",
+      "yellowCards": 594,
+      "redCards": 14,
+      "yellowRedCards": 27,
+      "games": 122,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 786197,
+      "country": {
+        "alpha2": "UY",
+        "name": "Uruguay"
+      }
+    },
+    "homeTeam": {
+      "name": "Junior Barranquilla",
+      "slug": "junior-barranquilla",
+      "shortName": "Junior Barranquilla",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 19762,
+      "manager": {
+        "name": "Arturo Reyes",
+        "slug": "arturo-reyes",
+        "shortName": "A. Reyes",
+        "id": 790885,
+        "country": {
+          "alpha2": "CO",
+          "name": "Colombia"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Barranquilla"
+        },
+        "stadium": {
+          "name": "Estadio Metropolitano Roberto Melendez",
+          "capacity": 46692
+        },
+        "id": 1594,
+        "country": {
+          "alpha2": "CO",
+          "name": "Colombia"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "JUN",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 6105,
+      "country": {
+        "alpha2": "CO",
+        "name": "Colombia"
+      },
+      "subTeams": [],
+      "fullName": "Junior Barranquilla",
+      "teamColors": {
+        "primary": "#cc0000",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "foundationDateTimestamp": -1432771200
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "awayScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 1,
+      "period2": 1,
+      "normaltime": 2
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 1,
+      "injuryTime2": 4,
+      "currentPeriodStartTimestamp": 1551925310
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.normaltime",
+        "awayScore.normaltime"
+      ],
+      "changeTimestamp": 1551925312
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 8140656,
+    "homeRedCards": 1,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1551925310,
+    "startTimestamp": 1551918600,
+    "slug": "junior-barranquilla-palmeiras",
+    "finalResultOnly": false,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

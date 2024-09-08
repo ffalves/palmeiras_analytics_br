@@ -1,0 +1,244 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Supercopa do Brasil",
+      "slug": "supercopa-do-brasil",
+      "category": {
+        "name": "Brazil",
+        "slug": "brazil",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 13,
+        "flag": "brazil",
+        "alpha2": "BR"
+      },
+      "uniqueTournament": {
+        "name": "Supercopa do Brasil",
+        "slug": "supercopa-do-brasil",
+        "primaryColorHex": "#ffb100",
+        "secondaryColorHex": "#072a54",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR"
+        },
+        "userCount": 18142,
+        "id": 14602,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 0,
+      "competitionType": 2,
+      "id": 77690
+    },
+    "season": {
+      "name": "Supercopa do Brasil 2023",
+      "year": "2023",
+      "editor": false,
+      "id": 48263
+    },
+    "roundInfo": {
+      "round": 1,
+      "name": "Final",
+      "slug": "final",
+      "cupRoundType": 1
+    },
+    "customId": "nOsGuc",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 1,
+    "referee": {
+      "name": "Wilton Pereira Sampaio",
+      "slug": "pereira-sampaio-wilton",
+      "yellowCards": 1537,
+      "redCards": 39,
+      "yellowRedCards": 38,
+      "games": 304,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 243701,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "homeTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209415,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 45000
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "awayTeam": {
+      "name": "Flamengo",
+      "slug": "flamengo",
+      "shortName": "Flamengo",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 301401,
+      "manager": {
+        "name": "Tite",
+        "slug": "tite",
+        "shortName": "Tite",
+        "id": 784663,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Rio de Janeiro"
+        },
+        "stadium": {
+          "name": "Estádio do Maracanã",
+          "capacity": 78838
+        },
+        "id": 686,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "FLA",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 5981,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Flamengo",
+      "teamColors": {
+        "primary": "#ff0000",
+        "secondary": "#000000",
+        "text": "#000000"
+      },
+      "foundationDateTimestamp": -2339280000
+    },
+    "homeScore": {
+      "current": 4,
+      "display": 4,
+      "period1": 2,
+      "period2": 2,
+      "normaltime": 4
+    },
+    "awayScore": {
+      "current": 3,
+      "display": 3,
+      "period1": 1,
+      "period2": 2,
+      "normaltime": 3
+    },
+    "time": {
+      "injuryTime1": 7,
+      "injuryTime2": 10,
+      "currentPeriodStartTimestamp": 1674941959
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.period2",
+        "homeScore.normaltime",
+        "awayScore.period2",
+        "awayScore.normaltime",
+        "time.currentPeriodStart"
+      ],
+      "changeTimestamp": 1674941961
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 10987608,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1674941959,
+    "startTimestamp": 1674934200,
+    "slug": "flamengo-palmeiras",
+    "finalResultOnly": false,
+    "cupMatchesInRound": 1,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

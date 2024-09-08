@@ -1,0 +1,1207 @@
+{
+  "shotmap": [
+    {
+      "player": {
+        "name": "Nicolás Reniero",
+        "slug": "nicolas-reniero",
+        "shortName": "N. Reniero",
+        "position": "F",
+        "jerseyNumber": "38",
+        "userCount": 94,
+        "id": 992523
+      },
+      "isHome": false,
+      "shotType": "miss",
+      "situation": "free-kick",
+      "playerCoordinates": {
+        "x": 28.6,
+        "y": 45.4,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 36.1,
+        "z": 13.9
+      },
+      "id": 122667,
+      "time": 90,
+      "addedTime": 5,
+      "timeSeconds": 5677,
+      "draw": {
+        "start": {
+          "x": 45.4,
+          "y": 28.6
+        },
+        "end": {
+          "x": 63.9,
+          "y": 0
+        },
+        "goal": {
+          "x": 63.9,
+          "y": 86.1
+        }
+      },
+      "reversedPeriodTime": 1,
+      "reversedPeriodTimeSeconds": 623,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Felipe Melo",
+        "slug": "felipe-melo",
+        "shortName": "F. Melo",
+        "position": "D",
+        "jerseyNumber": "30",
+        "userCount": 1449,
+        "id": 4811
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "regular",
+      "playerCoordinates": {
+        "x": 31.1,
+        "y": 43.2,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "high-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 62.5,
+        "z": 87.5
+      },
+      "id": 122663,
+      "time": 86,
+      "timeSeconds": 5101,
+      "draw": {
+        "start": {
+          "x": 43.2,
+          "y": 31.1
+        },
+        "end": {
+          "x": 37.5,
+          "y": 0
+        },
+        "goal": {
+          "x": 37.5,
+          "y": 12.5
+        }
+      },
+      "reversedPeriodTime": 5,
+      "reversedPeriodTimeSeconds": 299,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Moisés",
+        "slug": "moises",
+        "shortName": "Moises",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 559,
+        "id": 243249
+      },
+      "isHome": true,
+      "shotType": "block",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 14,
+        "y": 29.5,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "blockCoordinates": {
+        "x": 8.6,
+        "y": 38.1,
+        "z": 0
+      },
+      "id": 122659,
+      "time": 85,
+      "timeSeconds": 5096,
+      "draw": {
+        "start": {
+          "x": 29.5,
+          "y": 14
+        },
+        "block": {
+          "x": 38.1,
+          "y": 8.6
+        }
+      },
+      "reversedPeriodTime": 6,
+      "reversedPeriodTimeSeconds": 304,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Fabricio Coloccini",
+        "slug": "fabricio-coloccini",
+        "shortName": "F. Coloccini",
+        "position": "D",
+        "jerseyNumber": "6",
+        "userCount": 46,
+        "id": 3057
+      },
+      "isHome": false,
+      "shotType": "miss",
+      "situation": "corner",
+      "playerCoordinates": {
+        "x": 8.4,
+        "y": 37,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 27.7,
+        "z": 15.3
+      },
+      "blockCoordinates": {
+        "x": 6.7,
+        "y": 52.5,
+        "z": 0
+      },
+      "id": 122655,
+      "time": 81,
+      "timeSeconds": 4800,
+      "draw": {
+        "start": {
+          "x": 37,
+          "y": 8.4
+        },
+        "block": {
+          "x": 52.5,
+          "y": 6.7
+        },
+        "end": {
+          "x": 72.3,
+          "y": 0
+        },
+        "goal": {
+          "x": 72.3,
+          "y": 84.7
+        }
+      },
+      "reversedPeriodTime": 10,
+      "reversedPeriodTimeSeconds": 600,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Marcelo Herrera",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcelo-herrera",
+        "shortName": "M. Herrera",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 215,
+        "id": 954700
+      },
+      "isHome": false,
+      "shotType": "block",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 17.9,
+        "y": 74.6,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "blockCoordinates": {
+        "x": 15.9,
+        "y": 72.8,
+        "z": 0
+      },
+      "id": 122653,
+      "time": 77,
+      "timeSeconds": 4580,
+      "draw": {
+        "start": {
+          "x": 74.6,
+          "y": 17.9
+        },
+        "block": {
+          "x": 72.8,
+          "y": 15.9
+        }
+      },
+      "reversedPeriodTime": 14,
+      "reversedPeriodTimeSeconds": 820,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "goal",
+      "goalType": "regular",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 22.9,
+        "y": 68.4,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "low-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 53.6,
+        "z": 14.6
+      },
+      "id": 122650,
+      "time": 69,
+      "timeSeconds": 4137,
+      "draw": {
+        "start": {
+          "x": 68.4,
+          "y": 22.9
+        },
+        "end": {
+          "x": 46.4,
+          "y": 0
+        },
+        "goal": {
+          "x": 46.4,
+          "y": 85.4
+        }
+      },
+      "reversedPeriodTime": 22,
+      "reversedPeriodTimeSeconds": 1263,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 8.5,
+        "y": 40.9,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "goalMouthLocation": "low-right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 47.7,
+        "z": 16.5
+      },
+      "blockCoordinates": {
+        "x": 1.5,
+        "y": 48,
+        "z": 0
+      },
+      "id": 122647,
+      "time": 69,
+      "timeSeconds": 4130,
+      "draw": {
+        "start": {
+          "x": 40.9,
+          "y": 8.5
+        },
+        "block": {
+          "x": 48,
+          "y": 1.5
+        },
+        "end": {
+          "x": 52.3,
+          "y": 0
+        },
+        "goal": {
+          "x": 52.3,
+          "y": 83.5
+        }
+      },
+      "reversedPeriodTime": 22,
+      "reversedPeriodTimeSeconds": 1270,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 30.5,
+        "y": 59.3,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "high",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 51.4,
+        "z": 61.1
+      },
+      "id": 122644,
+      "time": 67,
+      "timeSeconds": 3965,
+      "draw": {
+        "start": {
+          "x": 59.3,
+          "y": 30.5
+        },
+        "end": {
+          "x": 48.6,
+          "y": 0
+        },
+        "goal": {
+          "x": 48.6,
+          "y": 38.9
+        }
+      },
+      "reversedPeriodTime": 24,
+      "reversedPeriodTimeSeconds": 1435,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Moisés",
+        "slug": "moises",
+        "shortName": "Moises",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 559,
+        "id": 243249
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "throw-in-set-piece",
+      "playerCoordinates": {
+        "x": 10.7,
+        "y": 48.1,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "goalMouthLocation": "high-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 58.8,
+        "z": 65.3
+      },
+      "id": 122641,
+      "time": 66,
+      "timeSeconds": 3920,
+      "draw": {
+        "start": {
+          "x": 48.1,
+          "y": 10.7
+        },
+        "end": {
+          "x": 41.2,
+          "y": 0
+        },
+        "goal": {
+          "x": 41.2,
+          "y": 34.7
+        }
+      },
+      "reversedPeriodTime": 25,
+      "reversedPeriodTimeSeconds": 1480,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Moisés",
+        "slug": "moises",
+        "shortName": "Moises",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 559,
+        "id": 243249
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "fast-break",
+      "playerCoordinates": {
+        "x": 10.3,
+        "y": 46.2,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "low-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 50.4,
+        "z": 8.9
+      },
+      "blockCoordinates": {
+        "x": 8.5,
+        "y": 46.8,
+        "z": 0
+      },
+      "id": 122638,
+      "time": 57,
+      "timeSeconds": 3406,
+      "draw": {
+        "start": {
+          "x": 46.2,
+          "y": 10.3
+        },
+        "block": {
+          "x": 46.8,
+          "y": 8.5
+        },
+        "end": {
+          "x": 49.6,
+          "y": 0
+        },
+        "goal": {
+          "x": 49.6,
+          "y": 91.1
+        }
+      },
+      "reversedPeriodTime": 34,
+      "reversedPeriodTimeSeconds": 1994,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Gonzalo Rodríguez",
+        "slug": "gonzalo-rodriguez",
+        "shortName": "G. Rodríguez",
+        "position": "D",
+        "jerseyNumber": "2",
+        "userCount": 18,
+        "id": 5414
+      },
+      "isHome": false,
+      "shotType": "block",
+      "situation": "set-piece",
+      "playerCoordinates": {
+        "x": 10.2,
+        "y": 48.5,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "blockCoordinates": {
+        "x": 8.5,
+        "y": 48.7,
+        "z": 0
+      },
+      "id": 122635,
+      "time": 56,
+      "timeSeconds": 3352,
+      "draw": {
+        "start": {
+          "x": 48.5,
+          "y": 10.2
+        },
+        "block": {
+          "x": 48.7,
+          "y": 8.5
+        }
+      },
+      "reversedPeriodTime": 35,
+      "reversedPeriodTimeSeconds": 2048,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Miguel Borja",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-borja",
+        "shortName": "Miguel Borja",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 2347,
+        "id": 329601
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 10.8,
+        "y": 46.2,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "goalMouthLocation": "high-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 59.7,
+        "z": 77.8
+      },
+      "id": 122632,
+      "time": 53,
+      "timeSeconds": 3164,
+      "draw": {
+        "start": {
+          "x": 46.2,
+          "y": 10.8
+        },
+        "end": {
+          "x": 40.3,
+          "y": 0
+        },
+        "goal": {
+          "x": 40.3,
+          "y": 22.2
+        }
+      },
+      "reversedPeriodTime": 38,
+      "reversedPeriodTimeSeconds": 2236,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "regular",
+      "playerCoordinates": {
+        "x": 23.7,
+        "y": 39.3,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "high-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 57.8,
+        "z": 84.7
+      },
+      "id": 122629,
+      "time": 52,
+      "timeSeconds": 3095,
+      "draw": {
+        "start": {
+          "x": 39.3,
+          "y": 23.7
+        },
+        "end": {
+          "x": 42.2,
+          "y": 0
+        },
+        "goal": {
+          "x": 42.2,
+          "y": 15.3
+        }
+      },
+      "reversedPeriodTime": 39,
+      "reversedPeriodTimeSeconds": 2305,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Moisés",
+        "slug": "moises",
+        "shortName": "Moises",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 559,
+        "id": 243249
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "corner",
+      "playerCoordinates": {
+        "x": 22.3,
+        "y": 37.4,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "high-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 56,
+        "z": 80.6
+      },
+      "id": 122626,
+      "time": 48,
+      "timeSeconds": 2830,
+      "draw": {
+        "start": {
+          "x": 37.4,
+          "y": 22.3
+        },
+        "end": {
+          "x": 44,
+          "y": 0
+        },
+        "goal": {
+          "x": 44,
+          "y": 19.4
+        }
+      },
+      "reversedPeriodTime": 43,
+      "reversedPeriodTimeSeconds": 2570,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Victor Luis",
+        "firstName": "",
+        "lastName": "",
+        "slug": "victor-luis",
+        "shortName": "Victor Luis",
+        "position": "D",
+        "jerseyNumber": "26",
+        "userCount": 257,
+        "id": 252781
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 11.5,
+        "y": 30.1,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "low-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 51,
+        "z": 3.2
+      },
+      "blockCoordinates": {
+        "x": 0.5,
+        "y": 48,
+        "z": 0
+      },
+      "id": 122623,
+      "time": 45,
+      "addedTime": 2,
+      "timeSeconds": 2777,
+      "draw": {
+        "start": {
+          "x": 30.1,
+          "y": 11.5
+        },
+        "block": {
+          "x": 48,
+          "y": 0.5
+        },
+        "end": {
+          "x": 49,
+          "y": 0
+        },
+        "goal": {
+          "x": 49,
+          "y": 96.8
+        }
+      },
+      "reversedPeriodTime": 1,
+      "reversedPeriodTimeSeconds": 2623,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Mayke",
+        "slug": "mayke",
+        "shortName": "Mayke",
+        "position": "D",
+        "jerseyNumber": "12",
+        "userCount": 937,
+        "id": 273329,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايكي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 13.4,
+        "y": 73.2,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 73.8,
+        "z": 13.9
+      },
+      "blockCoordinates": {
+        "x": 5.1,
+        "y": 51.3,
+        "z": 0
+      },
+      "id": 122620,
+      "time": 43,
+      "timeSeconds": 2576,
+      "draw": {
+        "start": {
+          "x": 73.2,
+          "y": 13.4
+        },
+        "block": {
+          "x": 51.3,
+          "y": 5.1
+        },
+        "end": {
+          "x": 26.2,
+          "y": 0
+        },
+        "goal": {
+          "x": 26.2,
+          "y": 86.1
+        }
+      },
+      "reversedPeriodTime": 3,
+      "reversedPeriodTimeSeconds": 124,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 8015,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "throw-in-set-piece",
+      "playerCoordinates": {
+        "x": 12.6,
+        "y": 58.5,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 29.1,
+        "z": 23.6
+      },
+      "id": 122618,
+      "time": 41,
+      "timeSeconds": 2408,
+      "draw": {
+        "start": {
+          "x": 58.5,
+          "y": 12.6
+        },
+        "end": {
+          "x": 70.9,
+          "y": 0
+        },
+        "goal": {
+          "x": 70.9,
+          "y": 76.4
+        }
+      },
+      "reversedPeriodTime": 5,
+      "reversedPeriodTimeSeconds": 292,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 27.8,
+        "y": 70.7,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 65.4,
+        "z": 2.8
+      },
+      "id": 122616,
+      "time": 38,
+      "timeSeconds": 2268,
+      "draw": {
+        "start": {
+          "x": 70.7,
+          "y": 27.8
+        },
+        "end": {
+          "x": 34.6,
+          "y": 0
+        },
+        "goal": {
+          "x": 34.6,
+          "y": 97.2
+        }
+      },
+      "reversedPeriodTime": 8,
+      "reversedPeriodTimeSeconds": 432,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Nicolás Reniero",
+        "slug": "nicolas-reniero",
+        "shortName": "N. Reniero",
+        "position": "F",
+        "jerseyNumber": "38",
+        "userCount": 94,
+        "id": 992523
+      },
+      "isHome": false,
+      "shotType": "block",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 9.5,
+        "y": 51.1,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "blockCoordinates": {
+        "x": 7.1,
+        "y": 51.4,
+        "z": 0
+      },
+      "id": 122615,
+      "time": 38,
+      "timeSeconds": 2225,
+      "draw": {
+        "start": {
+          "x": 51.1,
+          "y": 9.5
+        },
+        "block": {
+          "x": 51.4,
+          "y": 7.1
+        }
+      },
+      "reversedPeriodTime": 8,
+      "reversedPeriodTimeSeconds": 475,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "block",
+      "situation": "set-piece",
+      "playerCoordinates": {
+        "x": 11.2,
+        "y": 64.7,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "blockCoordinates": {
+        "x": 9.7,
+        "y": 62.5,
+        "z": 0
+      },
+      "id": 122614,
+      "time": 31,
+      "timeSeconds": 1842,
+      "draw": {
+        "start": {
+          "x": 64.7,
+          "y": 11.2
+        },
+        "block": {
+          "x": 62.5,
+          "y": 9.7
+        }
+      },
+      "reversedPeriodTime": 15,
+      "reversedPeriodTimeSeconds": 858,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Miguel Borja",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-borja",
+        "shortName": "Miguel Borja",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 2347,
+        "id": 329601
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "corner",
+      "playerCoordinates": {
+        "x": 5.8,
+        "y": 60.5,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "goalMouthLocation": "close-right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 42.5,
+        "z": 31.9
+      },
+      "id": 122613,
+      "time": 29,
+      "timeSeconds": 1731,
+      "draw": {
+        "start": {
+          "x": 60.5,
+          "y": 5.8
+        },
+        "end": {
+          "x": 57.5,
+          "y": 0
+        },
+        "goal": {
+          "x": 57.5,
+          "y": 68.1
+        }
+      },
+      "reversedPeriodTime": 17,
+      "reversedPeriodTimeSeconds": 969,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Moisés",
+        "slug": "moises",
+        "shortName": "Moises",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 559,
+        "id": 243249
+      },
+      "isHome": true,
+      "shotType": "block",
+      "situation": "regular",
+      "playerCoordinates": {
+        "x": 29,
+        "y": 39.9,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "blockCoordinates": {
+        "x": 1.4,
+        "y": 51.6,
+        "z": 0
+      },
+      "id": 122612,
+      "time": 29,
+      "timeSeconds": 1685,
+      "draw": {
+        "start": {
+          "x": 39.9,
+          "y": 29
+        },
+        "block": {
+          "x": 51.6,
+          "y": 1.4
+        }
+      },
+      "reversedPeriodTime": 17,
+      "reversedPeriodTimeSeconds": 1015,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Marcelo Herrera",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcelo-herrera",
+        "shortName": "M. Herrera",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 215,
+        "id": 954700
+      },
+      "isHome": false,
+      "shotType": "save",
+      "situation": "regular",
+      "playerCoordinates": {
+        "x": 34.1,
+        "y": 72.6,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "high-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 51.6,
+        "z": 31.6
+      },
+      "blockCoordinates": {
+        "x": 1.8,
+        "y": 50.9,
+        "z": 0
+      },
+      "id": 122611,
+      "time": 10,
+      "timeSeconds": 542,
+      "draw": {
+        "start": {
+          "x": 72.6,
+          "y": 34.1
+        },
+        "block": {
+          "x": 50.9,
+          "y": 1.8
+        },
+        "end": {
+          "x": 48.4,
+          "y": 0
+        },
+        "goal": {
+          "x": 48.4,
+          "y": 68.4
+        }
+      },
+      "reversedPeriodTime": 36,
+      "reversedPeriodTimeSeconds": 2158,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 8015,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 27.5,
+        "y": 61.8,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 71.1,
+        "z": 4.2
+      },
+      "id": 122610,
+      "time": 7,
+      "timeSeconds": 378,
+      "draw": {
+        "start": {
+          "x": 61.8,
+          "y": 27.5
+        },
+        "end": {
+          "x": 28.9,
+          "y": 0
+        },
+        "goal": {
+          "x": 28.9,
+          "y": 95.8
+        }
+      },
+      "reversedPeriodTime": 39,
+      "reversedPeriodTimeSeconds": 2322,
+      "incidentType": "shot"
+    }
+  ]
+}

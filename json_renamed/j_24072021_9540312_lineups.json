@@ -1,0 +1,1723 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Weverton",
+          "slug": "weverton",
+          "shortName": "Weverton",
+          "position": "G",
+          "jerseyNumber": "21",
+          "userCount": 2685,
+          "id": 243529,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 566352000,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ويفرتون"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 21,
+        "jerseyNumber": "21",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 21,
+          "accuratePass": 11,
+          "totalLongBalls": 13,
+          "accurateLongBalls": 5,
+          "duelLost": 1,
+          "challengeLost": 1,
+          "goodHighClaim": 1,
+          "savedShotsFromInsideTheBox": 1,
+          "saves": 2,
+          "minutesPlayed": 90,
+          "touches": 31,
+          "rating": 7.1,
+          "possessionLostCtrl": 11
+        }
+      },
+      {
+        "player": {
+          "name": "Marcos Rocha",
+          "firstName": "",
+          "lastName": "",
+          "slug": "marcos-rocha",
+          "shortName": "Marcos Rocha",
+          "position": "D",
+          "jerseyNumber": "2",
+          "userCount": 976,
+          "id": 82576,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 597801600
+        },
+        "shirtNumber": 2,
+        "jerseyNumber": "2",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 52,
+          "accuratePass": 46,
+          "totalLongBalls": 10,
+          "accurateLongBalls": 6,
+          "totalCross": 1,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 5,
+          "challengeLost": 2,
+          "totalClearance": 1,
+          "outfielderBlock": 1,
+          "interceptionWon": 2,
+          "totalTackle": 4,
+          "minutesPlayed": 90,
+          "touches": 76,
+          "rating": 7.5,
+          "possessionLostCtrl": 11
+        }
+      },
+      {
+        "player": {
+          "name": "Felipe Melo",
+          "slug": "felipe-melo",
+          "shortName": "F. Melo",
+          "position": "D",
+          "jerseyNumber": "30",
+          "userCount": 1449,
+          "id": 4811,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 425433600
+        },
+        "shirtNumber": 30,
+        "jerseyNumber": "30",
+        "position": "D",
+        "substitute": false,
+        "captain": true,
+        "statistics": {
+          "totalPass": 61,
+          "accuratePass": 53,
+          "totalLongBalls": 13,
+          "accurateLongBalls": 8,
+          "aerialWon": 4,
+          "duelLost": 1,
+          "duelWon": 8,
+          "challengeLost": 1,
+          "totalClearance": 5,
+          "totalTackle": 4,
+          "minutesPlayed": 90,
+          "touches": 71,
+          "rating": 7.5,
+          "possessionLostCtrl": 9
+        }
+      },
+      {
+        "player": {
+          "name": "Gustavo Gómez",
+          "firstName": "",
+          "lastName": "",
+          "slug": "gustavo-gomez",
+          "shortName": "G. Gómez",
+          "position": "D",
+          "jerseyNumber": "15",
+          "userCount": 2799,
+          "id": 220833,
+          "country": {
+            "alpha2": "PY",
+            "name": "Paraguay"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 736646400,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "غوميز"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 15,
+        "jerseyNumber": "15",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 54,
+          "accuratePass": 54,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 4,
+          "aerialLost": 2,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 2,
+          "totalClearance": 5,
+          "interceptionWon": 1,
+          "wasFouled": 1,
+          "fouls": 2,
+          "minutesPlayed": 90,
+          "touches": 62,
+          "rating": 7.2
+        }
+      },
+      {
+        "player": {
+          "name": "Renan",
+          "firstName": "",
+          "lastName": "",
+          "slug": "renan",
+          "shortName": "Renan",
+          "position": "D",
+          "jerseyNumber": "13",
+          "userCount": 304,
+          "id": 1002510,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1021766400
+        },
+        "shirtNumber": 3,
+        "jerseyNumber": "3",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 58,
+          "accuratePass": 50,
+          "totalLongBalls": 7,
+          "accurateLongBalls": 4,
+          "aerialLost": 2,
+          "aerialWon": 2,
+          "duelLost": 4,
+          "duelWon": 7,
+          "challengeLost": 2,
+          "shotOffTarget": 1,
+          "blockedScoringAttempt": 1,
+          "totalClearance": 2,
+          "interceptionWon": 2,
+          "totalTackle": 5,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 79,
+          "rating": 7.3,
+          "possessionLostCtrl": 9,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Danilo",
+          "firstName": "",
+          "lastName": "",
+          "slug": "danilo",
+          "shortName": "Danilo",
+          "position": "M",
+          "jerseyNumber": "28",
+          "userCount": 3809,
+          "id": 1064039,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 988502400,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أوليفيرا ، دانيلو"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 28,
+        "jerseyNumber": "28",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 62,
+          "accuratePass": 57,
+          "totalLongBalls": 6,
+          "accurateLongBalls": 4,
+          "aerialWon": 2,
+          "duelLost": 3,
+          "duelWon": 5,
+          "challengeLost": 1,
+          "dispossessed": 1,
+          "totalClearance": 2,
+          "interceptionWon": 6,
+          "totalTackle": 2,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 76,
+          "rating": 7.3,
+          "possessionLostCtrl": 6,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Zé Rafael",
+          "slug": "ze-rafael",
+          "shortName": "Z. Rafael",
+          "position": "M",
+          "jerseyNumber": "8",
+          "userCount": 1391,
+          "id": 329069,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 740188800
+        },
+        "shirtNumber": 8,
+        "jerseyNumber": "8",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 56,
+          "accuratePass": 53,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 3,
+          "aerialLost": 1,
+          "aerialWon": 2,
+          "duelLost": 11,
+          "duelWon": 8,
+          "challengeLost": 3,
+          "dispossessed": 2,
+          "totalContest": 5,
+          "wonContest": 3,
+          "shotOffTarget": 1,
+          "totalClearance": 3,
+          "clearanceOffLine": 1,
+          "outfielderBlock": 2,
+          "interceptionWon": 2,
+          "totalTackle": 1,
+          "wasFouled": 2,
+          "fouls": 3,
+          "minutesPlayed": 89,
+          "touches": 81,
+          "rating": 7.5,
+          "possessionLostCtrl": 12
+        }
+      },
+      {
+        "player": {
+          "name": "Raphael Veiga",
+          "firstName": "",
+          "lastName": "",
+          "slug": "raphael-veiga",
+          "shortName": "Raphael Veiga",
+          "position": "M",
+          "jerseyNumber": "23",
+          "userCount": 8015,
+          "id": 840020,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 803520000,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "رافائيل فييغا"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 23,
+        "jerseyNumber": "23",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 34,
+          "accuratePass": 29,
+          "totalLongBalls": 3,
+          "accurateLongBalls": 2,
+          "totalCross": 3,
+          "duelLost": 5,
+          "duelWon": 1,
+          "challengeLost": 1,
+          "dispossessed": 3,
+          "totalContest": 1,
+          "shotOffTarget": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 76,
+          "touches": 49,
+          "rating": 6.7,
+          "possessionLostCtrl": 13,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Gustavo Scarpa",
+          "firstName": "",
+          "lastName": "",
+          "slug": "gustavo-scarpa",
+          "shortName": "Gustavo Scarpa",
+          "position": "M",
+          "jerseyNumber": "31",
+          "userCount": 6377,
+          "id": 559036,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 757728000,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سكاربا, غوستافو"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 14,
+        "jerseyNumber": "14",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 20,
+          "accuratePass": 16,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 2,
+          "totalCross": 6,
+          "accurateCross": 3,
+          "duelLost": 3,
+          "duelWon": 1,
+          "dispossessed": 3,
+          "blockedScoringAttempt": 1,
+          "wasFouled": 1,
+          "totalOffside": 1,
+          "minutesPlayed": 61,
+          "touches": 33,
+          "rating": 6.8,
+          "possessionLostCtrl": 11,
+          "keyPass": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Wesley",
+          "firstName": "",
+          "lastName": "",
+          "slug": "wesley",
+          "shortName": "Wesley",
+          "position": "F",
+          "jerseyNumber": "11",
+          "userCount": 697,
+          "id": 985766,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 922752000
+        },
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 17,
+          "accuratePass": 14,
+          "totalCross": 2,
+          "aerialLost": 1,
+          "duelLost": 8,
+          "duelWon": 2,
+          "challengeLost": 1,
+          "dispossessed": 2,
+          "totalContest": 2,
+          "wonContest": 1,
+          "shotOffTarget": 1,
+          "wasFouled": 1,
+          "fouls": 3,
+          "minutesPlayed": 61,
+          "touches": 25,
+          "rating": 6.4,
+          "possessionLostCtrl": 8
+        }
+      },
+      {
+        "player": {
+          "name": "Deyverson",
+          "firstName": "",
+          "lastName": "",
+          "slug": "deyverson",
+          "shortName": "Deyverson",
+          "position": "F",
+          "jerseyNumber": "16",
+          "userCount": 1846,
+          "id": 270287,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 673660800,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ديفيرسون"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 16,
+        "jerseyNumber": "16",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 14,
+          "accuratePass": 7,
+          "aerialLost": 1,
+          "aerialWon": 2,
+          "duelLost": 3,
+          "duelWon": 2,
+          "challengeLost": 1,
+          "totalContest": 1,
+          "blockedScoringAttempt": 1,
+          "minutesPlayed": 61,
+          "touches": 19,
+          "rating": 6.4,
+          "possessionLostCtrl": 10
+        }
+      },
+      {
+        "player": {
+          "name": "Dudu",
+          "firstName": "",
+          "lastName": "",
+          "slug": "dudu",
+          "shortName": "Dudu",
+          "position": "M",
+          "jerseyNumber": "7",
+          "userCount": 4183,
+          "id": 147464,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 694742400,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دودو"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 43,
+        "jerseyNumber": "43",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 15,
+          "accuratePass": 9,
+          "totalLongBalls": 1,
+          "totalCross": 2,
+          "accurateCross": 1,
+          "aerialWon": 2,
+          "duelWon": 3,
+          "bigChanceCreated": 1,
+          "blockedScoringAttempt": 1,
+          "totalClearance": 2,
+          "wasFouled": 1,
+          "minutesPlayed": 29,
+          "touches": 21,
+          "rating": 7.1,
+          "possessionLostCtrl": 7,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Willian",
+          "firstName": "",
+          "lastName": "",
+          "slug": "willian",
+          "shortName": "Willian",
+          "position": "F",
+          "jerseyNumber": "11",
+          "userCount": 606,
+          "id": 146308,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 532742400,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ويليان"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 29,
+        "jerseyNumber": "29",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 6,
+          "accuratePass": 4,
+          "totalLongBalls": 1,
+          "duelLost": 1,
+          "bigChanceMissed": 1,
+          "onTargetScoringAttempt": 1,
+          "fouls": 1,
+          "totalOffside": 1,
+          "minutesPlayed": 29,
+          "touches": 9,
+          "rating": 6.2,
+          "possessionLostCtrl": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Breno Lopes",
+          "firstName": "",
+          "lastName": "",
+          "slug": "breno-lopes",
+          "shortName": "Breno Lopes",
+          "position": "F",
+          "jerseyNumber": "19",
+          "userCount": 783,
+          "id": 937552,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 822441600
+        },
+        "shirtNumber": 19,
+        "jerseyNumber": "19",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 7,
+          "accuratePass": 7,
+          "totalCross": 1,
+          "duelLost": 3,
+          "totalContest": 1,
+          "fouls": 2,
+          "minutesPlayed": 29,
+          "touches": 9,
+          "rating": 6.5,
+          "possessionLostCtrl": 2,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Patrick de Paula",
+          "firstName": "",
+          "lastName": "",
+          "slug": "patrick-de-paula",
+          "shortName": "Patrick de Paula",
+          "position": "M",
+          "jerseyNumber": "8",
+          "userCount": 729,
+          "id": 1015291,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 936748800
+        },
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 5,
+          "accuratePass": 5,
+          "duelWon": 1,
+          "shotOffTarget": 1,
+          "totalClearance": 1,
+          "outfielderBlock": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 14,
+          "touches": 9,
+          "rating": 6.8
+        }
+      },
+      {
+        "player": {
+          "name": "Victor Luis",
+          "firstName": "",
+          "lastName": "",
+          "slug": "victor-luis",
+          "shortName": "Victor Luis",
+          "position": "D",
+          "jerseyNumber": "26",
+          "userCount": 257,
+          "id": 252781,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 740793600
+        },
+        "shirtNumber": 26,
+        "jerseyNumber": "26",
+        "position": "D",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 2,
+          "totalLongBalls": 2,
+          "minutesPlayed": 1,
+          "touches": 2,
+          "possessionLostCtrl": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Jailson",
+          "slug": "jailson",
+          "shortName": "Jailson",
+          "position": "G",
+          "jerseyNumber": "49",
+          "userCount": 228,
+          "id": 25263,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 364435200
+        },
+        "shirtNumber": 42,
+        "jerseyNumber": "42",
+        "position": "G",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Benjamin Kuscevic",
+          "firstName": "",
+          "lastName": "",
+          "slug": "benjamin-kuscevic",
+          "shortName": "B. Kuscevic",
+          "position": "D",
+          "jerseyNumber": "13",
+          "userCount": 965,
+          "id": 590324,
+          "country": {
+            "alpha2": "CL",
+            "name": "Chile"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 830995200
+        },
+        "shirtNumber": 4,
+        "jerseyNumber": "4",
+        "position": "D",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Mayke",
+          "slug": "mayke",
+          "shortName": "Mayke",
+          "position": "D",
+          "jerseyNumber": "12",
+          "userCount": 937,
+          "id": 273329,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 721353600,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مايكي"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 12,
+        "jerseyNumber": "12",
+        "position": "D",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Lucas Lima",
+          "slug": "lucas-lima",
+          "shortName": "L. Lima",
+          "position": "M",
+          "jerseyNumber": "23",
+          "userCount": 988,
+          "id": 244589,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 647481600
+        },
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Danilo Barbosa",
+          "firstName": "",
+          "lastName": "",
+          "slug": "danilo-barbosa",
+          "shortName": "Danilo Barbosa",
+          "position": "M",
+          "jerseyNumber": "5",
+          "userCount": 348,
+          "id": 330063,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 825465600,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "دانيلو"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 18,
+        "jerseyNumber": "18",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Gabriel Veron",
+          "slug": "gabriel-veron",
+          "shortName": "G. Veron",
+          "position": "F",
+          "jerseyNumber": "7",
+          "userCount": 2669,
+          "id": 1002819,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1031011200,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "فيرون"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 27,
+        "jerseyNumber": "27",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      }
+    ],
+    "supportStaff": [],
+    "formation": "4-2-3-1",
+    "playerColor": {
+      "primary": "00573a",
+      "number": "ffffff",
+      "outline": "00573a",
+      "fancyNumber": "ffffff"
+    },
+    "goalkeeperColor": {
+      "primary": "fffa00",
+      "number": "000000",
+      "outline": "fffa00",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Marcos Felipe",
+          "firstName": "",
+          "lastName": "",
+          "slug": "marcos-felipe",
+          "shortName": "Marcos Felipe",
+          "position": "G",
+          "jerseyNumber": "22",
+          "userCount": 295,
+          "id": 358524,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 829353600
+        },
+        "shirtNumber": 1,
+        "jerseyNumber": "1",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 21,
+          "accuratePass": 17,
+          "totalLongBalls": 9,
+          "accurateLongBalls": 5,
+          "goodHighClaim": 1,
+          "savedShotsFromInsideTheBox": 1,
+          "saves": 1,
+          "minutesPlayed": 90,
+          "touches": 26,
+          "rating": 6.6,
+          "possessionLostCtrl": 5
+        }
+      },
+      {
+        "player": {
+          "name": "Samuel Xavier",
+          "firstName": "",
+          "lastName": "",
+          "slug": "xavier-samuel",
+          "shortName": "S. Xavier",
+          "position": "D",
+          "jerseyNumber": "2",
+          "userCount": 436,
+          "id": 795773,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 644630400,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كزافيه, سامويل"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 2,
+        "jerseyNumber": "2",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 47,
+          "accuratePass": 44,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 1,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 7,
+          "totalContest": 1,
+          "onTargetScoringAttempt": 1,
+          "totalClearance": 3,
+          "interceptionWon": 1,
+          "totalTackle": 3,
+          "wasFouled": 3,
+          "minutesPlayed": 90,
+          "touches": 68,
+          "rating": 6.9,
+          "possessionLostCtrl": 8
+        }
+      },
+      {
+        "player": {
+          "name": "Manoel",
+          "firstName": "",
+          "lastName": "",
+          "slug": "manoel",
+          "shortName": "Manoel",
+          "position": "D",
+          "jerseyNumber": "26",
+          "userCount": 311,
+          "id": 84845,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 635990400
+        },
+        "shirtNumber": 26,
+        "jerseyNumber": "26",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 45,
+          "accuratePass": 43,
+          "totalLongBalls": 5,
+          "accurateLongBalls": 4,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 2,
+          "shotOffTarget": 1,
+          "totalClearance": 2,
+          "totalTackle": 1,
+          "ownGoals": 1,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 54,
+          "rating": 6.5,
+          "possessionLostCtrl": 3
+        }
+      },
+      {
+        "player": {
+          "name": "David Braz",
+          "firstName": "",
+          "lastName": "",
+          "slug": "david-braz",
+          "shortName": "D. Braz",
+          "position": "D",
+          "jerseyNumber": "44",
+          "userCount": 320,
+          "id": 46942,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 548553600
+        },
+        "shirtNumber": 44,
+        "jerseyNumber": "44",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 54,
+          "accuratePass": 49,
+          "totalLongBalls": 7,
+          "accurateLongBalls": 3,
+          "aerialLost": 2,
+          "aerialWon": 2,
+          "duelLost": 2,
+          "duelWon": 5,
+          "totalContest": 2,
+          "wonContest": 2,
+          "blockedScoringAttempt": 1,
+          "totalClearance": 4,
+          "outfielderBlock": 1,
+          "totalTackle": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 67,
+          "rating": 7.1,
+          "possessionLostCtrl": 6
+        }
+      },
+      {
+        "player": {
+          "name": "Egídio",
+          "firstName": "",
+          "lastName": "",
+          "slug": "egidio",
+          "shortName": "Egídio",
+          "position": "D",
+          "jerseyNumber": "16",
+          "userCount": 162,
+          "id": 34147,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 519264000
+        },
+        "shirtNumber": 6,
+        "jerseyNumber": "6",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 51,
+          "accuratePass": 45,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 1,
+          "totalCross": 9,
+          "duelLost": 1,
+          "totalContest": 1,
+          "totalClearance": 3,
+          "interceptionWon": 1,
+          "minutesPlayed": 90,
+          "touches": 78,
+          "rating": 6.7,
+          "possessionLostCtrl": 19,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Yago Felipe",
+          "firstName": "",
+          "lastName": "",
+          "slug": "yago-felipe",
+          "shortName": "Yago Felipe",
+          "position": "M",
+          "jerseyNumber": "20",
+          "userCount": 175,
+          "id": 552164,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 791769600
+        },
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 37,
+          "accuratePass": 33,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 2,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "duelLost": 5,
+          "duelWon": 9,
+          "challengeLost": 1,
+          "totalContest": 3,
+          "wonContest": 1,
+          "shotOffTarget": 1,
+          "onTargetScoringAttempt": 1,
+          "outfielderBlock": 1,
+          "interceptionWon": 4,
+          "totalTackle": 6,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 82,
+          "touches": 60,
+          "rating": 7.4,
+          "possessionLostCtrl": 9
+        }
+      },
+      {
+        "player": {
+          "name": "Matheus Martinelli",
+          "firstName": "",
+          "lastName": "",
+          "slug": "martinelli-matheus",
+          "shortName": "M. Martinelli",
+          "position": "M",
+          "jerseyNumber": "8",
+          "userCount": 893,
+          "id": 1067671,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1002240000
+        },
+        "shirtNumber": 38,
+        "jerseyNumber": "38",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 72,
+          "accuratePass": 66,
+          "totalLongBalls": 8,
+          "accurateLongBalls": 6,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 2,
+          "duelWon": 3,
+          "challengeLost": 1,
+          "totalClearance": 1,
+          "interceptionWon": 1,
+          "totalTackle": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 80,
+          "rating": 6.8,
+          "possessionLostCtrl": 7
+        }
+      },
+      {
+        "player": {
+          "name": "Caio Paulista",
+          "slug": "caio-paulista",
+          "shortName": "C. Paulista",
+          "position": "D",
+          "jerseyNumber": "38",
+          "userCount": 833,
+          "id": 931591,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 894844800
+        },
+        "shirtNumber": 70,
+        "jerseyNumber": "70",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 16,
+          "accuratePass": 14,
+          "aerialLost": 2,
+          "aerialWon": 2,
+          "duelLost": 6,
+          "duelWon": 7,
+          "challengeLost": 1,
+          "dispossessed": 2,
+          "totalContest": 2,
+          "wonContest": 2,
+          "totalTackle": 1,
+          "wasFouled": 3,
+          "fouls": 1,
+          "minutesPlayed": 51,
+          "touches": 29,
+          "rating": 6.5,
+          "possessionLostCtrl": 8
+        }
+      },
+      {
+        "player": {
+          "name": "Nenê",
+          "firstName": "",
+          "lastName": "",
+          "slug": "nene",
+          "shortName": "Nenê",
+          "position": "M",
+          "jerseyNumber": "10",
+          "userCount": 1182,
+          "id": 5672,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 364348800
+        },
+        "shirtNumber": 77,
+        "jerseyNumber": "77",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 36,
+          "accuratePass": 30,
+          "totalLongBalls": 2,
+          "totalCross": 4,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "duelLost": 4,
+          "duelWon": 2,
+          "dispossessed": 2,
+          "bigChanceCreated": 1,
+          "totalTackle": 1,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 71,
+          "touches": 51,
+          "rating": 6.7,
+          "possessionLostCtrl": 16,
+          "keyPass": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Biel",
+          "firstName": "Biel",
+          "lastName": "",
+          "slug": "biel",
+          "shortName": "Biel",
+          "position": "F",
+          "jerseyNumber": "10",
+          "userCount": 605,
+          "id": 1106140,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 986083200
+        },
+        "shirtNumber": 39,
+        "jerseyNumber": "39",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 26,
+          "accuratePass": 25,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "duelLost": 4,
+          "duelWon": 4,
+          "dispossessed": 1,
+          "totalContest": 5,
+          "wonContest": 3,
+          "bigChanceMissed": 2,
+          "shotOffTarget": 1,
+          "onTargetScoringAttempt": 1,
+          "blockedScoringAttempt": 1,
+          "totalClearance": 1,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "totalTackle": 1,
+          "fouls": 1,
+          "minutesPlayed": 83,
+          "touches": 44,
+          "rating": 6.3,
+          "possessionLostCtrl": 7
+        }
+      },
+      {
+        "player": {
+          "name": "Fred",
+          "firstName": "",
+          "lastName": "",
+          "slug": "fred",
+          "shortName": "Fred",
+          "position": "F",
+          "jerseyNumber": "99",
+          "userCount": 757,
+          "id": 12764,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 433987200
+        },
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "position": "F",
+        "substitute": false,
+        "captain": true,
+        "statistics": {
+          "totalPass": 24,
+          "accuratePass": 21,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 2,
+          "aerialLost": 3,
+          "duelLost": 5,
+          "duelWon": 1,
+          "totalContest": 2,
+          "wonContest": 1,
+          "totalClearance": 1,
+          "outfielderBlock": 1,
+          "fouls": 1,
+          "totalOffside": 1,
+          "minutesPlayed": 71,
+          "touches": 31,
+          "rating": 6.6,
+          "possessionLostCtrl": 6
+        }
+      },
+      {
+        "player": {
+          "name": "Luiz Henrique",
+          "firstName": "Luiz Henrique",
+          "lastName": "",
+          "slug": "luiz-henrique",
+          "shortName": "L. Henrique",
+          "position": "M",
+          "jerseyNumber": "11",
+          "userCount": 2683,
+          "id": 1035995,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 978393600,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "لويس هنريكي"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 34,
+        "jerseyNumber": "34",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 8,
+          "accuratePass": 7,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "duelLost": 4,
+          "duelWon": 5,
+          "dispossessed": 2,
+          "totalContest": 3,
+          "wonContest": 3,
+          "totalTackle": 1,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 39,
+          "touches": 22,
+          "rating": 6.7,
+          "possessionLostCtrl": 7,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Juan Cazares",
+          "firstName": "",
+          "lastName": "",
+          "slug": "juan-cazares",
+          "shortName": "J. Cazares",
+          "position": "M",
+          "jerseyNumber": "11",
+          "userCount": 569,
+          "id": 158411,
+          "country": {
+            "alpha2": "EC",
+            "name": "Ecuador"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 702259200
+        },
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 14,
+          "accuratePass": 13,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 4,
+          "totalCross": 7,
+          "accurateCross": 2,
+          "aerialLost": 1,
+          "duelLost": 5,
+          "duelWon": 1,
+          "challengeLost": 1,
+          "totalContest": 3,
+          "wonContest": 1,
+          "fouls": 1,
+          "minutesPlayed": 19,
+          "touches": 26,
+          "rating": 6.8,
+          "possessionLostCtrl": 9,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Abel Hernández",
+          "firstName": "",
+          "lastName": "",
+          "slug": "abel-hernandez",
+          "shortName": "A. Hernández",
+          "position": "F",
+          "userCount": 375,
+          "id": 48547,
+          "country": {
+            "alpha2": "UY",
+            "name": "Uruguay"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 650073600
+        },
+        "shirtNumber": 32,
+        "jerseyNumber": "32",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 3,
+          "accuratePass": 3,
+          "aerialLost": 2,
+          "duelLost": 2,
+          "minutesPlayed": 19,
+          "touches": 4,
+          "rating": 6.5
+        }
+      },
+      {
+        "player": {
+          "name": "Ganso",
+          "firstName": "",
+          "lastName": "",
+          "slug": "ganso",
+          "shortName": "Ganso",
+          "position": "M",
+          "jerseyNumber": "10",
+          "userCount": 1815,
+          "id": 116853,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 624153600,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "غانسو"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 10,
+        "jerseyNumber": "10",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 16,
+          "accuratePass": 15,
+          "duelLost": 1,
+          "duelWon": 1,
+          "totalTackle": 1,
+          "fouls": 1,
+          "minutesPlayed": 8,
+          "touches": 17,
+          "rating": 6.7,
+          "possessionLostCtrl": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Kayky",
+          "firstName": "Kayky",
+          "slug": "kayky",
+          "shortName": "Kayky",
+          "position": "M",
+          "jerseyNumber": "37",
+          "userCount": 2124,
+          "id": 1106151,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1055289600
+        },
+        "shirtNumber": 37,
+        "jerseyNumber": "37",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 6,
+          "accuratePass": 5,
+          "totalCross": 1,
+          "blockedScoringAttempt": 1,
+          "minutesPlayed": 12,
+          "touches": 8,
+          "rating": 6.8,
+          "possessionLostCtrl": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Muriel",
+          "firstName": "",
+          "lastName": "",
+          "slug": "muriel",
+          "shortName": "Muriel",
+          "position": "G",
+          "userCount": 176,
+          "id": 108486,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 540259200,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "مورييل"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 27,
+        "jerseyNumber": "27",
+        "position": "G",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Danilo Barcelos",
+          "firstName": "",
+          "lastName": "",
+          "slug": "danilo-barcelos",
+          "shortName": "Danilo Barcelos",
+          "position": "D",
+          "jerseyNumber": "23",
+          "userCount": 124,
+          "id": 551576,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 682387200
+        },
+        "shirtNumber": 14,
+        "jerseyNumber": "14",
+        "position": "D",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Calegari",
+          "firstName": "",
+          "lastName": "",
+          "slug": "calegari",
+          "shortName": "Calegari",
+          "position": "D",
+          "jerseyNumber": "2",
+          "userCount": 434,
+          "id": 988906,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014768000
+        },
+        "shirtNumber": 31,
+        "jerseyNumber": "31",
+        "position": "D",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Matheus Ferraz",
+          "firstName": "",
+          "lastName": "",
+          "slug": "matheus-ferraz",
+          "shortName": "M. Ferraz",
+          "position": "D",
+          "userCount": 47,
+          "id": 329083,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 477014400
+        },
+        "shirtNumber": 3,
+        "jerseyNumber": "3",
+        "position": "D",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Wellington",
+          "firstName": "",
+          "lastName": "",
+          "slug": "wellington",
+          "shortName": "Wellington",
+          "position": "M",
+          "userCount": 78,
+          "id": 39396,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 665020800
+        },
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "André",
+          "firstName": "André",
+          "lastName": "",
+          "slug": "andre",
+          "shortName": "André",
+          "position": "M",
+          "jerseyNumber": "7",
+          "userCount": 4344,
+          "id": 1035996,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 995241600,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "أندريه"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "shirtNumber": 35,
+        "jerseyNumber": "35",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Lucca",
+          "firstName": "",
+          "lastName": "",
+          "slug": "lucca",
+          "shortName": "Lucca",
+          "position": "F",
+          "jerseyNumber": "30",
+          "userCount": 189,
+          "id": 329235,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 634953600
+        },
+        "shirtNumber": 7,
+        "jerseyNumber": "7",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      }
+    ],
+    "supportStaff": [],
+    "formation": "4-2-3-1",
+    "playerColor": {
+      "primary": "ffffff",
+      "number": "006633",
+      "outline": "ffffff",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "00ff66",
+      "number": "ffffff",
+      "outline": "00ff66",
+      "fancyNumber": "222226"
+    }
+  }
+}

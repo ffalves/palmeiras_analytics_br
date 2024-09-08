@@ -1,0 +1,247 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Paulista Série A1",
+      "slug": "paulista-serie-a1",
+      "category": {
+        "name": "Brazil",
+        "slug": "brazil",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 13,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "flag": "brazil",
+        "alpha2": "BR"
+      },
+      "uniqueTournament": {
+        "name": "Paulista Série A1",
+        "slug": "paulista-serie-a1",
+        "primaryColorHex": "#004990",
+        "secondaryColorHex": "#d1a02f",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 13,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "flag": "brazil",
+          "alpha2": "BR"
+        },
+        "userCount": 46697,
+        "id": 372,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 303,
+      "competitionType": 2,
+      "id": 5863
+    },
+    "season": {
+      "name": "Paulista Série A1 2022",
+      "year": "2022",
+      "editor": false,
+      "id": 40001
+    },
+    "roundInfo": {
+      "round": 4,
+      "name": "Quarterfinal",
+      "slug": "quarterfinal",
+      "cupRoundType": 4
+    },
+    "customId": "nOsAP",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 1,
+    "venue": {
+      "city": {
+        "name": "Sao Paulo"
+      },
+      "stadium": {
+        "name": "Allianz Parque",
+        "capacity": 45000
+      },
+      "id": 15699,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "homeTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209465,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 45000
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "awayTeam": {
+      "name": "Ituano",
+      "slug": "ituano",
+      "shortName": "Ituano",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 13887,
+      "manager": {
+        "name": "Marcio Freitas",
+        "slug": "marcio-freitas",
+        "shortName": "M. Freitas",
+        "id": 800945,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Itu"
+        },
+        "stadium": {
+          "name": "Estadio Municipal Doutor Novelli Junior",
+          "capacity": 15000
+        },
+        "id": 13204,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "ITU",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 2025,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Ituano",
+      "teamColors": {
+        "primary": "#c1394e",
+        "secondary": "#181d25",
+        "text": "#181d25"
+      },
+      "foundationDateTimestamp": -713491200
+    },
+    "homeScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 1,
+      "period2": 1,
+      "normaltime": 2
+    },
+    "awayScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "coverage": -1,
+    "time": {
+      "injuryTime1": 1,
+      "injuryTime2": 5,
+      "currentPeriodStartTimestamp": 1648088940
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.normaltime",
+        "awayScore.normaltime",
+        "time.currentPeriodStart"
+      ],
+      "changeTimestamp": 1648088944
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 10204368,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1648088940,
+    "startTimestamp": 1648082100,
+    "slug": "ituano-palmeiras",
+    "finalResultOnly": false,
+    "cupMatchesInRound": 1,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

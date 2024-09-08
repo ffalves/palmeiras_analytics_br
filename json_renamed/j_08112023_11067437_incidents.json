@@ -1,0 +1,541 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 3,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 5,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Vanderlan",
+        "firstName": "Vanderlan",
+        "lastName": "",
+        "slug": "vanderlan",
+        "shortName": "Vanderlan",
+        "position": "D",
+        "userCount": 742,
+        "id": 1067640
+      },
+      "playerName": "Vanderlan",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 121003686,
+      "time": 89,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 2,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Rodrigo Caio",
+        "slug": "rodrigo-caio",
+        "shortName": "R. Caio",
+        "position": "D",
+        "userCount": 1721,
+        "id": 166273
+      },
+      "playerOut": {
+        "name": "Erick Pulgar",
+        "slug": "erick-pulgar",
+        "shortName": "E. Pulgar",
+        "position": "M",
+        "userCount": 3413,
+        "id": 590262,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إريك بولغار"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 122187528,
+      "time": 81,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 10,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Victor Hugo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "victor-hugo",
+        "shortName": "V. Hugo",
+        "position": "M",
+        "userCount": 1620,
+        "id": 1170954
+      },
+      "playerOut": {
+        "name": "Everton",
+        "firstName": "Everton",
+        "lastName": "",
+        "slug": "everton",
+        "shortName": "Everton",
+        "position": "F",
+        "userCount": 6180,
+        "id": 386198,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيفرتون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 122187527,
+      "time": 80,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 11,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Wesley França",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley-franca",
+        "shortName": "W. França",
+        "position": "D",
+        "userCount": 1194,
+        "id": 1134200
+      },
+      "playerOut": {
+        "name": "Luiz Araújo",
+        "slug": "luiz-araujo",
+        "shortName": "L. Araújo",
+        "position": "M",
+        "userCount": 2098,
+        "id": 840451
+      },
+      "id": 122187524,
+      "time": 76,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 15,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Barbosa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-barbosa",
+        "shortName": "Gabriel",
+        "position": "F",
+        "userCount": 17977,
+        "id": 358554
+      },
+      "playerOut": {
+        "name": "Pedro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro",
+        "shortName": "Pedro",
+        "position": "F",
+        "userCount": 14530,
+        "id": 840219,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 122187523,
+      "time": 76,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 15,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Everton Ribeiro",
+        "slug": "everton-ribeiro",
+        "shortName": "Everton Ribeiro",
+        "position": "M",
+        "userCount": 5650,
+        "id": 145063
+      },
+      "playerOut": {
+        "name": "Giorgian De Arrascaeta",
+        "firstName": "",
+        "lastName": "",
+        "slug": "giorgian-de-arrascaeta",
+        "shortName": "G. De Arrascaeta",
+        "position": "M",
+        "userCount": 15795,
+        "id": 333587,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أراسكايتا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 122187509,
+      "time": 68,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 23,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Vanderlan",
+        "firstName": "Vanderlan",
+        "lastName": "",
+        "slug": "vanderlan",
+        "shortName": "Vanderlan",
+        "position": "D",
+        "userCount": 742,
+        "id": 1067640
+      },
+      "playerOut": {
+        "name": "Joaquín Piquerez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "joaquin-piquerez",
+        "shortName": "J. Piquerez",
+        "position": "D",
+        "userCount": 1959,
+        "id": 881110
+      },
+      "id": 122187511,
+      "time": 66,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 25,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "userCount": 3828,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "userCount": 7959,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 122187510,
+      "time": 66,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 25,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 3,
+      "awayScore": 0,
+      "player": {
+        "name": "Pedro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro",
+        "shortName": "Pedro",
+        "position": "F",
+        "userCount": 14530,
+        "id": 840219,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Gerson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gerson",
+        "shortName": "Gerson",
+        "position": "M",
+        "userCount": 8386,
+        "id": 611876,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جيرسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 174329607,
+      "time": 64,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 27,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Kaiky Naves",
+        "firstName": "Kaiky Naves",
+        "lastName": "",
+        "slug": "kaiky-naves",
+        "shortName": "Kaiky Naves",
+        "position": "D",
+        "userCount": 483,
+        "id": 1167068
+      },
+      "playerOut": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "userCount": 782,
+        "id": 937552
+      },
+      "id": 122187486,
+      "time": 53,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 38,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Gustavo Gómez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-gomez",
+        "shortName": "G. Gómez",
+        "position": "D",
+        "userCount": 2785,
+        "id": 220833,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غوميز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Gustavo Gómez",
+      "reason": "Professional foul last man",
+      "rescinded": false,
+      "id": 121003668,
+      "time": 48,
+      "isHome": false,
+      "incidentClass": "red",
+      "reversedPeriodTime": 43,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Fabinho",
+        "slug": "fabinho",
+        "shortName": "Fabinho",
+        "position": "M",
+        "userCount": 517,
+        "id": 1117513
+      },
+      "playerOut": {
+        "name": "Richard Ríos",
+        "slug": "richard-rios",
+        "shortName": "R. Ríos",
+        "position": "M",
+        "userCount": 2199,
+        "id": 1015292
+      },
+      "id": 122187476,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Luis Guilherme",
+        "firstName": "Luis Guilherme",
+        "lastName": "",
+        "slug": "luis-guilherme",
+        "shortName": "Luis Guilherme",
+        "position": "F",
+        "userCount": 1252,
+        "id": 1464248
+      },
+      "playerOut": {
+        "name": "Luan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luan",
+        "shortName": "Luan",
+        "position": "D",
+        "userCount": 759,
+        "id": 250351
+      },
+      "id": 122187475,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 2,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 3,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 0,
+      "player": {
+        "name": "Giorgian De Arrascaeta",
+        "firstName": "",
+        "lastName": "",
+        "slug": "giorgian-de-arrascaeta",
+        "shortName": "G. De Arrascaeta",
+        "position": "M",
+        "userCount": 15795,
+        "id": 333587,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أراسكايتا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Everton",
+        "firstName": "Everton",
+        "lastName": "",
+        "slug": "everton",
+        "shortName": "Everton",
+        "position": "F",
+        "userCount": 6180,
+        "id": 386198,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيفرتون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 174327695,
+      "time": 29,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 17,
+      "incidentType": "goal"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Pedro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro",
+        "shortName": "Pedro",
+        "position": "F",
+        "userCount": 14530,
+        "id": 840219,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Erick Pulgar",
+        "slug": "erick-pulgar",
+        "shortName": "E. Pulgar",
+        "position": "M",
+        "userCount": 3413,
+        "id": 590262,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إريك بولغار"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 174327301,
+      "time": 18,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 28,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Pedro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro",
+        "shortName": "Pedro",
+        "position": "F",
+        "userCount": 14530,
+        "id": 840219,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Pedro",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 121003640,
+      "time": 16,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 30,
+      "incidentType": "card"
+    }
+  ]
+}

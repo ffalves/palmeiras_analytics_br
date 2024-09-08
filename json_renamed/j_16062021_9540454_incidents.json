@@ -1,0 +1,454 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 3,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "jerseyNumber": "19",
+        "userCount": 783,
+        "id": 937552
+      },
+      "playerName": "Breno Lopes",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119871593,
+      "time": 90,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 3,
+      "player": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "jerseyNumber": "19",
+        "userCount": 783,
+        "id": 937552
+      },
+      "assist1": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 147204271,
+      "time": 87,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 4,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Bruninho",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bruninho",
+        "shortName": "Bruninho",
+        "position": "M",
+        "jerseyNumber": "27",
+        "userCount": 117,
+        "id": 923949
+      },
+      "playerOut": {
+        "name": "Wescley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wescley",
+        "shortName": "Wescley",
+        "position": "M",
+        "userCount": 35,
+        "id": 869854
+      },
+      "id": 120310643,
+      "time": 87,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 4,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Mayke",
+        "slug": "mayke",
+        "shortName": "Mayke",
+        "position": "D",
+        "jerseyNumber": "12",
+        "userCount": 937,
+        "id": 273329,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايكي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "jerseyNumber": "25",
+        "userCount": 1987,
+        "id": 974556
+      },
+      "id": 120310628,
+      "time": 74,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 17,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "jerseyNumber": "19",
+        "userCount": 783,
+        "id": 937552
+      },
+      "playerOut": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 120310627,
+      "time": 74,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 17,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Fernando Pacheco",
+        "firstName": "",
+        "lastName": "",
+        "slug": "fernando-pacheco",
+        "shortName": "F. Pacheco",
+        "position": "M",
+        "jerseyNumber": "77",
+        "userCount": 318,
+        "id": 874987
+      },
+      "playerOut": {
+        "name": "Capixaba",
+        "firstName": "",
+        "lastName": "",
+        "slug": "capixaba",
+        "shortName": "Capixaba",
+        "position": "M",
+        "jerseyNumber": "27",
+        "userCount": 53,
+        "id": 840030
+      },
+      "id": 120310619,
+      "time": 70,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 21,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Paulinho Bóia",
+        "firstName": "",
+        "lastName": "",
+        "slug": "paulinho-boia",
+        "shortName": "Paulinho Bóia",
+        "position": "F",
+        "jerseyNumber": "19",
+        "userCount": 155,
+        "id": 912781
+      },
+      "playerOut": {
+        "name": "Chico",
+        "firstName": "",
+        "lastName": "",
+        "slug": "chico",
+        "shortName": "Chico",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 152,
+        "id": 880132
+      },
+      "id": 120310618,
+      "time": 70,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 21,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Matheus Peixoto",
+        "firstName": "",
+        "lastName": "",
+        "slug": "matheus-peixoto",
+        "shortName": "Matheus Peixoto",
+        "position": "F",
+        "jerseyNumber": "18",
+        "userCount": 313,
+        "id": 880169
+      },
+      "playerOut": {
+        "name": "Sorriso",
+        "firstName": "Sorriso",
+        "lastName": "",
+        "slug": "sorriso",
+        "shortName": "Sorriso",
+        "position": "F",
+        "jerseyNumber": "27",
+        "userCount": 255,
+        "id": 1105595
+      },
+      "id": 120310617,
+      "time": 69,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 22,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 2,
+      "player": {
+        "name": "Deyverson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "deyverson",
+        "shortName": "Deyverson",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 1846,
+        "id": 270287,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيرسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 147204110,
+      "time": 63,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 28,
+      "incidentType": "goal"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "William Matheus",
+        "firstName": "",
+        "lastName": "",
+        "slug": "william-matheus",
+        "shortName": "W. Matheus",
+        "position": "D",
+        "userCount": 37,
+        "id": 243161
+      },
+      "id": 147204042,
+      "time": 53,
+      "isHome": false,
+      "incidentClass": "ownGoal",
+      "reversedPeriodTime": 38,
+      "incidentType": "goal"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 3,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "jerseyNumber": "25",
+        "userCount": 1987,
+        "id": 974556
+      },
+      "playerName": "Gabriel Menino",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119871556,
+      "time": 39,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 7,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Marcos Rocha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcos-rocha",
+        "shortName": "Marcos Rocha",
+        "position": "D",
+        "jerseyNumber": "2",
+        "userCount": 976,
+        "id": 82576
+      },
+      "playerName": "Marcos Rocha",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119871553,
+      "time": 32,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 14,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "playerOut": {
+        "name": "Luan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luan",
+        "shortName": "Luan",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 759,
+        "id": 250351
+      },
+      "injury": true,
+      "id": 120310561,
+      "time": 26,
+      "isHome": false,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "William Matheus",
+        "firstName": "",
+        "lastName": "",
+        "slug": "william-matheus",
+        "shortName": "W. Matheus",
+        "position": "D",
+        "userCount": 37,
+        "id": 243161
+      },
+      "playerOut": {
+        "name": "Alyson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "alyson",
+        "shortName": "Alyson",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 26,
+        "id": 931484
+      },
+      "injury": true,
+      "id": 120310550,
+      "time": 15,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 31,
+      "incidentType": "substitution"
+    }
+  ]
+}

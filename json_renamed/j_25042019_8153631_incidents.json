@@ -1,0 +1,510 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 4,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Carlos Neyra",
+        "slug": "carlos-neyra",
+        "shortName": "C. Neyra",
+        "position": "D",
+        "userCount": 2,
+        "id": 924924
+      },
+      "playerName": "Carlos Neyra",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119184361,
+      "time": 90,
+      "addedTime": 2,
+      "isHome": true,
+      "incidentClass": "yellowRed",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Hideyoshi Arakaki",
+        "slug": "hideyoshi-arakaki",
+        "shortName": "H. Arakaki",
+        "position": "F",
+        "jerseyNumber": "31",
+        "userCount": 18,
+        "id": 879629
+      },
+      "playerOut": {
+        "name": "Johnny Vidales",
+        "slug": "johnny-vidales",
+        "shortName": "J. Vidales",
+        "position": "M",
+        "jerseyNumber": "14",
+        "userCount": 13,
+        "id": 588144
+      },
+      "injury": true,
+      "id": 119249320,
+      "time": 87,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 4,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 4,
+      "player": {
+        "name": "Moisés",
+        "slug": "moises",
+        "shortName": "Moises",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 559,
+        "id": 243249
+      },
+      "assist1": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 125944056,
+      "time": 81,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 10,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Moisés",
+        "slug": "moises",
+        "shortName": "Moises",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 559,
+        "id": 243249
+      },
+      "playerOut": {
+        "name": "Bruno Henrique",
+        "slug": "bruno-henrique",
+        "shortName": "Bruno Henrique",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 389,
+        "id": 345113,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برونو هنريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119249323,
+      "time": 77,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 14,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Luis Iberico",
+        "slug": "luis-iberico",
+        "shortName": "L. Iberico",
+        "position": "F",
+        "jerseyNumber": "24",
+        "userCount": 355,
+        "id": 901019
+      },
+      "playerOut": {
+        "name": "Alexi Edwin Gómez",
+        "slug": "alexi-edwin-gomez",
+        "shortName": "A. E. Gómez",
+        "position": "D",
+        "jerseyNumber": "7",
+        "userCount": 43,
+        "id": 982178
+      },
+      "id": 119249319,
+      "time": 74,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 17,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "playerOut": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119249322,
+      "time": 71,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 3,
+      "player": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 125944055,
+      "time": 67,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 24,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Hernán Hinostroza",
+        "slug": "hernan-hinostroza",
+        "shortName": "H. Hinostroza",
+        "position": "M",
+        "jerseyNumber": "26",
+        "userCount": 3,
+        "id": 883418
+      },
+      "playerOut": {
+        "name": "Carlos Diez",
+        "slug": "carlos-diez",
+        "shortName": "C. Diez",
+        "position": "M",
+        "jerseyNumber": "14",
+        "userCount": 10,
+        "id": 831183
+      },
+      "id": 119249318,
+      "time": 67,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 24,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Deyverson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "deyverson",
+        "shortName": "Deyverson",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 1846,
+        "id": 270287,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيرسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Deyverson",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119184363,
+      "time": 62,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 29,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 119249321,
+      "time": 61,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 30,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Paolo Fuentes",
+        "slug": "paolo-fuentes",
+        "shortName": "P. Fuentes",
+        "position": "D",
+        "userCount": 18,
+        "id": 805270
+      },
+      "playerName": "Paolo Fuentes",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119184360,
+      "time": 57,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 34,
+      "incidentType": "card"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 2,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 2,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Christian Ramos",
+        "slug": "christian-ramos",
+        "shortName": "C. Ramos",
+        "position": "D",
+        "userCount": 156,
+        "id": 47439
+      },
+      "playerName": "Christian Ramos",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119184359,
+      "time": 37,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 9,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "playerName": "Zé Rafael",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119184362,
+      "time": 29,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 17,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Carlos Neyra",
+        "slug": "carlos-neyra",
+        "shortName": "C. Neyra",
+        "position": "D",
+        "userCount": 2,
+        "id": 924924
+      },
+      "playerName": "Carlos Neyra",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119184358,
+      "time": 29,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 17,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 2,
+      "player": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 125944054,
+      "time": 22,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 24,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Bernardo Cuesta",
+        "slug": "bernardo-cuesta",
+        "shortName": "B. N. Cuesta",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 244,
+        "id": 339855
+      },
+      "playerName": "Bernardo Cuesta",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119184357,
+      "time": 14,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 32,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "Gustavo Gómez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-gomez",
+        "shortName": "G. Gómez",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 2799,
+        "id": 220833,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غوميز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 125944053,
+      "time": 10,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 36,
+      "incidentType": "goal"
+    }
+  ]
+}

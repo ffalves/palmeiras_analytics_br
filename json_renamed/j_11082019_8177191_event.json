@@ -1,0 +1,263 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Brasileirão Série A",
+      "slug": "brasileirao-serie-a",
+      "category": {
+        "name": "Brazil",
+        "slug": "brazil",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 13,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "flag": "brazil",
+        "alpha2": "BR"
+      },
+      "uniqueTournament": {
+        "name": "Brasileirão Série A",
+        "slug": "brasileirao-serie-a",
+        "primaryColorHex": "#C7FF00",
+        "secondaryColorHex": "#969696",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 13,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "flag": "brazil",
+          "alpha2": "BR"
+        },
+        "userCount": 292300,
+        "id": 325,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": true,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 442,
+      "competitionType": 1,
+      "id": 83
+    },
+    "season": {
+      "name": "Brasileirão Série A 2019",
+      "year": "2019",
+      "editor": false,
+      "id": 22931
+    },
+    "roundInfo": {
+      "round": 14
+    },
+    "customId": "fOsnO",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 3,
+    "attendance": 34275,
+    "venue": {
+      "city": {
+        "name": "Sao Paulo"
+      },
+      "stadium": {
+        "name": "Allianz Parque",
+        "capacity": 43713
+      },
+      "id": 15699,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "referee": {
+      "name": "Igor Junio Benevenuto",
+      "slug": "igor-junio-benevenuto",
+      "yellowCards": 286,
+      "redCards": 11,
+      "yellowRedCards": 8,
+      "games": 49,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 559004,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "homeTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "awayTeam": {
+      "name": "Bahia",
+      "slug": "bahia",
+      "shortName": "Bahia",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 65819,
+      "manager": {
+        "name": "Rogério Ceni",
+        "slug": "rogerio-ceni",
+        "shortName": "R. Ceni",
+        "id": 787735,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Salvador"
+        },
+        "stadium": {
+          "name": "Arena Fonte Nova",
+          "capacity": 51614
+        },
+        "id": 11969,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "BAH",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1955,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Bahia",
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#333399",
+        "text": "#333399"
+      },
+      "foundationDateTimestamp": -1230768000
+    },
+    "homeScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 1,
+      "period2": 1,
+      "normaltime": 2
+    },
+    "awayScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 0,
+      "period2": 2,
+      "normaltime": 2
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 7,
+      "injuryTime2": 10,
+      "currentPeriodStartTimestamp": 1565557538
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.normaltime",
+        "awayScore.normaltime"
+      ],
+      "changeTimestamp": 1565557539
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 8177191,
+    "homeRedCards": 1,
+    "awayRedCards": 1,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1565557538,
+    "startTimestamp": 1565550000,
+    "slug": "palmeiras-bahia",
+    "finalResultOnly": false,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

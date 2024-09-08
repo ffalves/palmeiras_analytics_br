@@ -1,0 +1,254 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Brasileirão Série A",
+      "slug": "brasileirao-serie-a",
+      "category": {
+        "name": "Brazil",
+        "slug": "brazil",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 13,
+        "flag": "brazil",
+        "alpha2": "BR"
+      },
+      "uniqueTournament": {
+        "name": "Brasileirão Série A",
+        "slug": "brasileirao-serie-a",
+        "primaryColorHex": "#C7FF00",
+        "secondaryColorHex": "#969696",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 13,
+          "flag": "brazil",
+          "alpha2": "BR"
+        },
+        "userCount": 291229,
+        "id": 325,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": true,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 442,
+      "competitionType": 1,
+      "id": 83
+    },
+    "season": {
+      "name": "Brasileirão Série A 2023",
+      "year": "2023",
+      "editor": false,
+      "seasonCoverageInfo": {},
+      "id": 48982
+    },
+    "roundInfo": {
+      "round": 21
+    },
+    "customId": "nOszO",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 1,
+    "attendance": 40292,
+    "venue": {
+      "city": {
+        "name": "Sao Paulo"
+      },
+      "stadium": {
+        "name": "Allianz Parque",
+        "capacity": 45000
+      },
+      "id": 15699,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "referee": {
+      "name": "Wilton Pereira Sampaio",
+      "slug": "pereira-sampaio-wilton",
+      "yellowCards": 1537,
+      "redCards": 39,
+      "yellowRedCards": 38,
+      "games": 304,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 243701,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "homeTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209415,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 45000
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "awayTeam": {
+      "name": "Vasco da Gama",
+      "slug": "vasco-da-gama",
+      "shortName": "Vasco",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 106372,
+      "manager": {
+        "name": "Ramon Diaz",
+        "slug": "ramon-diaz",
+        "shortName": "R. Diaz",
+        "id": 797465,
+        "country": {}
+      },
+      "venue": {
+        "city": {
+          "name": "Rio de Janeiro"
+        },
+        "stadium": {
+          "name": "Estádio São Januário",
+          "capacity": 21880
+        },
+        "id": 755,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "VAS",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1974,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Vasco da Gama",
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#000000",
+        "text": "#000000"
+      },
+      "foundationDateTimestamp": -2252016000
+    },
+    "homeScore": {
+      "current": 1,
+      "display": 1,
+      "period1": 0,
+      "period2": 1,
+      "normaltime": 1
+    },
+    "awayScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "time": {
+      "injuryTime1": 5,
+      "injuryTime2": 8,
+      "currentPeriodStartTimestamp": 1693178981
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.period2",
+        "homeScore.normaltime",
+        "awayScore.period2",
+        "awayScore.normaltime",
+        "time.currentPeriodStart"
+      ],
+      "changeTimestamp": 1693178985
+    },
+    "hasGlobalHighlights": false,
+    "hasXg": true,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 11067276,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1693178981,
+    "startTimestamp": 1693171800,
+    "slug": "vasco-da-gama-palmeiras",
+    "finalResultOnly": false,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

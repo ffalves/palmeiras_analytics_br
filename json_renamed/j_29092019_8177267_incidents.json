@@ -1,0 +1,429 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 1,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Víctor Cuesta",
+        "firstName": "",
+        "lastName": "",
+        "slug": "victor-cuesta",
+        "shortName": "Víctor Cuesta",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 711,
+        "id": 587148
+      },
+      "playerName": "Víctor Cuesta",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119316930,
+      "time": 90,
+      "addedTime": 3,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 6,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Miguel Borja",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-borja",
+        "shortName": "Miguel Borja",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 2347,
+        "id": 329601
+      },
+      "playerName": "Miguel Borja",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119316932,
+      "time": 87,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 4,
+      "incidentType": "card"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Bruno Henrique",
+        "slug": "bruno-henrique",
+        "shortName": "Bruno Henrique",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 389,
+        "id": 345113,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برونو هنريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "id": 649,
+      "time": 87,
+      "incidentClass": "goalAwarded",
+      "reversedPeriodTime": 4,
+      "incidentType": "varDecision"
+    },
+    {
+      "playerIn": {
+        "name": "William Klaus",
+        "firstName": "",
+        "lastName": "",
+        "slug": "william-klaus",
+        "shortName": "W. Klaus",
+        "position": "D",
+        "jerseyNumber": "4",
+        "userCount": 58,
+        "id": 866721
+      },
+      "playerOut": {
+        "name": "Bruno Fuchs",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bruno-fuchs",
+        "shortName": "Bruno Fuchs",
+        "position": "D",
+        "jerseyNumber": "3",
+        "userCount": 442,
+        "id": 973737
+      },
+      "injury": true,
+      "id": 119432692,
+      "time": 84,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 7,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Patrick",
+        "firstName": "",
+        "lastName": "",
+        "slug": "patrick",
+        "shortName": "Patrick",
+        "position": "M",
+        "jerseyNumber": "49",
+        "userCount": 615,
+        "id": 594428,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باتريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Patrick",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119316929,
+      "time": 82,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 9,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Pedro Lucas",
+        "slug": "pedro-lucas",
+        "shortName": "P. Lucas",
+        "position": "F",
+        "jerseyNumber": "37",
+        "userCount": 94,
+        "id": 973750
+      },
+      "playerOut": {
+        "name": "Rafael Sóbis",
+        "slug": "rafael-sobis",
+        "shortName": "R. Sóbis",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 147,
+        "id": 17789
+      },
+      "id": 119432691,
+      "time": 77,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 14,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "playerName": "Lucas Lima",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119316931,
+      "time": 76,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 15,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Rafael Sóbis",
+        "slug": "rafael-sobis",
+        "shortName": "R. Sóbis",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 147,
+        "id": 17789
+      },
+      "playerName": "Rafael Sóbis",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119316928,
+      "time": 75,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 16,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Miguel Borja",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-borja",
+        "shortName": "Miguel Borja",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 2347,
+        "id": 329601
+      },
+      "playerOut": {
+        "name": "Luiz Adriano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-adriano",
+        "shortName": "L. Adriano",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 763,
+        "id": 39438
+      },
+      "id": 119432695,
+      "time": 71,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Wellington Silva",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wellington-silva",
+        "shortName": "Wellington Silva",
+        "position": "M",
+        "userCount": 106,
+        "id": 121264
+      },
+      "playerOut": {
+        "name": "Nonato",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nonato",
+        "shortName": "Nonato",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 451,
+        "id": 922566
+      },
+      "id": 119432690,
+      "time": 61,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 30,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 1,
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 126550699,
+      "time": 58,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 33,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "playerOut": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119432694,
+      "time": 57,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 34,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119432693,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 1,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 4,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Patrick",
+        "firstName": "",
+        "lastName": "",
+        "slug": "patrick",
+        "shortName": "Patrick",
+        "position": "M",
+        "jerseyNumber": "49",
+        "userCount": 615,
+        "id": 594428,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باتريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Nico López",
+        "slug": "nico-lopez",
+        "shortName": "N. López",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 669,
+        "id": 255881
+      },
+      "id": 126550698,
+      "time": 28,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 18,
+      "incidentType": "goal"
+    }
+  ]
+}

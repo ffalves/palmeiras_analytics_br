@@ -1,0 +1,376 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 1,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "playerName": "Zé Rafael",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119225246,
+      "time": 90,
+      "addedTime": 3,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Thiago Santos",
+        "firstName": "",
+        "lastName": "",
+        "slug": "thiago-santos",
+        "shortName": "Thiago Santos",
+        "position": "M",
+        "jerseyNumber": "29",
+        "userCount": 279,
+        "id": 378590
+      },
+      "playerOut": {
+        "name": "Felipe Melo",
+        "slug": "felipe-melo",
+        "shortName": "F. Melo",
+        "position": "D",
+        "jerseyNumber": "30",
+        "userCount": 1449,
+        "id": 4811
+      },
+      "injury": true,
+      "id": 119308495,
+      "time": 85,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 6,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Bruno Nazário",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bruno-nazario",
+        "shortName": "B. Nazário",
+        "position": "M",
+        "jerseyNumber": "88",
+        "userCount": 209,
+        "id": 288247,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نازاريو, برونو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Paulo André",
+        "slug": "paulo-andre",
+        "shortName": "P. André",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 14,
+        "id": 16653
+      },
+      "id": 119308498,
+      "time": 81,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 10,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 8015,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 126158693,
+      "time": 80,
+      "isHome": true,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 11,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Márcio Azevedo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcio-azevedo",
+        "shortName": "M. Azevedo",
+        "position": "D",
+        "userCount": 36,
+        "id": 39356
+      },
+      "playerName": "Márcio Azevedo",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119225250,
+      "time": 78,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 13,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 8015,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "id": 119308494,
+      "time": 67,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 24,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Lucas Halter",
+        "slug": "lucas-halter",
+        "shortName": "L. Halter",
+        "position": "D",
+        "jerseyNumber": "3",
+        "userCount": 333,
+        "id": 905450
+      },
+      "playerOut": {
+        "name": "Léo Pereira",
+        "firstName": "",
+        "lastName": "",
+        "slug": "leo-pereira",
+        "shortName": "Léo Pereira",
+        "position": "D",
+        "jerseyNumber": "4",
+        "userCount": 1696,
+        "id": 358548
+      },
+      "injury": true,
+      "id": 119308497,
+      "time": 62,
+      "isHome": false,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 29,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Marcelo Cirino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcelo-cirino",
+        "shortName": "Marcelo Cirino",
+        "position": "F",
+        "userCount": 111,
+        "id": 329027
+      },
+      "playerOut": {
+        "name": "Thonny Anderson",
+        "slug": "thonny-anderson",
+        "shortName": "T. Anderson",
+        "position": "M",
+        "jerseyNumber": "5",
+        "userCount": 137,
+        "id": 923836
+      },
+      "id": 119308496,
+      "time": 59,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 32,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Moisés",
+        "slug": "moises",
+        "shortName": "Moises",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 559,
+        "id": 243249
+      },
+      "playerOut": {
+        "name": "Bruno Henrique",
+        "slug": "bruno-henrique",
+        "shortName": "Bruno Henrique",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 389,
+        "id": 345113,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برونو هنريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119308493,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 5,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Nikão",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nikao",
+        "shortName": "Nikão",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 496,
+        "id": 139300
+      },
+      "playerName": "Nikão",
+      "rescinded": false,
+      "id": 119225249,
+      "time": 38,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 8,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Wellington",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wellington",
+        "shortName": "Wellington",
+        "position": "M",
+        "userCount": 78,
+        "id": 39396
+      },
+      "playerName": "Wellington",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119225248,
+      "time": 35,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 11,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Léo Pereira",
+        "firstName": "",
+        "lastName": "",
+        "slug": "leo-pereira",
+        "shortName": "Léo Pereira",
+        "position": "D",
+        "jerseyNumber": "4",
+        "userCount": 1696,
+        "id": 358548
+      },
+      "playerName": "Léo Pereira",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119225247,
+      "time": 29,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 17,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Felipe Melo",
+        "slug": "felipe-melo",
+        "shortName": "F. Melo",
+        "position": "D",
+        "jerseyNumber": "30",
+        "userCount": 1449,
+        "id": 4811
+      },
+      "playerName": "Felipe Melo",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119225245,
+      "time": 12,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 34,
+      "incidentType": "card"
+    }
+  ]
+}

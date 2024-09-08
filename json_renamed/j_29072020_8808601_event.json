@@ -1,0 +1,234 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Paulista Série A1 - Playoffs",
+      "slug": "paulista-serie-a1-playoffs",
+      "category": {
+        "name": "Brazil",
+        "slug": "brazil",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 13,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "flag": "brazil",
+        "alpha2": "BR"
+      },
+      "uniqueTournament": {
+        "name": "Paulista Série A1",
+        "slug": "paulista-serie-a1",
+        "primaryColorHex": "#004990",
+        "secondaryColorHex": "#d1a02f",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 13,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "flag": "brazil",
+          "alpha2": "BR"
+        },
+        "userCount": 48196,
+        "id": 372,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 0,
+      "competitionType": 2,
+      "id": 58692
+    },
+    "season": {
+      "name": "Paulista Série A1 2020",
+      "year": "2020",
+      "editor": false,
+      "id": 26501
+    },
+    "roundInfo": {
+      "round": 3,
+      "name": "Quarterfinals",
+      "slug": "quarterfinals",
+      "cupRoundType": 4
+    },
+    "customId": "nOsqOc",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 1,
+    "venue": {
+      "city": {
+        "name": "Sao Paulo"
+      },
+      "stadium": {
+        "name": "Allianz Parque",
+        "capacity": 43713
+      },
+      "id": 15699,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "homeTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "awayTeam": {
+      "name": "Santo André",
+      "slug": "santo-andre",
+      "shortName": "Santo André",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 3138,
+      "venue": {
+        "city": {
+          "name": "Santo Andre"
+        },
+        "stadium": {
+          "name": "Estádio Bruno José Daniel",
+          "capacity": 18000
+        },
+        "id": 10690,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "SAN",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 6966,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Santo André",
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#000080",
+        "text": "#000080"
+      },
+      "foundationDateTimestamp": -72230400
+    },
+    "homeScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 0,
+      "normaltime": 2
+    },
+    "awayScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "normaltime": 0
+    },
+    "coverage": -1,
+    "time": {
+      "injuryTime1": 5,
+      "injuryTime2": 4,
+      "currentPeriodStartTimestamp": 1596075971
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.normaltime",
+        "awayScore.normaltime"
+      ],
+      "changeTimestamp": 1596075982
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 8808601,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1596075971,
+    "startTimestamp": 1596069000,
+    "slug": "santo-andre-palmeiras",
+    "finalResultOnly": false,
+    "cupMatchesInRound": 1,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

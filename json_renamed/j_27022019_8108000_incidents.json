@@ -1,0 +1,468 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 3,
+      "awayScore": 2,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Felipe Melo",
+        "slug": "felipe-melo",
+        "shortName": "F. Melo",
+        "position": "D",
+        "jerseyNumber": "30",
+        "userCount": 1449,
+        "id": 4811
+      },
+      "playerName": "Felipe Melo",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119124572,
+      "time": 90,
+      "addedTime": 1,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 3,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Diogo Barbosa",
+        "slug": "diogo-barbosa",
+        "shortName": "Diogo Barbosa",
+        "position": "D",
+        "jerseyNumber": "40",
+        "userCount": 343,
+        "id": 243107
+      },
+      "playerName": "Diogo Barbosa",
+      "reason": "Time wasting",
+      "rescinded": false,
+      "id": 119124569,
+      "time": 88,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 3,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Marcelinho",
+        "slug": "marcelinho",
+        "shortName": "Marcelinho",
+        "position": "M",
+        "userCount": 6,
+        "id": 313108
+      },
+      "playerOut": {
+        "name": "Corrêa",
+        "slug": "correa",
+        "shortName": "Corrêa",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 6,
+        "id": 18030
+      },
+      "id": 119171325,
+      "time": 79,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 12,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "playerOut": {
+        "name": "Bruno Henrique",
+        "slug": "bruno-henrique",
+        "shortName": "Bruno Henrique",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 389,
+        "id": 345113,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برونو هنريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119171324,
+      "time": 79,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 12,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Thiago Santos",
+        "firstName": "",
+        "lastName": "",
+        "slug": "thiago-santos",
+        "shortName": "Thiago Santos",
+        "position": "M",
+        "jerseyNumber": "29",
+        "userCount": 279,
+        "id": 378590
+      },
+      "playerName": "Thiago Santos",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119124564,
+      "time": 78,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 13,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 3,
+      "awayScore": 2,
+      "player": {
+        "name": "Morato",
+        "firstName": "",
+        "lastName": "",
+        "slug": "morato",
+        "shortName": "Morato",
+        "position": "M",
+        "jerseyNumber": "20",
+        "userCount": 88,
+        "id": 866468,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موراتو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Corrêa",
+        "slug": "correa",
+        "shortName": "Corrêa",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 6,
+        "id": 18030
+      },
+      "id": 125320933,
+      "time": 75,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 16,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Gui Mendes",
+        "slug": "gui-mendes",
+        "shortName": "G. Mendes",
+        "position": "F",
+        "userCount": 16,
+        "id": 925086
+      },
+      "playerOut": {
+        "name": "Ramon",
+        "slug": "ramon",
+        "shortName": "Ramon",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 31,
+        "id": 244875
+      },
+      "id": 119171317,
+      "time": 71,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Felipe Pires",
+        "firstName": "",
+        "lastName": "",
+        "slug": "felipe-pires",
+        "shortName": "Felipe Pires",
+        "position": "M",
+        "userCount": 125,
+        "id": 576378,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيريس, فيليبي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Carlos Eduardo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "carlos-eduardo",
+        "shortName": "Carlos Eduardo",
+        "position": "F",
+        "jerseyNumber": "28",
+        "userCount": 206,
+        "id": 795295
+      },
+      "id": 119171316,
+      "time": 71,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Thiago Santos",
+        "firstName": "",
+        "lastName": "",
+        "slug": "thiago-santos",
+        "shortName": "Thiago Santos",
+        "position": "M",
+        "jerseyNumber": "29",
+        "userCount": 279,
+        "id": 378590
+      },
+      "playerOut": {
+        "name": "Miguel Borja",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-borja",
+        "shortName": "Miguel Borja",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 2347,
+        "id": 329601
+      },
+      "id": 119171308,
+      "time": 59,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 32,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 3,
+      "awayScore": 1,
+      "player": {
+        "name": "Miguel Borja",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-borja",
+        "shortName": "Miguel Borja",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 2347,
+        "id": 329601
+      },
+      "assist1": {
+        "name": "Ricardo Goulart",
+        "slug": "ricardo-goulart",
+        "shortName": "Ricardo Goulart",
+        "position": "F",
+        "userCount": 415,
+        "id": 151993
+      },
+      "id": 125320620,
+      "time": 58,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 33,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Rodrigo Bassani",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rodrigo-bassani",
+        "shortName": "Rodrigo",
+        "position": "M",
+        "jerseyNumber": "97",
+        "userCount": 27,
+        "id": 865399
+      },
+      "playerOut": {
+        "name": "Gabriel Baralhas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-baralhas",
+        "shortName": "Gabriel Baralhas",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 193,
+        "id": 922575
+      },
+      "id": 119171307,
+      "time": 57,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 34,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 1,
+      "player": {
+        "name": "Marcos Serrato",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcos-serrato",
+        "shortName": "Marcos Serrato",
+        "position": "M",
+        "jerseyNumber": "17",
+        "userCount": 25,
+        "id": 797650
+      },
+      "assist1": {
+        "name": "Ramon",
+        "slug": "ramon",
+        "shortName": "Ramon",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 31,
+        "id": 244875
+      },
+      "id": 125320564,
+      "time": 55,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 36,
+      "incidentType": "goal"
+    },
+    {
+      "text": "HT",
+      "homeScore": 2,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 1,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Miguel Borja",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-borja",
+        "shortName": "Miguel Borja",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 2347,
+        "id": 329601
+      },
+      "playerName": "Miguel Borja",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119124535,
+      "time": 26,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 20,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 0,
+      "player": {
+        "name": "Ricardo Goulart",
+        "slug": "ricardo-goulart",
+        "shortName": "Ricardo Goulart",
+        "position": "F",
+        "userCount": 415,
+        "id": 151993
+      },
+      "assist1": {
+        "name": "Mayke",
+        "slug": "mayke",
+        "shortName": "Mayke",
+        "position": "D",
+        "jerseyNumber": "12",
+        "userCount": 937,
+        "id": 273329,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايكي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 125319583,
+      "time": 23,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 23,
+      "incidentType": "goal"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Ricardo Goulart",
+        "slug": "ricardo-goulart",
+        "shortName": "Ricardo Goulart",
+        "position": "F",
+        "userCount": 415,
+        "id": 151993
+      },
+      "id": 125319479,
+      "time": 12,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 34,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Gabriel Baralhas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-baralhas",
+        "shortName": "Gabriel Baralhas",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 193,
+        "id": 922575
+      },
+      "playerName": "Baralhas",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119124532,
+      "time": 7,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 39,
+      "incidentType": "card"
+    }
+  ]
+}

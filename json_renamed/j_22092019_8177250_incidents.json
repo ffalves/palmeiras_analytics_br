@@ -1,0 +1,350 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Carlinhos",
+        "firstName": "",
+        "lastName": "",
+        "slug": "carlinhos",
+        "shortName": "Carlinhos",
+        "position": "D",
+        "userCount": 53,
+        "id": 360322
+      },
+      "playerName": "Carlinhos",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119306443,
+      "time": 88,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 3,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "André Luís",
+        "firstName": "",
+        "lastName": "",
+        "slug": "andre-luis",
+        "shortName": "A. Luís",
+        "position": "F",
+        "jerseyNumber": "97",
+        "userCount": 150,
+        "id": 876286
+      },
+      "playerName": "André Luís",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119306442,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 5,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "felipe",
+        "shortName": "Felipe",
+        "position": "M",
+        "jerseyNumber": "94",
+        "userCount": 120,
+        "id": 870853
+      },
+      "playerName": "Felipe",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119306441,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 5,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Kieza",
+        "slug": "kieza",
+        "shortName": "Kieza",
+        "position": "F",
+        "userCount": 89,
+        "id": 76489
+      },
+      "playerOut": {
+        "name": "Edinho",
+        "slug": "edinho",
+        "shortName": "Edinho",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 86,
+        "id": 865404
+      },
+      "id": 119419492,
+      "time": 83,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 8,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Felipe Alves",
+        "firstName": "",
+        "lastName": "",
+        "slug": "felipe-alves",
+        "shortName": "Felipe Alves",
+        "position": "G",
+        "userCount": 402,
+        "id": 927704
+      },
+      "playerName": "Felipe Alves",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119306440,
+      "time": 82,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 9,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Marcos Rocha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcos-rocha",
+        "shortName": "Marcos Rocha",
+        "position": "D",
+        "jerseyNumber": "2",
+        "userCount": 976,
+        "id": 82576
+      },
+      "playerName": "Marcos Rocha",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119306444,
+      "time": 78,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 13,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Carlos Eduardo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "carlos-eduardo",
+        "shortName": "Carlos Eduardo",
+        "position": "F",
+        "jerseyNumber": "28",
+        "userCount": 206,
+        "id": 795295
+      },
+      "playerOut": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119419495,
+      "time": 76,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 15,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Deyverson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "deyverson",
+        "shortName": "Deyverson",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 1846,
+        "id": 270287,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيرسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Luiz Adriano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-adriano",
+        "shortName": "L. Adriano",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 763,
+        "id": 39438
+      },
+      "id": 119419494,
+      "time": 73,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 18,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Juninho Valoura",
+        "firstName": "",
+        "lastName": "",
+        "slug": "juninho-valoura",
+        "shortName": "Juninho Valoura",
+        "position": "M",
+        "userCount": 93,
+        "id": 842073
+      },
+      "playerOut": {
+        "name": "Gabriel Dias",
+        "slug": "gabriel-dias",
+        "shortName": "G. Dias",
+        "position": "D",
+        "userCount": 137,
+        "id": 870697
+      },
+      "id": 119419491,
+      "time": 66,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 25,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "playerOut": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 119419493,
+      "time": 66,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 25,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 126507030,
+      "time": 48,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 43,
+      "incidentType": "goal"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 4,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Marcelo Boeck",
+        "slug": "marcelo-boeck",
+        "shortName": "M. Boeck",
+        "position": "G",
+        "jerseyNumber": "12",
+        "userCount": 90,
+        "id": 42116
+      },
+      "playerOut": {
+        "name": "Felipe Alves",
+        "firstName": "",
+        "lastName": "",
+        "slug": "felipe-alves",
+        "shortName": "Felipe Alves",
+        "position": "G",
+        "userCount": 402,
+        "id": 927704
+      },
+      "injury": true,
+      "id": 119419490,
+      "time": 36,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 10,
+      "incidentType": "substitution"
+    }
+  ]
+}

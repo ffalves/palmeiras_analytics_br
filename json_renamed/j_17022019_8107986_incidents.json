@@ -1,0 +1,245 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 3,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Diego Gonçalves",
+        "firstName": "",
+        "lastName": "",
+        "slug": "diego-goncalves",
+        "shortName": "Diego Gonçalves",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 69,
+        "id": 344077
+      },
+      "playerOut": {
+        "name": "Felipe Ferreira",
+        "firstName": "",
+        "lastName": "",
+        "slug": "felipe-ferreira",
+        "shortName": "F. Ferreira",
+        "position": "M",
+        "jerseyNumber": "94",
+        "userCount": 46,
+        "id": 973844
+      },
+      "id": 119160909,
+      "time": 69,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 22,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Moisés",
+        "slug": "moises",
+        "shortName": "Moises",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 559,
+        "id": 243249
+      },
+      "playerOut": {
+        "name": "Bruno Henrique",
+        "slug": "bruno-henrique",
+        "shortName": "Bruno Henrique",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 389,
+        "id": 345113,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برونو هنريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119160910,
+      "time": 69,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 22,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Higor Meritão",
+        "slug": "higor-meritao",
+        "shortName": "H. Meritão",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 67,
+        "id": 973845
+      },
+      "playerOut": {
+        "name": "Anderson Uchoa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "anderson-uchoa",
+        "shortName": "A. Uchoa",
+        "position": "M",
+        "jerseyNumber": "4",
+        "userCount": 19,
+        "id": 115190
+      },
+      "id": 119160888,
+      "time": 64,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 27,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Ricardo Goulart",
+        "slug": "ricardo-goulart",
+        "shortName": "Ricardo Goulart",
+        "position": "F",
+        "userCount": 415,
+        "id": 151993
+      },
+      "playerOut": {
+        "name": "Felipe Pires",
+        "firstName": "",
+        "lastName": "",
+        "slug": "felipe-pires",
+        "shortName": "Felipe Pires",
+        "position": "M",
+        "userCount": 125,
+        "id": 576378,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيريس, فيليبي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119160851,
+      "time": 55,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 36,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Anderson Uchoa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "anderson-uchoa",
+        "shortName": "A. Uchoa",
+        "position": "M",
+        "jerseyNumber": "4",
+        "userCount": 19,
+        "id": 115190
+      },
+      "playerName": "Anderson Uchoa",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119116309,
+      "time": 51,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 40,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Felipe Pires",
+        "firstName": "",
+        "lastName": "",
+        "slug": "felipe-pires",
+        "shortName": "Felipe Pires",
+        "position": "M",
+        "userCount": 125,
+        "id": 576378,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيريس, فيليبي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Carlos Eduardo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "carlos-eduardo",
+        "shortName": "Carlos Eduardo",
+        "position": "F",
+        "jerseyNumber": "28",
+        "userCount": 206,
+        "id": 795295
+      },
+      "id": 119160835,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 2,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Alisson",
+        "slug": "alisson",
+        "shortName": "Alisson",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 4,
+        "id": 866402
+      },
+      "playerOut": {
+        "name": "Julinho",
+        "firstName": "",
+        "lastName": "",
+        "slug": "julinho",
+        "shortName": "Julinho",
+        "position": "D",
+        "userCount": 2,
+        "id": 848471
+      },
+      "injury": true,
+      "id": 119160806,
+      "time": 32,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 14,
+      "incidentType": "substitution"
+    }
+  ]
+}

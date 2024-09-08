@@ -1,0 +1,478 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 3,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "homeScore": 3,
+      "awayScore": 1,
+      "player": {
+        "name": "Raúl Bobadilla",
+        "slug": "bobadilla-raul",
+        "shortName": "R. Bobadilla",
+        "position": "F",
+        "jerseyNumber": "25",
+        "userCount": 161,
+        "id": 26323
+      },
+      "assist1": {
+        "name": "Bautista Merlini",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bautista-merlini",
+        "shortName": "B. Merlini",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 30,
+        "id": 830722
+      },
+      "id": 128144235,
+      "time": 88,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 3,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Vitor Hugo",
+        "slug": "vitor-hugo",
+        "shortName": "V. Hugo",
+        "position": "D",
+        "jerseyNumber": "31",
+        "userCount": 340,
+        "id": 794838,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هوغو, فيتور"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Gustavo Gómez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-gomez",
+        "shortName": "G. Gómez",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 2799,
+        "id": 220833,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غوميز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119634002,
+      "time": 85,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 6,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Bautista Merlini",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bautista-merlini",
+        "shortName": "B. Merlini",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 30,
+        "id": 830722
+      },
+      "playerName": "Bautista Merlini",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119472536,
+      "time": 84,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 7,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 3,
+      "awayScore": 0,
+      "player": {
+        "name": "Luiz Adriano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-adriano",
+        "shortName": "L. Adriano",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 763,
+        "id": 39438
+      },
+      "assist1": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 128144234,
+      "time": 82,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 9,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Christian Javier Báez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "christian-javier-baez",
+        "shortName": "C. J. Báez",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 72,
+        "id": 136758
+      },
+      "playerName": "Christian Javier Báez",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119472535,
+      "time": 81,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 10,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "playerOut": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119634001,
+      "time": 77,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 14,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 0,
+      "player": {
+        "name": "Luiz Adriano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-adriano",
+        "shortName": "L. Adriano",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 763,
+        "id": 39438
+      },
+      "assist1": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 3832,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 128144233,
+      "time": 73,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 18,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Fernando Barrientos",
+        "slug": "fernando-barrientos",
+        "shortName": "F. Barrientos",
+        "position": "M",
+        "jerseyNumber": "91",
+        "userCount": 9,
+        "id": 174909
+      },
+      "playerOut": {
+        "name": "Jorge Morel",
+        "slug": "jorge-morel",
+        "shortName": "J. Morel",
+        "position": "D",
+        "jerseyNumber": "5",
+        "userCount": 134,
+        "id": 1175757
+      },
+      "id": 119634004,
+      "time": 66,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 25,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Patrick de Paula",
+        "firstName": "",
+        "lastName": "",
+        "slug": "patrick-de-paula",
+        "shortName": "Patrick de Paula",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 729,
+        "id": 1015291
+      },
+      "playerOut": {
+        "name": "Ramires",
+        "slug": "ramires",
+        "shortName": "Ramires",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 309,
+        "id": 33110
+      },
+      "injury": true,
+      "id": 119634000,
+      "time": 66,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 25,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Bautista Merlini",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bautista-merlini",
+        "shortName": "B. Merlini",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 30,
+        "id": 830722
+      },
+      "playerOut": {
+        "name": "Edgar Benítez",
+        "slug": "edgar-benitez",
+        "shortName": "E. Benítez",
+        "position": "M",
+        "jerseyNumber": "33",
+        "userCount": 58,
+        "id": 43148
+      },
+      "id": 119634003,
+      "time": 61,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 30,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Edgar Benítez",
+        "slug": "edgar-benitez",
+        "shortName": "E. Benítez",
+        "position": "M",
+        "jerseyNumber": "33",
+        "userCount": 58,
+        "id": 43148
+      },
+      "playerName": "Edgar Benítez",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119472534,
+      "time": 55,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 36,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Luiz Adriano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-adriano",
+        "shortName": "L. Adriano",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 763,
+        "id": 39438
+      },
+      "id": 128144232,
+      "time": 53,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 38,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Rodrigo Fernández",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rodrigo-fernandez",
+        "shortName": "R. Fernández",
+        "position": "M",
+        "jerseyNumber": "14",
+        "userCount": 306,
+        "id": 877599
+      },
+      "playerName": "Rodrigo Fernández",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119472533,
+      "time": 52,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 39,
+      "incidentType": "card"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 5,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Gustavo Gómez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-gomez",
+        "shortName": "G. Gómez",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 2799,
+        "id": 220833,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غوميز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Gustavo Gómez",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119472531,
+      "time": 44,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 2,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Jorge Morel",
+        "slug": "jorge-morel",
+        "shortName": "J. Morel",
+        "position": "D",
+        "jerseyNumber": "5",
+        "userCount": 134,
+        "id": 1175757
+      },
+      "playerName": "Jorge Morel",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119472532,
+      "time": 27,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 19,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Marcos Rocha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcos-rocha",
+        "shortName": "Marcos Rocha",
+        "position": "D",
+        "jerseyNumber": "2",
+        "userCount": 976,
+        "id": 82576
+      },
+      "playerName": "Marcos Rocha",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119472530,
+      "time": 25,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 21,
+      "incidentType": "card"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores, Group F",
+      "slug": "conmebol-libertadores-group-f",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 215551,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 588,
+      "competitionType": 1,
+      "id": 2933
+    },
+    "season": {
+      "name": "Copa Libertadores 2019",
+      "year": "2019",
+      "editor": false,
+      "id": 19989
+    },
+    "roundInfo": {
+      "round": 5
+    },
+    "customId": "nOsiW",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 2,
+    "venue": {
+      "city": {
+        "name": "Arequipa"
+      },
+      "stadium": {
+        "name": "Estadio de la UNSA",
+        "capacity": 60000
+      },
+      "id": 5172,
+      "country": {
+        "alpha2": "PE",
+        "name": "Peru"
+      }
+    },
+    "referee": {
+      "name": "Carlos Anibal Orbe Ruiz",
+      "slug": "carlos-anibal-orbe-ruiz",
+      "yellowCards": 605,
+      "redCards": 22,
+      "yellowRedCards": 28,
+      "games": 112,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 785169,
+      "country": {
+        "alpha2": "EC",
+        "name": "Ecuador"
+      }
+    },
+    "homeTeam": {
+      "name": "Melgar",
+      "slug": "melgar",
+      "shortName": "Melgar",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 14165,
+      "manager": {
+        "name": "Mariano Soso",
+        "slug": "mariano-soso",
+        "shortName": "M. Soso",
+        "id": 786577,
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Arequipa"
+        },
+        "stadium": {
+          "name": "Estadio de la UNSA",
+          "capacity": 60000
+        },
+        "id": 5172,
+        "country": {
+          "alpha2": "PE",
+          "name": "Peru"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "MEL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 2308,
+      "country": {
+        "alpha2": "PE",
+        "name": "Peru"
+      },
+      "subTeams": [],
+      "fullName": "Melgar",
+      "teamColors": {
+        "primary": "#000000",
+        "secondary": "#ff0000",
+        "text": "#ff0000"
+      },
+      "foundationDateTimestamp": -1728518400
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "awayScore": {
+      "current": 4,
+      "display": 4,
+      "period1": 2,
+      "period2": 2,
+      "normaltime": 4
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 2,
+      "injuryTime2": 4,
+      "currentPeriodStartTimestamp": 1556250654
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.normaltime",
+        "awayScore.normaltime"
+      ],
+      "changeTimestamp": 1556250660
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 8153631,
+    "homeRedCards": 1,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1556250654,
+    "startTimestamp": 1556244000,
+    "slug": "melgar-palmeiras",
+    "finalResultOnly": false,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

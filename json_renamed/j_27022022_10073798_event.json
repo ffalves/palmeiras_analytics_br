@@ -1,0 +1,239 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Paulista Série A1",
+      "slug": "paulista-serie-a1",
+      "category": {
+        "name": "Brazil",
+        "slug": "brazil",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 13,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "flag": "brazil",
+        "alpha2": "BR"
+      },
+      "uniqueTournament": {
+        "name": "Paulista Série A1",
+        "slug": "paulista-serie-a1",
+        "primaryColorHex": "#004990",
+        "secondaryColorHex": "#d1a02f",
+        "category": {
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 13,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "flag": "brazil",
+          "alpha2": "BR"
+        },
+        "userCount": 46918,
+        "id": 372,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 305,
+      "competitionType": 1,
+      "id": 57411
+    },
+    "season": {
+      "name": "Paulista Série A1 2022",
+      "year": "2022",
+      "editor": false,
+      "id": 40001
+    },
+    "roundInfo": {
+      "round": 9
+    },
+    "customId": "nOsBkeb",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 3,
+    "venue": {
+      "city": {
+        "name": "Limeira"
+      },
+      "stadium": {
+        "name": "Estádio Major José Levy Sobrinho",
+        "capacity": 20000
+      },
+      "id": 13346,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "homeTeam": {
+      "name": "Inter de Limeira",
+      "slug": "inter-de-limeira",
+      "shortName": "Inter de Limeira",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 2110,
+      "manager": {
+        "name": "Júnior Rocha",
+        "slug": "junior-rocha",
+        "shortName": "J. Rocha",
+        "id": 794006,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Limeira"
+        },
+        "stadium": {
+          "name": "Estádio Major José Levy Sobrinho",
+          "capacity": 20000
+        },
+        "id": 13346,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "INT",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 135526,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Inter de Limeira",
+      "teamColors": {
+        "primary": "#000000",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "foundationDateTimestamp": 1550620800
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209544,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "awayScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "coverage": -1,
+    "time": {
+      "injuryTime1": 5,
+      "injuryTime2": 5,
+      "currentPeriodStartTimestamp": 1645995362
+    },
+    "changes": {
+      "changes": [
+        "homeScore.period2",
+        "awayScore.period2"
+      ],
+      "changeTimestamp": 1647850427
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 10073798,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1645995362,
+    "startTimestamp": 1645988400,
+    "slug": "inter-de-limeira-palmeiras",
+    "finalResultOnly": false,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

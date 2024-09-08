@@ -1,0 +1,251 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores, Group B",
+      "slug": "conmebol-libertadores-group-b",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 215551,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 592,
+      "competitionType": 1,
+      "id": 2929
+    },
+    "season": {
+      "name": "Copa Libertadores 2020",
+      "year": "2020",
+      "editor": false,
+      "id": 26785
+    },
+    "roundInfo": {
+      "round": 1
+    },
+    "customId": "nOsDcd",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 2,
+    "venue": {
+      "city": {
+        "name": "Buenos Aires"
+      },
+      "stadium": {
+        "name": "Estadio Jose Dellagiovanna",
+        "capacity": 26282
+      },
+      "id": 4738,
+      "country": {
+        "alpha2": "AR",
+        "name": "Argentina"
+      }
+    },
+    "referee": {
+      "name": "Wilmar Roldan",
+      "slug": "wilmar-roldan",
+      "yellowCards": 1514,
+      "redCards": 80,
+      "yellowRedCards": 44,
+      "games": 292,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 52513,
+      "country": {
+        "alpha2": "CO",
+        "name": "Colombia"
+      }
+    },
+    "homeTeam": {
+      "name": "Tigre",
+      "slug": "tigre",
+      "shortName": "Tigre",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 12436,
+      "manager": {
+        "name": "Lucas Pusineri",
+        "slug": "lucas-pusineri",
+        "shortName": "L. Pusineri",
+        "id": 789811,
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Buenos Aires"
+        },
+        "stadium": {
+          "name": "Estadio Jose Dellagiovanna",
+          "capacity": 26282
+        },
+        "id": 4738,
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "TIG",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 7628,
+      "country": {
+        "alpha2": "AR",
+        "name": "Argentina"
+      },
+      "subTeams": [],
+      "fullName": "Tigre",
+      "teamColors": {
+        "primary": "#000099",
+        "secondary": "#ff0000",
+        "text": "#ff0000"
+      },
+      "foundationDateTimestamp": -2127427200
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "normaltime": 0
+    },
+    "awayScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 1,
+      "normaltime": 2
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 2,
+      "injuryTime2": 3,
+      "currentPeriodStartTimestamp": 1583366716
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.normaltime",
+        "awayScore.normaltime"
+      ],
+      "changeTimestamp": 1583366736
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 8525470,
+    "homeRedCards": 1,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1583366716,
+    "startTimestamp": 1583360100,
+    "slug": "tigre-palmeiras",
+    "finalResultOnly": false,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

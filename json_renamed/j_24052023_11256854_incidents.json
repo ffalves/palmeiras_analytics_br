@@ -1,0 +1,448 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 3,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "playerIn": {
+        "name": "Fabinho",
+        "slug": "fabinho",
+        "shortName": "Fabinho",
+        "position": "M",
+        "userCount": 517,
+        "id": 1117513
+      },
+      "playerOut": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "userCount": 1980,
+        "id": 974556
+      },
+      "id": 121786527,
+      "time": 90,
+      "addedTime": 3,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 1,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Rafael Navarro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rafael-navarro",
+        "shortName": "R. Navarro",
+        "position": "F",
+        "userCount": 886,
+        "id": 985427
+      },
+      "playerOut": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "userCount": 3828,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121786526,
+      "time": 90,
+      "addedTime": 2,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 1,
+      "incidentType": "substitution"
+    },
+    {
+      "length": 5,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "homeScore": 3,
+      "awayScore": 0,
+      "player": {
+        "name": "Richard Ríos",
+        "slug": "richard-rios",
+        "shortName": "R. Ríos",
+        "position": "M",
+        "userCount": 2199,
+        "id": 1015292
+      },
+      "assist1": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "userCount": 782,
+        "id": 937552
+      },
+      "id": 168861212,
+      "time": 88,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 3,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Tinga",
+        "slug": "tinga",
+        "shortName": "Tinga",
+        "position": "D",
+        "userCount": 250,
+        "id": 330057,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "تينغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Tinga",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120766861,
+      "time": 87,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 4,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Zé Welison",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ze-welison",
+        "shortName": "Zé Welison",
+        "position": "M",
+        "userCount": 229,
+        "id": 551422
+      },
+      "playerOut": {
+        "name": "Vinicius Zanocelo",
+        "slug": "vinicius-zanocelo",
+        "shortName": "Vinicius Zanocelo",
+        "position": "M",
+        "userCount": 302,
+        "id": 973841
+      },
+      "id": 121786521,
+      "time": 86,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Richard Ríos",
+        "slug": "richard-rios",
+        "shortName": "R. Ríos",
+        "position": "M",
+        "userCount": 2199,
+        "id": 1015292
+      },
+      "playerOut": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "userCount": 4177,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121786517,
+      "time": 82,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 9,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "userCount": 782,
+        "id": 937552
+      },
+      "playerOut": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "userCount": 7959,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121786516,
+      "time": 82,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 9,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Dudu",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "D",
+        "userCount": 160,
+        "id": 859083,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Lucas Crispim",
+        "slug": "lucas-crispim",
+        "shortName": "L. Crispim",
+        "position": "M",
+        "userCount": 280,
+        "id": 795178
+      },
+      "id": 121786505,
+      "time": 76,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 15,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Luis Guilherme",
+        "firstName": "Luis Guilherme",
+        "lastName": "",
+        "slug": "luis-guilherme",
+        "shortName": "Luis Guilherme",
+        "position": "F",
+        "userCount": 1252,
+        "id": 1464248
+      },
+      "playerOut": {
+        "name": "Bruno Tabata",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bruno-tabata",
+        "shortName": "Bruno Tabata",
+        "position": "M",
+        "userCount": 798,
+        "id": 845433
+      },
+      "id": 121786500,
+      "time": 73,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 18,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Tomás Pochettino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "tomas-pochettino",
+        "shortName": "T. Pochettino",
+        "position": "M",
+        "userCount": 413,
+        "id": 824626
+      },
+      "playerOut": {
+        "name": "Hércules",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hercules",
+        "shortName": "Hércules",
+        "position": "M",
+        "userCount": 255,
+        "id": 1104068
+      },
+      "id": 121786493,
+      "time": 60,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 31,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Calebe",
+        "firstName": "Calebe",
+        "lastName": "",
+        "slug": "calebe",
+        "shortName": "Calebe",
+        "position": "M",
+        "userCount": 337,
+        "id": 1046796
+      },
+      "playerOut": {
+        "name": "Yago Pikachu",
+        "slug": "yago-pikachu",
+        "shortName": "Y. Pikachu",
+        "position": "M",
+        "userCount": 939,
+        "id": 363688
+      },
+      "id": 121786492,
+      "time": 60,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 31,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Moisés",
+        "firstName": "Moisés",
+        "lastName": "",
+        "slug": "moises",
+        "shortName": "Moisés",
+        "position": "F",
+        "userCount": 447,
+        "id": 1046501
+      },
+      "playerOut": {
+        "name": "Romarinho",
+        "slug": "romarinho",
+        "shortName": "Romarinho",
+        "position": "M",
+        "userCount": 151,
+        "id": 870578
+      },
+      "id": 121786491,
+      "time": 60,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 31,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 2,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 6,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 0,
+      "player": {
+        "name": "Bruno Tabata",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bruno-tabata",
+        "shortName": "Bruno Tabata",
+        "position": "M",
+        "userCount": 798,
+        "id": 845433
+      },
+      "id": 168861091,
+      "time": 18,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 28,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Yago Pikachu",
+        "slug": "yago-pikachu",
+        "shortName": "Y. Pikachu",
+        "position": "M",
+        "userCount": 939,
+        "id": 363688
+      },
+      "playerName": "Yago Pikachu",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120766832,
+      "time": 15,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 31,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "userCount": 7959,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 168861074,
+      "time": 11,
+      "isHome": true,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 35,
+      "incidentType": "goal"
+    }
+  ]
+}

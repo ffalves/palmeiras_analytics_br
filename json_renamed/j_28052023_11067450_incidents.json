@@ -1,0 +1,454 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 5,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Ivonei",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ivonei",
+        "shortName": "Ivonei",
+        "position": "M",
+        "userCount": 192,
+        "id": 988780
+      },
+      "playerOut": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "userCount": 989,
+        "id": 244589
+      },
+      "id": 121794862,
+      "time": 88,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 3,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Daniel Ruiz",
+        "firstName": "Daniel Ruiz",
+        "slug": "daniel-ruiz",
+        "shortName": "D. Ruiz",
+        "position": "M",
+        "userCount": 849,
+        "id": 1098305
+      },
+      "playerName": "Daniel Ruíz",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120771619,
+      "time": 88,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 3,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "João Lucas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "joao-lucas",
+        "shortName": "João Lucas",
+        "position": "D",
+        "userCount": 271,
+        "id": 981019
+      },
+      "playerOut": {
+        "name": "Lucas Pires",
+        "firstName": "",
+        "lastName": "",
+        "slug": "lucas-pires",
+        "shortName": "L. Pires",
+        "position": "D",
+        "userCount": 356,
+        "id": 1136896,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيريس"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "injury": true,
+      "id": 121794856,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "userCount": 782,
+        "id": 937552
+      },
+      "playerOut": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "userCount": 4177,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121794850,
+      "time": 83,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 8,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Dodi",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dodi",
+        "shortName": "Dodi",
+        "position": "M",
+        "userCount": 257,
+        "id": 870804
+      },
+      "playerName": "Dodi",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120771607,
+      "time": 75,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 16,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Richard Ríos",
+        "slug": "richard-rios",
+        "shortName": "R. Ríos",
+        "position": "M",
+        "userCount": 2199,
+        "id": 1015292
+      },
+      "playerOut": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "userCount": 7959,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121794828,
+      "time": 69,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 22,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Luis Guilherme",
+        "firstName": "Luis Guilherme",
+        "lastName": "",
+        "slug": "luis-guilherme",
+        "shortName": "Luis Guilherme",
+        "position": "F",
+        "userCount": 1252,
+        "id": 1464248
+      },
+      "playerOut": {
+        "name": "Artur",
+        "firstName": "",
+        "lastName": "",
+        "slug": "artur",
+        "shortName": "Artur",
+        "position": "M",
+        "userCount": 2285,
+        "id": 841128,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أرثور"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121794827,
+      "time": 69,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 22,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Endrick",
+        "firstName": "",
+        "lastName": "",
+        "slug": "endrick",
+        "shortName": "Endrick",
+        "position": "F",
+        "userCount": 36973,
+        "id": 1174937,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إندريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "userCount": 3828,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121794790,
+      "time": 62,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 29,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Daniel Ruiz",
+        "firstName": "Daniel Ruiz",
+        "slug": "daniel-ruiz",
+        "shortName": "D. Ruiz",
+        "position": "M",
+        "userCount": 849,
+        "id": 1098305
+      },
+      "playerOut": {
+        "name": "Ângelo",
+        "firstName": "Ângelo",
+        "lastName": "",
+        "slug": "angelo",
+        "shortName": "Ângelo",
+        "position": "M",
+        "userCount": 6861,
+        "id": 1086455,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "Angelo"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121794776,
+      "time": 59,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 32,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Lucas Barbosa",
+        "firstName": "Lucas Barbosa",
+        "lastName": "",
+        "slug": "lucas-barbosa",
+        "shortName": "L. Barbosa",
+        "position": "M",
+        "userCount": 157,
+        "id": 1067641
+      },
+      "playerOut": {
+        "name": "Lucas Braga",
+        "slug": "lucas-braga",
+        "shortName": "L. Braga",
+        "position": "M",
+        "userCount": 369,
+        "id": 934801
+      },
+      "id": 121794728,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Kaiky Naves",
+        "firstName": "Kaiky Naves",
+        "lastName": "",
+        "slug": "kaiky-naves",
+        "shortName": "Kaiky Naves",
+        "position": "D",
+        "userCount": 483,
+        "id": 1167068
+      },
+      "playerOut": {
+        "name": "Gustavo Gómez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-gomez",
+        "shortName": "G. Gómez",
+        "position": "D",
+        "userCount": 2785,
+        "id": 220833,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غوميز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "injury": true,
+      "id": 121794725,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Maicon",
+        "slug": "maicon",
+        "shortName": "Maicon",
+        "position": "D",
+        "userCount": 554,
+        "id": 44691
+      },
+      "playerOut": {
+        "name": "Messias",
+        "firstName": "",
+        "lastName": "",
+        "slug": "messias",
+        "shortName": "Messias",
+        "position": "D",
+        "userCount": 252,
+        "id": 839765
+      },
+      "id": 121794724,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 5,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Ângelo",
+        "firstName": "Ângelo",
+        "lastName": "",
+        "slug": "angelo",
+        "shortName": "Ângelo",
+        "position": "M",
+        "userCount": 6861,
+        "id": 1086455,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "Angelo"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Ângelo",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120771484,
+      "time": 21,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 25,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "userCount": 7959,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Raphael Veiga",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120771469,
+      "time": 15,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 31,
+      "incidentType": "card"
+    }
+  ]
+}

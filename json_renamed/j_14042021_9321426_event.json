@@ -1,0 +1,277 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Recopa Sudamericana",
+      "slug": "recopa-sudamericana",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Recopa",
+        "slug": "conmebol-recopa",
+        "primaryColorHex": "#989898",
+        "secondaryColorHex": "#0183be",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 21534,
+        "id": 490,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 410,
+      "competitionType": 2,
+      "id": 1353
+    },
+    "season": {
+      "name": "Recopa Sudamericana 2021",
+      "year": "2021",
+      "editor": false,
+      "id": 35468
+    },
+    "roundInfo": {
+      "round": 1,
+      "name": "Final",
+      "slug": "final",
+      "cupRoundType": 1
+    },
+    "customId": "nOsOLo",
+    "status": {
+      "code": 120,
+      "description": "AP",
+      "type": "finished"
+    },
+    "winnerCode": 2,
+    "venue": {
+      "city": {
+        "name": "Sao Paulo"
+      },
+      "stadium": {
+        "name": "Allianz Parque",
+        "capacity": 43713
+      },
+      "id": 15699,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "referee": {
+      "name": "Leodan Frankin Gonzalez Cabrera",
+      "slug": "gonzalez-cabrera-leodan-frankin",
+      "yellowCards": 1017,
+      "redCards": 32,
+      "yellowRedCards": 45,
+      "games": 175,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 786205,
+      "country": {
+        "alpha2": "UY",
+        "name": "Uruguay"
+      }
+    },
+    "homeTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "awayTeam": {
+      "name": "Defensa y Justicia",
+      "slug": "defensa-y-justicia",
+      "shortName": "Def y Justicia",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 20069,
+      "manager": {
+        "name": "Julio Vaccari",
+        "slug": "julio-vaccari",
+        "shortName": "J. Vaccari",
+        "id": 797406,
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Gobernador Julio A. Costa"
+        },
+        "stadium": {
+          "name": "Estadio Norberto Tomaghello",
+          "capacity": 12000
+        },
+        "id": 12025,
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "DYJ",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 36839,
+      "country": {
+        "alpha2": "AR",
+        "name": "Argentina"
+      },
+      "subTeams": [],
+      "fullName": "Defensa y Justicia",
+      "teamColors": {
+        "primary": "#ffff00",
+        "secondary": "#339900",
+        "text": "#339900"
+      },
+      "foundationDateTimestamp": -1097798400
+    },
+    "homeScore": {
+      "current": 4,
+      "display": 1,
+      "period1": 1,
+      "normaltime": 1,
+      "overtime": 0,
+      "penalties": 3
+    },
+    "awayScore": {
+      "current": 6,
+      "display": 2,
+      "period1": 1,
+      "normaltime": 2,
+      "overtime": 0,
+      "penalties": 4
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 2,
+      "injuryTime2": 5,
+      "injuryTime3": 4,
+      "currentPeriodStartTimestamp": 1618456790
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.display",
+        "homeScore.penalties",
+        "awayScore.display",
+        "awayScore.penalties"
+      ],
+      "changeTimestamp": 1618456793
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 9321426,
+    "homeRedCards": 1,
+    "awayRedCards": 1,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1618456790,
+    "startTimestamp": 1618446600,
+    "slug": "defensa-y-justicia-palmeiras",
+    "finalResultOnly": false,
+    "hasBet365LiveStream": true,
+    "bet365ExcludedCountryCodes": [
+      "AR",
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC",
+      "PE",
+      "PY",
+      "UY",
+      "VE",
+      "IR"
+    ],
+    "cupMatchesInRound": 2,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

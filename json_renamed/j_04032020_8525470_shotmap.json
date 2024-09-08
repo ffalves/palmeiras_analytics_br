@@ -1,0 +1,1368 @@
+{
+  "shotmap": [
+    {
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "shotType": "block",
+      "situation": "regular",
+      "playerCoordinates": {
+        "x": 4.1,
+        "y": 13.3,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "blockCoordinates": {
+        "x": 3.3,
+        "y": 19.5,
+        "z": 0
+      },
+      "id": 254569,
+      "time": 82,
+      "timeSeconds": 4917,
+      "draw": {
+        "start": {
+          "x": 13.3,
+          "y": 4.1
+        },
+        "block": {
+          "x": 19.5,
+          "y": 3.3
+        }
+      },
+      "reversedPeriodTime": 9,
+      "reversedPeriodTimeSeconds": 483,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Luan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luan",
+        "shortName": "Luan",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 759,
+        "id": 250351
+      },
+      "isHome": false,
+      "shotType": "block",
+      "situation": "free-kick",
+      "playerCoordinates": {
+        "x": 21.2,
+        "y": 70.5,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "blockCoordinates": {
+        "x": 14.6,
+        "y": 64.3,
+        "z": 0
+      },
+      "id": 254567,
+      "time": 82,
+      "timeSeconds": 4903,
+      "draw": {
+        "start": {
+          "x": 70.5,
+          "y": 21.2
+        },
+        "block": {
+          "x": 64.3,
+          "y": 14.6
+        }
+      },
+      "reversedPeriodTime": 9,
+      "reversedPeriodTimeSeconds": 497,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "shotType": "save",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 20.4,
+        "y": 50.3,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "low-right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 47.7,
+        "z": 3.8
+      },
+      "blockCoordinates": {
+        "x": 6.6,
+        "y": 51.8,
+        "z": 0
+      },
+      "id": 254565,
+      "time": 78,
+      "timeSeconds": 4658,
+      "draw": {
+        "start": {
+          "x": 50.3,
+          "y": 20.4
+        },
+        "block": {
+          "x": 51.8,
+          "y": 6.6
+        },
+        "end": {
+          "x": 52.3,
+          "y": 0
+        },
+        "goal": {
+          "x": 52.3,
+          "y": 96.2
+        }
+      },
+      "reversedPeriodTime": 13,
+      "reversedPeriodTimeSeconds": 742,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Sebastián Prediger",
+        "slug": "sebastian-prediger",
+        "shortName": "S. Prediger",
+        "position": "M",
+        "jerseyNumber": "5",
+        "userCount": 19,
+        "id": 78851
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "corner",
+      "playerCoordinates": {
+        "x": 14.5,
+        "y": 49.5,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "goalMouthLocation": "close-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 58.2,
+        "z": 22.2
+      },
+      "blockCoordinates": {
+        "x": 7.6,
+        "y": 47.7,
+        "z": 0
+      },
+      "id": 254563,
+      "time": 76,
+      "timeSeconds": 4502,
+      "draw": {
+        "start": {
+          "x": 49.5,
+          "y": 14.5
+        },
+        "block": {
+          "x": 47.7,
+          "y": 7.6
+        },
+        "end": {
+          "x": 41.8,
+          "y": 0
+        },
+        "goal": {
+          "x": 41.8,
+          "y": 77.8
+        }
+      },
+      "reversedPeriodTime": 15,
+      "reversedPeriodTimeSeconds": 898,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Juan Cavallaro",
+        "slug": "juan-cavallaro",
+        "shortName": "J. Cavallaro",
+        "position": "F",
+        "userCount": 30,
+        "id": 249301
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 9.8,
+        "y": 46.2,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "goalMouthLocation": "high-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 54,
+        "z": 29.7
+      },
+      "blockCoordinates": {
+        "x": 1,
+        "y": 48.7,
+        "z": 0
+      },
+      "id": 254561,
+      "time": 73,
+      "timeSeconds": 4336,
+      "draw": {
+        "start": {
+          "x": 46.2,
+          "y": 9.8
+        },
+        "block": {
+          "x": 48.7,
+          "y": 1
+        },
+        "end": {
+          "x": 46,
+          "y": 0
+        },
+        "goal": {
+          "x": 46,
+          "y": 70.3
+        }
+      },
+      "reversedPeriodTime": 18,
+      "reversedPeriodTimeSeconds": 1064,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 3832,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "shotType": "save",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 9.2,
+        "y": 35.6,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "low-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 50.6,
+        "z": 5.1
+      },
+      "blockCoordinates": {
+        "x": 6.3,
+        "y": 39.5,
+        "z": 0
+      },
+      "id": 254559,
+      "time": 72,
+      "timeSeconds": 4262,
+      "draw": {
+        "start": {
+          "x": 35.6,
+          "y": 9.2
+        },
+        "block": {
+          "x": 39.5,
+          "y": 6.3
+        },
+        "end": {
+          "x": 49.4,
+          "y": 0
+        },
+        "goal": {
+          "x": 49.4,
+          "y": 94.9
+        }
+      },
+      "reversedPeriodTime": 19,
+      "reversedPeriodTimeSeconds": 1138,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "shotType": "goal",
+      "goalType": "regular",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 16,
+        "y": 57.1,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "high-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 54.5,
+        "z": 29.1
+      },
+      "id": 254557,
+      "time": 65,
+      "timeSeconds": 3870,
+      "draw": {
+        "start": {
+          "x": 57.1,
+          "y": 16
+        },
+        "end": {
+          "x": 45.5,
+          "y": 0
+        },
+        "goal": {
+          "x": 45.5,
+          "y": 70.9
+        }
+      },
+      "reversedPeriodTime": 26,
+      "reversedPeriodTimeSeconds": 1530,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 3832,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "shotType": "miss",
+      "situation": "regular",
+      "playerCoordinates": {
+        "x": 11,
+        "y": 43,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "high",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 45.9,
+        "z": 68.1
+      },
+      "id": 254555,
+      "time": 63,
+      "timeSeconds": 3726,
+      "draw": {
+        "start": {
+          "x": 43,
+          "y": 11
+        },
+        "end": {
+          "x": 54.1,
+          "y": 0
+        },
+        "goal": {
+          "x": 54.1,
+          "y": 31.9
+        }
+      },
+      "reversedPeriodTime": 28,
+      "reversedPeriodTimeSeconds": 1674,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Luiz Adriano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-adriano",
+        "shortName": "L. Adriano",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 763,
+        "id": 39438
+      },
+      "isHome": false,
+      "shotType": "miss",
+      "situation": "corner",
+      "playerCoordinates": {
+        "x": 8,
+        "y": 59.9,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "goalMouthLocation": "right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 38.3,
+        "z": 36.1
+      },
+      "id": 254553,
+      "time": 59,
+      "timeSeconds": 3500,
+      "draw": {
+        "start": {
+          "x": 59.9,
+          "y": 8
+        },
+        "end": {
+          "x": 61.7,
+          "y": 0
+        },
+        "goal": {
+          "x": 61.7,
+          "y": 63.9
+        }
+      },
+      "reversedPeriodTime": 32,
+      "reversedPeriodTimeSeconds": 1900,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 21.5,
+        "y": 67.1,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "close-high",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 47.9,
+        "z": 59.7
+      },
+      "id": 254551,
+      "time": 52,
+      "timeSeconds": 3080,
+      "draw": {
+        "start": {
+          "x": 67.1,
+          "y": 21.5
+        },
+        "end": {
+          "x": 52.1,
+          "y": 0
+        },
+        "goal": {
+          "x": 52.1,
+          "y": 40.3
+        }
+      },
+      "reversedPeriodTime": 39,
+      "reversedPeriodTimeSeconds": 2320,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Ramires",
+        "slug": "ramires",
+        "shortName": "Ramires",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 309,
+        "id": 33110
+      },
+      "isHome": false,
+      "shotType": "post",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 28.5,
+        "y": 52.1,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "high",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 47.9,
+        "z": 39.9
+      },
+      "id": 254548,
+      "time": 52,
+      "timeSeconds": 3070,
+      "draw": {
+        "start": {
+          "x": 52.1,
+          "y": 28.5
+        },
+        "end": {
+          "x": 52.1,
+          "y": 0
+        },
+        "goal": {
+          "x": 52.1,
+          "y": 60.1
+        }
+      },
+      "reversedPeriodTime": 39,
+      "reversedPeriodTimeSeconds": 2330,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Diego Morales",
+        "slug": "diego-morales",
+        "shortName": "D. Morales",
+        "position": "M",
+        "userCount": 9,
+        "id": 268425
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 8.4,
+        "y": 55.8,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "goalMouthLocation": "close-high",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 46.4,
+        "z": 55.6
+      },
+      "id": 254545,
+      "time": 50,
+      "timeSeconds": 2947,
+      "draw": {
+        "start": {
+          "x": 55.8,
+          "y": 8.4
+        },
+        "end": {
+          "x": 53.6,
+          "y": 0
+        },
+        "goal": {
+          "x": 53.6,
+          "y": 44.4
+        }
+      },
+      "reversedPeriodTime": 41,
+      "reversedPeriodTimeSeconds": 2453,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Lucas Rodríguez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "lucas-rodriguez",
+        "shortName": "L. Rodríguez",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 7,
+        "id": 146982
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 16.5,
+        "y": 27.2,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "high-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 56.6,
+        "z": 79.2
+      },
+      "id": 254542,
+      "time": 49,
+      "timeSeconds": 2907,
+      "draw": {
+        "start": {
+          "x": 27.2,
+          "y": 16.5
+        },
+        "end": {
+          "x": 43.4,
+          "y": 0
+        },
+        "goal": {
+          "x": 43.4,
+          "y": 20.8
+        }
+      },
+      "reversedPeriodTime": 42,
+      "reversedPeriodTimeSeconds": 2493,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Juan Cavallaro",
+        "slug": "juan-cavallaro",
+        "shortName": "J. Cavallaro",
+        "position": "F",
+        "userCount": 30,
+        "id": 249301
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 24.1,
+        "y": 47,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "low-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 48.9,
+        "z": 7.6
+      },
+      "blockCoordinates": {
+        "x": 1.6,
+        "y": 50.7,
+        "z": 0
+      },
+      "id": 254539,
+      "time": 41,
+      "timeSeconds": 2415,
+      "draw": {
+        "start": {
+          "x": 47,
+          "y": 24.1
+        },
+        "block": {
+          "x": 50.7,
+          "y": 1.6
+        },
+        "end": {
+          "x": 51.1,
+          "y": 0
+        },
+        "goal": {
+          "x": 51.1,
+          "y": 92.4
+        }
+      },
+      "reversedPeriodTime": 5,
+      "reversedPeriodTimeSeconds": 285,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 3832,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 19,
+        "y": 35.4,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 14.3,
+        "z": 13.9
+      },
+      "id": 254536,
+      "time": 40,
+      "timeSeconds": 2363,
+      "draw": {
+        "start": {
+          "x": 35.4,
+          "y": 19
+        },
+        "end": {
+          "x": 85.7,
+          "y": 0
+        },
+        "goal": {
+          "x": 85.7,
+          "y": 86.1
+        }
+      },
+      "reversedPeriodTime": 6,
+      "reversedPeriodTimeSeconds": 337,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Emanuel Dening",
+        "firstName": "",
+        "lastName": "",
+        "slug": "emanuel-dening",
+        "shortName": "E. Dening",
+        "position": "F",
+        "jerseyNumber": "33",
+        "userCount": 15,
+        "id": 828867
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 21.6,
+        "y": 34.6,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 36.3,
+        "z": 5.6
+      },
+      "id": 254533,
+      "time": 35,
+      "timeSeconds": 2086,
+      "draw": {
+        "start": {
+          "x": 34.6,
+          "y": 21.6
+        },
+        "end": {
+          "x": 63.7,
+          "y": 0
+        },
+        "goal": {
+          "x": 63.7,
+          "y": 94.4
+        }
+      },
+      "reversedPeriodTime": 11,
+      "reversedPeriodTimeSeconds": 614,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Facundo Melivillo",
+        "slug": "facundo-melivillo",
+        "shortName": "F. Melivillo",
+        "position": "M",
+        "userCount": 1,
+        "id": 791141
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "regular",
+      "playerCoordinates": {
+        "x": 10.2,
+        "y": 32.7,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "close-right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 43,
+        "z": 2.8
+      },
+      "id": 254531,
+      "time": 34,
+      "timeSeconds": 2004,
+      "draw": {
+        "start": {
+          "x": 32.7,
+          "y": 10.2
+        },
+        "end": {
+          "x": 57,
+          "y": 0
+        },
+        "goal": {
+          "x": 57,
+          "y": 97.2
+        }
+      },
+      "reversedPeriodTime": 12,
+      "reversedPeriodTimeSeconds": 696,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Juan Cavallaro",
+        "slug": "juan-cavallaro",
+        "shortName": "J. Cavallaro",
+        "position": "F",
+        "userCount": 30,
+        "id": 249301
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "corner",
+      "playerCoordinates": {
+        "x": 8.7,
+        "y": 24.4,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "close-high-right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 42.5,
+        "z": 56.9
+      },
+      "id": 254529,
+      "time": 23,
+      "timeSeconds": 1370,
+      "draw": {
+        "start": {
+          "x": 24.4,
+          "y": 8.7
+        },
+        "end": {
+          "x": 57.5,
+          "y": 0
+        },
+        "goal": {
+          "x": 57.5,
+          "y": 43.1
+        }
+      },
+      "reversedPeriodTime": 23,
+      "reversedPeriodTimeSeconds": 1330,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Diego Morales",
+        "slug": "diego-morales",
+        "shortName": "D. Morales",
+        "position": "M",
+        "userCount": 9,
+        "id": 268425
+      },
+      "isHome": true,
+      "shotType": "block",
+      "situation": "free-kick",
+      "playerCoordinates": {
+        "x": 20.1,
+        "y": 32.7,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "blockCoordinates": {
+        "x": 16.7,
+        "y": 35.9,
+        "z": 0
+      },
+      "id": 254527,
+      "time": 23,
+      "timeSeconds": 1327,
+      "draw": {
+        "start": {
+          "x": 32.7,
+          "y": 20.1
+        },
+        "block": {
+          "x": 35.9,
+          "y": 16.7
+        }
+      },
+      "reversedPeriodTime": 23,
+      "reversedPeriodTimeSeconds": 1373,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Diego Morales",
+        "slug": "diego-morales",
+        "shortName": "D. Morales",
+        "position": "M",
+        "userCount": 9,
+        "id": 268425
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "regular",
+      "playerCoordinates": {
+        "x": 17.7,
+        "y": 44.7,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "high-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 49.6,
+        "z": 21.5
+      },
+      "blockCoordinates": {
+        "x": 12.9,
+        "y": 46.9,
+        "z": 0
+      },
+      "id": 254525,
+      "time": 21,
+      "timeSeconds": 1208,
+      "draw": {
+        "start": {
+          "x": 44.7,
+          "y": 17.7
+        },
+        "block": {
+          "x": 46.9,
+          "y": 12.9
+        },
+        "end": {
+          "x": 50.4,
+          "y": 0
+        },
+        "goal": {
+          "x": 50.4,
+          "y": 78.5
+        }
+      },
+      "reversedPeriodTime": 25,
+      "reversedPeriodTimeSeconds": 1492,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Juan Cavallaro",
+        "slug": "juan-cavallaro",
+        "shortName": "J. Cavallaro",
+        "position": "F",
+        "userCount": 30,
+        "id": 249301
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 23.3,
+        "y": 43.6,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "high",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 45.4,
+        "z": 69.4
+      },
+      "id": 254523,
+      "time": 20,
+      "timeSeconds": 1146,
+      "draw": {
+        "start": {
+          "x": 43.6,
+          "y": 23.3
+        },
+        "end": {
+          "x": 54.6,
+          "y": 0
+        },
+        "goal": {
+          "x": 54.6,
+          "y": 30.6
+        }
+      },
+      "reversedPeriodTime": 26,
+      "reversedPeriodTimeSeconds": 1554,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Luiz Adriano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-adriano",
+        "shortName": "L. Adriano",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 763,
+        "id": 39438
+      },
+      "isHome": false,
+      "shotType": "goal",
+      "goalType": "regular",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 18.9,
+        "y": 50.1,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "low-right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 47.7,
+        "z": 19.6
+      },
+      "id": 254521,
+      "time": 16,
+      "timeSeconds": 948,
+      "draw": {
+        "start": {
+          "x": 50.1,
+          "y": 18.9
+        },
+        "end": {
+          "x": 52.3,
+          "y": 0
+        },
+        "goal": {
+          "x": 52.3,
+          "y": 80.4
+        }
+      },
+      "reversedPeriodTime": 30,
+      "reversedPeriodTimeSeconds": 1752,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Emanuel Dening",
+        "firstName": "",
+        "lastName": "",
+        "slug": "emanuel-dening",
+        "shortName": "E. Dening",
+        "position": "F",
+        "jerseyNumber": "33",
+        "userCount": 15,
+        "id": 828867
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 12.2,
+        "y": 33.6,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "close-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 57.8,
+        "z": 8.3
+      },
+      "id": 254519,
+      "time": 15,
+      "timeSeconds": 853,
+      "draw": {
+        "start": {
+          "x": 33.6,
+          "y": 12.2
+        },
+        "end": {
+          "x": 42.2,
+          "y": 0
+        },
+        "goal": {
+          "x": 42.2,
+          "y": 91.7
+        }
+      },
+      "reversedPeriodTime": 31,
+      "reversedPeriodTimeSeconds": 1847,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Matías Viña",
+        "slug": "matias-vina",
+        "shortName": "M. Viña",
+        "position": "D",
+        "jerseyNumber": "17",
+        "userCount": 1941,
+        "id": 875295,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فينا, ماتياس"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "shotType": "miss",
+      "situation": "set-piece",
+      "playerCoordinates": {
+        "x": 11.8,
+        "y": 45.8,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 34.8,
+        "z": 11.1
+      },
+      "id": 254517,
+      "time": 14,
+      "timeSeconds": 798,
+      "draw": {
+        "start": {
+          "x": 45.8,
+          "y": 11.8
+        },
+        "end": {
+          "x": 65.2,
+          "y": 0
+        },
+        "goal": {
+          "x": 65.2,
+          "y": 88.9
+        }
+      },
+      "reversedPeriodTime": 32,
+      "reversedPeriodTimeSeconds": 1902,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "shotType": "block",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 11,
+        "y": 64,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "blockCoordinates": {
+        "x": 7.7,
+        "y": 60.7,
+        "z": 0
+      },
+      "id": 254515,
+      "time": 11,
+      "timeSeconds": 619,
+      "draw": {
+        "start": {
+          "x": 64,
+          "y": 11
+        },
+        "block": {
+          "x": 60.7,
+          "y": 7.7
+        }
+      },
+      "reversedPeriodTime": 35,
+      "reversedPeriodTimeSeconds": 2081,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 3832,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "shotType": "block",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 21.8,
+        "y": 32.7,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "blockCoordinates": {
+        "x": 19.2,
+        "y": 34.3,
+        "z": 0
+      },
+      "id": 254513,
+      "time": 5,
+      "timeSeconds": 240,
+      "draw": {
+        "start": {
+          "x": 32.7,
+          "y": 21.8
+        },
+        "block": {
+          "x": 34.3,
+          "y": 19.2
+        }
+      },
+      "reversedPeriodTime": 41,
+      "reversedPeriodTimeSeconds": 2460,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Sebastián Prediger",
+        "slug": "sebastian-prediger",
+        "shortName": "S. Prediger",
+        "position": "M",
+        "jerseyNumber": "5",
+        "userCount": 19,
+        "id": 78851
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "regular",
+      "playerCoordinates": {
+        "x": 31.6,
+        "y": 64.6,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "low-right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 47.5,
+        "z": 15.8
+      },
+      "blockCoordinates": {
+        "x": 1.8,
+        "y": 52,
+        "z": 0
+      },
+      "id": 254511,
+      "time": 1,
+      "timeSeconds": 49,
+      "draw": {
+        "start": {
+          "x": 64.6,
+          "y": 31.6
+        },
+        "block": {
+          "x": 52,
+          "y": 1.8
+        },
+        "end": {
+          "x": 52.5,
+          "y": 0
+        },
+        "goal": {
+          "x": 52.5,
+          "y": 84.2
+        }
+      },
+      "reversedPeriodTime": 45,
+      "reversedPeriodTimeSeconds": 2651,
+      "incidentType": "shot"
+    }
+  ]
+}

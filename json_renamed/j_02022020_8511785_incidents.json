@@ -1,0 +1,416 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 2,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 5,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Alerrandro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "alerrandro",
+        "shortName": "Alerrandro",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 320,
+        "id": 923948,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أليراندرو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Ytalo",
+        "slug": "ytalo",
+        "shortName": "Ytalo",
+        "position": "F",
+        "jerseyNumber": "23",
+        "userCount": 255,
+        "id": 47548
+      },
+      "id": 119582754,
+      "time": 83,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 8,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 1,
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 127788491,
+      "time": 79,
+      "isHome": false,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 12,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Edimar",
+        "slug": "edimar",
+        "shortName": "Edimar",
+        "position": "D",
+        "userCount": 100,
+        "id": 47612
+      },
+      "playerName": "Edimar",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119432236,
+      "time": 77,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 14,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Morato",
+        "firstName": "",
+        "lastName": "",
+        "slug": "morato",
+        "shortName": "Morato",
+        "position": "M",
+        "jerseyNumber": "20",
+        "userCount": 88,
+        "id": 866468,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "موراتو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Bruno Tubarão",
+        "slug": "bruno-tubarao",
+        "shortName": "B. Tubarão",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 88,
+        "id": 931588
+      },
+      "id": 119582716,
+      "time": 73,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 18,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Victor Luis",
+        "firstName": "",
+        "lastName": "",
+        "slug": "victor-luis",
+        "shortName": "Victor Luis",
+        "position": "D",
+        "jerseyNumber": "26",
+        "userCount": 257,
+        "id": 252781
+      },
+      "id": 119582710,
+      "time": 70,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 21,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Matheus Jesus",
+        "slug": "matheus-jesus",
+        "shortName": "M. Jesus",
+        "position": "M",
+        "jerseyNumber": "47",
+        "userCount": 145,
+        "id": 840298
+      },
+      "playerName": "Matheus Jesus",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119432212,
+      "time": 69,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 22,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Matheus Jesus",
+        "slug": "matheus-jesus",
+        "shortName": "M. Jesus",
+        "position": "M",
+        "jerseyNumber": "47",
+        "userCount": 145,
+        "id": 840298
+      },
+      "playerOut": {
+        "name": "Thonny Anderson",
+        "slug": "thonny-anderson",
+        "shortName": "T. Anderson",
+        "position": "M",
+        "jerseyNumber": "5",
+        "userCount": 137,
+        "id": 923836
+      },
+      "id": 119582682,
+      "time": 66,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 25,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Aderlan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "aderlan",
+        "shortName": "Aderlan",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 189,
+        "id": 584432
+      },
+      "playerName": "Aderlan",
+      "reason": "Persistent fouling",
+      "rescinded": false,
+      "id": 119432181,
+      "time": 63,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 28,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 0,
+      "player": {
+        "name": "Ytalo",
+        "slug": "ytalo",
+        "shortName": "Ytalo",
+        "position": "F",
+        "jerseyNumber": "23",
+        "userCount": 255,
+        "id": 47548
+      },
+      "id": 127788058,
+      "time": 50,
+      "isHome": true,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 41,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Wesley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley",
+        "shortName": "Wesley",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 697,
+        "id": 985766
+      },
+      "id": 119582622,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "playerOut": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "jerseyNumber": "25",
+        "userCount": 1987,
+        "id": 974556
+      },
+      "id": 119582621,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 1,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 3,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Gustavo Gómez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-gomez",
+        "shortName": "G. Gómez",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 2799,
+        "id": 220833,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غوميز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Gustavo Gómez",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119432067,
+      "time": 41,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 5,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Uillian Correia",
+        "slug": "uillian-correia",
+        "shortName": "U. Correia",
+        "position": "M",
+        "userCount": 44,
+        "id": 253857
+      },
+      "assist1": {
+        "name": "Ytalo",
+        "slug": "ytalo",
+        "shortName": "Ytalo",
+        "position": "F",
+        "jerseyNumber": "23",
+        "userCount": 255,
+        "id": 47548
+      },
+      "id": 127787556,
+      "time": 34,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 12,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Wesley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley",
+        "shortName": "Wesley",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 697,
+        "id": 985766
+      },
+      "playerName": "Wesley",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119432032,
+      "time": 30,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 16,
+      "incidentType": "card"
+    }
+  ]
+}

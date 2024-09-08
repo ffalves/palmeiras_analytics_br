@@ -1,0 +1,355 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 5,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Rafael Carioca",
+        "slug": "rafael-carioca",
+        "shortName": "R. Carioca",
+        "position": "D",
+        "userCount": 30,
+        "id": 915350
+      },
+      "playerOut": {
+        "name": "Tito",
+        "firstName": "",
+        "lastName": "",
+        "slug": "tito",
+        "shortName": "Tito",
+        "position": "D",
+        "userCount": 2,
+        "id": 922722
+      },
+      "id": 120861062,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Pedro Bicalho",
+        "slug": "bicalho-pedro",
+        "shortName": "P. Bicalho",
+        "position": "M",
+        "userCount": 189,
+        "id": 966133
+      },
+      "playerOut": {
+        "name": "Patrick de Paula",
+        "firstName": "",
+        "lastName": "",
+        "slug": "patrick-de-paula",
+        "shortName": "Patrick de Paula",
+        "position": "M",
+        "userCount": 723,
+        "id": 1015291
+      },
+      "id": 120861063,
+      "time": 86,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Renato Cajá",
+        "slug": "renato-caja",
+        "shortName": "R. Cajá",
+        "position": "M",
+        "userCount": 39,
+        "id": 247507
+      },
+      "playerOut": {
+        "name": "Celsinho",
+        "slug": "celsinho",
+        "shortName": "Celsinho",
+        "position": "D",
+        "userCount": 3,
+        "id": 926822
+      },
+      "id": 120861061,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Diego Tavares",
+        "slug": "diego-tavares",
+        "shortName": "D. Tavares",
+        "position": "M",
+        "userCount": 20,
+        "id": 871003
+      },
+      "playerOut": {
+        "name": "Matheus Galdezani",
+        "slug": "matheus-galdezani",
+        "shortName": "M. Galdezani",
+        "position": "M",
+        "userCount": 77,
+        "id": 797476
+      },
+      "id": 120861029,
+      "time": 79,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 12,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Xandão",
+        "slug": "xandao",
+        "shortName": "Xandão",
+        "position": "D",
+        "userCount": 23,
+        "id": 887270
+      },
+      "playerOut": {
+        "name": "Matheus Mancini",
+        "slug": "matheus-mancini",
+        "shortName": "M. Mancini",
+        "position": "D",
+        "userCount": 27,
+        "id": 866432
+      },
+      "id": 120861027,
+      "time": 79,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 12,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "userCount": 3825,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Deyverson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "deyverson",
+        "shortName": "Deyverson",
+        "position": "F",
+        "userCount": 1848,
+        "id": 270287,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيرسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 120860988,
+      "time": 70,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 21,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Giovani",
+        "firstName": "Giovani",
+        "lastName": "",
+        "slug": "giovani",
+        "shortName": "Giovani",
+        "position": "F",
+        "userCount": 1256,
+        "id": 1066717
+      },
+      "playerOut": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "userCount": 783,
+        "id": 937552
+      },
+      "id": 120860987,
+      "time": 70,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 21,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Geovane",
+        "firstName": "",
+        "lastName": "",
+        "slug": "geovane",
+        "shortName": "Geovane",
+        "position": "M",
+        "userCount": 23,
+        "id": 822522
+      },
+      "playerName": "Geovane",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120193902,
+      "time": 63,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 28,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Geovane",
+        "firstName": "",
+        "lastName": "",
+        "slug": "geovane",
+        "shortName": "Geovane",
+        "position": "M",
+        "userCount": 23,
+        "id": 822522
+      },
+      "playerOut": {
+        "name": "Osman",
+        "firstName": "",
+        "lastName": "",
+        "slug": "osman",
+        "shortName": "Osman",
+        "position": "F",
+        "userCount": 49,
+        "id": 839772
+      },
+      "id": 120860963,
+      "time": 62,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 29,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "userCount": 2668,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "userCount": 1387,
+        "id": 329069
+      },
+      "id": 120860965,
+      "time": 62,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 29,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Eduard Atuesta",
+        "slug": "eduard-atuesta",
+        "shortName": "E. Atuesta",
+        "position": "M",
+        "userCount": 913,
+        "id": 846468
+      },
+      "playerOut": {
+        "name": "Wesley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley",
+        "shortName": "Wesley",
+        "position": "F",
+        "userCount": 699,
+        "id": 985766
+      },
+      "id": 120860964,
+      "time": 62,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 29,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Celsinho",
+        "slug": "celsinho",
+        "shortName": "Celsinho",
+        "position": "D",
+        "userCount": 3,
+        "id": 926822
+      },
+      "playerName": "Celsinho",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120193813,
+      "time": 45,
+      "addedTime": 3,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 5,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    }
+  ]
+}

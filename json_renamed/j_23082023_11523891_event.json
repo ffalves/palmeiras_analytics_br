@@ -1,0 +1,262 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores",
+      "slug": "conmebol-libertadores",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "flag": "south-america"
+        },
+        "userCount": 214773,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 594,
+      "competitionType": 2,
+      "id": 309
+    },
+    "season": {
+      "name": "Copa Libertadores 2023",
+      "year": "2023",
+      "editor": false,
+      "seasonCoverageInfo": {},
+      "id": 47974
+    },
+    "roundInfo": {
+      "round": 27,
+      "name": "Quarterfinal",
+      "slug": "quarterfinal",
+      "cupRoundType": 4
+    },
+    "customId": "nOsjxc",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 2,
+    "venue": {
+      "city": {
+        "name": "Pereira"
+      },
+      "stadium": {
+        "name": "Estadio Hernan Ramirez Villegas",
+        "capacity": 35342
+      },
+      "id": 2403,
+      "country": {
+        "alpha2": "CO",
+        "name": "Colombia"
+      }
+    },
+    "referee": {
+      "name": "Facundo Tello",
+      "slug": "tello-facundo",
+      "yellowCards": 1315,
+      "redCards": 52,
+      "yellowRedCards": 50,
+      "games": 241,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 327873,
+      "country": {
+        "alpha2": "AR",
+        "name": "Argentina"
+      }
+    },
+    "homeTeam": {
+      "name": "Deportivo Pereira",
+      "slug": "deportivo-pereira",
+      "shortName": "Deportivo Pereira",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 12205,
+      "venue": {
+        "city": {
+          "name": "Pereira"
+        },
+        "stadium": {
+          "name": "Estadio Hernan Ramirez Villegas",
+          "capacity": 35342
+        },
+        "id": 2403,
+        "country": {
+          "alpha2": "CO",
+          "name": "Colombia"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PER",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 6109,
+      "country": {
+        "alpha2": "CO",
+        "name": "Colombia"
+      },
+      "subTeams": [],
+      "fullName": "Deportivo Pereira",
+      "teamColors": {
+        "primary": "#d00000",
+        "secondary": "#222226",
+        "text": "#222226"
+      },
+      "foundationDateTimestamp": -816912000
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209415,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 45000
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "awayScore": {
+      "current": 4,
+      "display": 4,
+      "period1": 3,
+      "period2": 1,
+      "normaltime": 4
+    },
+    "time": {
+      "injuryTime1": 6,
+      "injuryTime2": 3,
+      "currentPeriodStartTimestamp": 1692843908
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.period2",
+        "homeScore.normaltime",
+        "awayScore.period2",
+        "awayScore.normaltime",
+        "time.currentPeriodStart"
+      ],
+      "changeTimestamp": 1692843912
+    },
+    "hasGlobalHighlights": false,
+    "hasXg": true,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 11523891,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1692843908,
+    "startTimestamp": 1692837000,
+    "slug": "deportivo-pereira-palmeiras",
+    "finalResultOnly": false,
+    "hasBet365LiveStream": true,
+    "bet365ExcludedCountryCodes": [
+      "??",
+      "AN",
+      "CU",
+      "IR",
+      "KP",
+      "SY",
+      "VE",
+      "GR",
+      "RU",
+      "CH",
+      "CA"
+    ],
+    "cupMatchesInRound": 2,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

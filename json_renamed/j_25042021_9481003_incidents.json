@@ -1,0 +1,486 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 1,
+      "awayScore": 2,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 2,
+      "player": {
+        "name": "Newton",
+        "firstName": "",
+        "lastName": "",
+        "slug": "newton",
+        "shortName": "Newton",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 48,
+        "id": 1024043
+      },
+      "id": 145120861,
+      "time": 90,
+      "addedTime": 5,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 1,
+      "incidentType": "goal"
+    },
+    {
+      "length": 5,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Rafael Silva",
+        "slug": "rafael-silva",
+        "shortName": "R. Silva",
+        "position": "F",
+        "jerseyNumber": "30",
+        "userCount": 23,
+        "id": 870942
+      },
+      "playerOut": {
+        "name": "Pedro Lucas",
+        "slug": "pedro-lucas",
+        "shortName": "P. Lucas",
+        "position": "F",
+        "jerseyNumber": "37",
+        "userCount": 94,
+        "id": 973750
+      },
+      "id": 120209836,
+      "time": 89,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 2,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Rafinha",
+        "slug": "rafinha",
+        "shortName": "Rafinha",
+        "position": "M",
+        "jerseyNumber": "17",
+        "userCount": 34,
+        "id": 329115
+      },
+      "playerOut": {
+        "name": "Moraes Júnior",
+        "firstName": "",
+        "lastName": "",
+        "slug": "moraes-junior",
+        "shortName": "Moraes Júnior",
+        "position": "D",
+        "userCount": 70,
+        "id": 877139
+      },
+      "id": 120209835,
+      "time": 89,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 2,
+      "incidentType": "substitution"
+    },
+    {
+      "time": 81,
+      "player": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "jerseyNumber": "25",
+        "userCount": 1987,
+        "id": 974556
+      },
+      "description": "Goalkeeper save",
+      "id": 118341028,
+      "incidentType": "inGamePenalty",
+      "isHome": true,
+      "incidentClass": "missed",
+      "reason": "goalkeeperSave",
+      "reversedPeriodTime": 10
+    },
+    {
+      "playerIn": {
+        "name": "Ernandes",
+        "slug": "ernandes",
+        "shortName": "Ernandes",
+        "position": "D",
+        "userCount": 18,
+        "id": 241436
+      },
+      "playerOut": {
+        "name": "Diego Gonçalves",
+        "firstName": "",
+        "lastName": "",
+        "slug": "diego-goncalves",
+        "shortName": "Diego Gonçalves",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 69,
+        "id": 344077
+      },
+      "injury": true,
+      "id": 120209825,
+      "time": 78,
+      "isHome": false,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 13,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Lucas Silva",
+        "firstName": "",
+        "lastName": "",
+        "slug": "lucas-silva",
+        "shortName": "L. Silva",
+        "position": "F",
+        "jerseyNumber": "19",
+        "userCount": 16,
+        "id": 804361
+      },
+      "playerOut": {
+        "name": "Cássio Gabriel",
+        "firstName": "",
+        "lastName": "",
+        "slug": "cassio-gabriel",
+        "shortName": "Cássio Gabriel",
+        "position": "M",
+        "jerseyNumber": "21",
+        "userCount": 23,
+        "id": 307894
+      },
+      "id": 120209824,
+      "time": 78,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 13,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Alex Muralha",
+        "slug": "alex-muralha",
+        "shortName": "A. Santana",
+        "position": "G",
+        "jerseyNumber": "1",
+        "userCount": 157,
+        "id": 340113
+      },
+      "playerName": "Alex Muralha",
+      "reason": "Time wasting",
+      "rescinded": false,
+      "id": 119816173,
+      "time": 68,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 23,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Wesley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley",
+        "shortName": "Wesley",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 697,
+        "id": 985766
+      },
+      "playerOut": {
+        "name": "Fabinho",
+        "slug": "fabinho",
+        "shortName": "Fabinho",
+        "position": "M",
+        "jerseyNumber": "35",
+        "userCount": 519,
+        "id": 1117513
+      },
+      "id": 120209814,
+      "time": 65,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 26,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Newton",
+        "firstName": "",
+        "lastName": "",
+        "slug": "newton",
+        "shortName": "Newton",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 48,
+        "id": 1024043
+      },
+      "playerOut": {
+        "name": "Lucas Esteves",
+        "firstName": "",
+        "lastName": "",
+        "slug": "lucas-esteves",
+        "shortName": "Lucas Esteves",
+        "position": "D",
+        "jerseyNumber": "6",
+        "userCount": 171,
+        "id": 1387272
+      },
+      "id": 120209813,
+      "time": 65,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 26,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Sousa",
+        "slug": "sousa",
+        "shortName": "Sousa",
+        "position": "M",
+        "jerseyNumber": "15",
+        "userCount": 14,
+        "id": 925267
+      },
+      "playerOut": {
+        "name": "Fabrício Daniel",
+        "firstName": "",
+        "lastName": "",
+        "slug": "fabricio-daniel",
+        "shortName": "Fabrício Daniel",
+        "position": "F",
+        "jerseyNumber": "97",
+        "userCount": 131,
+        "id": 1128767
+      },
+      "id": 120209811,
+      "time": 63,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 28,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Neto Moura",
+        "slug": "neto-moura",
+        "shortName": "N. Moura",
+        "position": "M",
+        "jerseyNumber": "5",
+        "userCount": 219,
+        "id": 559034
+      },
+      "playerName": "Neto Moura",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119816172,
+      "time": 60,
+      "isHome": false,
+      "incidentClass": "yellowRed",
+      "reversedPeriodTime": 31,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Marcelinho",
+        "firstName": "Marcelinho",
+        "lastName": "",
+        "slug": "marcelinho",
+        "shortName": "Marcelinho",
+        "position": "F",
+        "jerseyNumber": "21",
+        "userCount": 128,
+        "id": 1046439
+      },
+      "playerOut": {
+        "name": "Henri Santos",
+        "firstName": "",
+        "lastName": "",
+        "slug": "henri-santos",
+        "shortName": "H. Santos",
+        "position": "D",
+        "jerseyNumber": "44",
+        "userCount": 247,
+        "id": 1002459
+      },
+      "id": 120209808,
+      "time": 52,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 39,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 2,
+      "player": {
+        "name": "Diego Gonçalves",
+        "firstName": "",
+        "lastName": "",
+        "slug": "diego-goncalves",
+        "shortName": "Diego Gonçalves",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 69,
+        "id": 344077
+      },
+      "assist1": {
+        "name": "Luís Oyama",
+        "slug": "luis-oyama",
+        "shortName": "Luís Oyama",
+        "position": "M",
+        "jerseyNumber": "55",
+        "userCount": 195,
+        "id": 922570
+      },
+      "id": 145120066,
+      "time": 48,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 43,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Silva",
+        "firstName": "Gabriel Silva",
+        "lastName": "",
+        "slug": "gabriel-silva",
+        "shortName": "Gabriel Silva",
+        "position": "M",
+        "jerseyNumber": "49",
+        "userCount": 387,
+        "id": 1046794
+      },
+      "playerOut": {
+        "name": "Pedro Bicalho",
+        "slug": "bicalho-pedro",
+        "shortName": "P. Bicalho",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 187,
+        "id": 966133
+      },
+      "id": 120209803,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "jerseyNumber": "25",
+        "userCount": 1987,
+        "id": 974556
+      },
+      "playerOut": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 120209802,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Neto Moura",
+        "slug": "neto-moura",
+        "shortName": "N. Moura",
+        "position": "M",
+        "jerseyNumber": "5",
+        "userCount": 219,
+        "id": 559034
+      },
+      "playerName": "Neto Moura",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119816151,
+      "time": 45,
+      "addedTime": 1,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 2,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "Fabrício Daniel",
+        "firstName": "",
+        "lastName": "",
+        "slug": "fabricio-daniel",
+        "shortName": "Fabrício Daniel",
+        "position": "F",
+        "jerseyNumber": "97",
+        "userCount": 131,
+        "id": 1128767
+      },
+      "assist1": {
+        "name": "Moraes Júnior",
+        "firstName": "",
+        "lastName": "",
+        "slug": "moraes-junior",
+        "shortName": "Moraes Júnior",
+        "position": "D",
+        "userCount": 70,
+        "id": 877139
+      },
+      "id": 145119489,
+      "time": 29,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 17,
+      "incidentType": "goal"
+    }
+  ]
+}

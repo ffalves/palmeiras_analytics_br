@@ -1,0 +1,290 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 5,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Zé Ivaldo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ze-ivaldo",
+        "shortName": "Zé Ivaldo",
+        "position": "D",
+        "jerseyNumber": "3",
+        "userCount": 165,
+        "id": 844602
+      },
+      "playerOut": {
+        "name": "Pedro Henrique",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-henrique",
+        "shortName": "P. Henrique",
+        "position": "D",
+        "jerseyNumber": "34",
+        "userCount": 353,
+        "id": 551774
+      },
+      "id": 120729997,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Jader",
+        "firstName": "Jader",
+        "lastName": "",
+        "slug": "jader",
+        "shortName": "Jader",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 112,
+        "id": 1128847
+      },
+      "playerOut": {
+        "name": "Pedro Rocha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pedro-rocha",
+        "shortName": "Pedro Rocha",
+        "position": "M",
+        "jerseyNumber": "32",
+        "userCount": 320,
+        "id": 794930
+      },
+      "id": 120729996,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Pedro Bicalho",
+        "slug": "bicalho-pedro",
+        "shortName": "P. Bicalho",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 187,
+        "id": 966133
+      },
+      "playerOut": {
+        "name": "Lucas Freitas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "lucas-freitas",
+        "shortName": "L. Freitas",
+        "position": "D",
+        "jerseyNumber": "43",
+        "userCount": 185,
+        "id": 1069729
+      },
+      "id": 120729990,
+      "time": 84,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 7,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Márcio Azevedo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcio-azevedo",
+        "shortName": "M. Azevedo",
+        "position": "D",
+        "userCount": 36,
+        "id": 39356
+      },
+      "playerOut": {
+        "name": "Fernando Canesin",
+        "firstName": "",
+        "lastName": "",
+        "slug": "fernando-canesin",
+        "shortName": "Fernando Canesin",
+        "position": "M",
+        "jerseyNumber": "55",
+        "userCount": 77,
+        "id": 152510
+      },
+      "id": 120729985,
+      "time": 80,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 11,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Fernando Canesin",
+        "firstName": "",
+        "lastName": "",
+        "slug": "fernando-canesin",
+        "shortName": "Fernando Canesin",
+        "position": "M",
+        "jerseyNumber": "55",
+        "userCount": 77,
+        "id": 152510
+      },
+      "playerName": "Fernando Canesin",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120114129,
+      "time": 75,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 16,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Nicolás Hernández",
+        "slug": "nicolas-hernandez",
+        "shortName": "N. Hernández",
+        "position": "D",
+        "jerseyNumber": "22",
+        "userCount": 300,
+        "id": 887155
+      },
+      "playerOut": {
+        "name": "Nicolas",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nicolas",
+        "shortName": "Nicolas",
+        "position": "D",
+        "jerseyNumber": "30",
+        "userCount": 120,
+        "id": 841336
+      },
+      "id": 120729972,
+      "time": 64,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 27,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Pedrinho",
+        "firstName": "Pedrinho",
+        "lastName": "",
+        "slug": "pedrinho",
+        "shortName": "Pedrinho",
+        "position": "D",
+        "jerseyNumber": "23",
+        "userCount": 158,
+        "id": 1100817,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدرينهو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Abner Vinícius",
+        "firstName": "",
+        "lastName": "",
+        "slug": "abner-vinicius",
+        "shortName": "Abner Vinícius",
+        "position": "D",
+        "jerseyNumber": "20",
+        "userCount": 814,
+        "id": 973838,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دا سيلفا سانتوس, أبنر فينيسيوس"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 120729971,
+      "time": 64,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 27,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Matheus Fernandes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "matheus-fernandes",
+        "shortName": "Matheus Fernandes",
+        "position": "M",
+        "jerseyNumber": "35",
+        "userCount": 1014,
+        "id": 840150
+      },
+      "playerName": "Matheus Fernandes",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120114111,
+      "time": 45,
+      "addedTime": 3,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 3,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "confirmed": true,
+      "player": {
+        "name": "Vitor Hugo",
+        "firstName": "Vitor Hugo",
+        "lastName": "",
+        "slug": "vitor-hugo",
+        "shortName": "V. Hugo",
+        "position": "F",
+        "jerseyNumber": "29",
+        "userCount": 21,
+        "id": 1046502
+      },
+      "isHome": false,
+      "id": 8789,
+      "time": 36,
+      "incidentClass": "penaltyNotAwarded",
+      "reversedPeriodTime": 10,
+      "incidentType": "varDecision"
+    }
+  ]
+}

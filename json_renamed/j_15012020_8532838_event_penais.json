@@ -1,0 +1,211 @@
+{
+  "event": {
+    "tournament": {
+      "name": "Florida Cup",
+      "slug": "florida-cup",
+      "category": {
+        "name": "World",
+        "slug": "world",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1468,
+        "country": {},
+        "flag": "international"
+      },
+      "uniqueTournament": {
+        "name": "Florida Cup",
+        "slug": "florida-cup",
+        "primaryColorHex": "#f77e28",
+        "secondaryColorHex": "#298439",
+        "category": {
+          "name": "World",
+          "slug": "world",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1468,
+          "country": {},
+          "flag": "international"
+        },
+        "userCount": 7826,
+        "id": 10709,
+        "country": {},
+        "hasEventPlayerStatistics": false,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 0,
+      "competitionType": 1,
+      "id": 63921
+    },
+    "season": {
+      "name": "Florida Cup 2020",
+      "year": "2020",
+      "editor": false,
+      "id": 26838
+    },
+    "roundInfo": {
+      "round": 1
+    },
+    "customId": "nOsgxc",
+    "status": {
+      "code": 120,
+      "description": "AP",
+      "type": "finished"
+    },
+    "winnerCode": 1,
+    "homeTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "awayTeam": {
+      "name": "Atlético Nacional",
+      "slug": "atletico-nacional",
+      "shortName": "Atl. Nacional",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 34179,
+      "manager": {
+        "name": "Jhon Jairo Bodmer",
+        "slug": "jhon-jairo-bodmer",
+        "shortName": "J. J. Bodmer",
+        "id": 789635,
+        "country": {
+          "alpha2": "CO",
+          "name": "Colombia"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Medellin"
+        },
+        "stadium": {
+          "name": "Estadio Atanasio Girardot",
+          "capacity": 44739
+        },
+        "id": 1010,
+        "country": {
+          "alpha2": "CO",
+          "name": "Colombia"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "CAN",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 6106,
+      "country": {
+        "alpha2": "CO",
+        "name": "Colombia"
+      },
+      "subTeams": [],
+      "fullName": "Atlético Nacional",
+      "teamColors": {
+        "primary": "#339933",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "foundationDateTimestamp": -720230400
+    },
+    "homeScore": {
+      "current": 10,
+      "display": 0,
+      "period1": 0,
+      "normaltime": 0,
+      "penalties": 10
+    },
+    "awayScore": {
+      "current": 9,
+      "display": 0,
+      "period1": 0,
+      "normaltime": 0,
+      "penalties": 9
+    },
+    "coverage": -1,
+    "time": {
+      "injuryTime2": 2,
+      "currentPeriodStartTimestamp": 1579147275
+    },
+    "changes": {
+      "changes": [
+        "cardsCode"
+      ],
+      "changeTimestamp": 1579171330
+    },
+    "hasGlobalHighlights": false,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 8532838,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1579147275,
+    "startTimestamp": 1579138200,
+    "slug": "atletico-nacional-palmeiras",
+    "finalResultOnly": false,
+    "fanRatingEvent": false,
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 1,
+      "awayScore": 2,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 6,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Henrique Dourado",
+        "firstName": "",
+        "lastName": "",
+        "slug": "henrique-dourado",
+        "shortName": "Henrique",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 370,
+        "id": 329219
+      },
+      "playerOut": {
+        "name": "Deyverson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "deyverson",
+        "shortName": "Deyverson",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 1846,
+        "id": 270287,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيرسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119476155,
+      "time": 87,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 4,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 2,
+      "player": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 126761572,
+      "time": 86,
+      "isHome": false,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 5,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Ricardo Thalheimer",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ricardo-thalheimer",
+        "shortName": "R. Thalheimer",
+        "position": "D",
+        "jerseyNumber": "14",
+        "userCount": 5,
+        "id": 922641
+      },
+      "playerName": "Ricardo Thalheimer",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119349953,
+      "time": 85,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 6,
+      "incidentType": "card"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Deyverson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "deyverson",
+        "shortName": "Deyverson",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 1846,
+        "id": 270287,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيرسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": false,
+      "id": 908,
+      "time": 83,
+      "incidentClass": "penaltyNotAwarded",
+      "reversedPeriodTime": 8,
+      "incidentType": "varDecision"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 1,
+      "player": {
+        "name": "João Paulo",
+        "slug": "joao-paulo",
+        "shortName": "J. Paulo",
+        "position": "M",
+        "jerseyNumber": "18",
+        "userCount": 80,
+        "id": 869433
+      },
+      "id": 126761570,
+      "time": 79,
+      "isHome": true,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 12,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Weverton",
+        "slug": "weverton",
+        "shortName": "Weverton",
+        "position": "G",
+        "jerseyNumber": "21",
+        "userCount": 2685,
+        "id": 243529,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويفرتون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Weverton",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119349955,
+      "time": 78,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 13,
+      "incidentType": "card"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Vinícius Araújo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "vinicius-araujo",
+        "shortName": "V. Araújo",
+        "position": "F",
+        "userCount": 46,
+        "id": 329237
+      },
+      "isHome": true,
+      "id": 907,
+      "time": 77,
+      "incidentClass": "penaltyNotAwarded",
+      "reversedPeriodTime": 14,
+      "incidentType": "varDecision"
+    },
+    {
+      "playerIn": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "jerseyNumber": "31",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "id": 119476154,
+      "time": 65,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 26,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Carlos Eduardo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "carlos-eduardo",
+        "shortName": "Carlos Eduardo",
+        "position": "F",
+        "jerseyNumber": "28",
+        "userCount": 206,
+        "id": 795295
+      },
+      "id": 119476153,
+      "time": 64,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 27,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "João Paulo",
+        "slug": "joao-paulo",
+        "shortName": "J. Paulo",
+        "position": "M",
+        "jerseyNumber": "18",
+        "userCount": 80,
+        "id": 869433
+      },
+      "playerOut": {
+        "name": "Julinho",
+        "slug": "julinho",
+        "shortName": "Julinho",
+        "position": "D",
+        "userCount": 6,
+        "id": 167075
+      },
+      "id": 119476152,
+      "time": 63,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 28,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Igor",
+        "slug": "igor",
+        "shortName": "Igor",
+        "position": "F",
+        "userCount": 7,
+        "id": 885377
+      },
+      "playerOut": {
+        "name": "Marquinhos",
+        "slug": "marquinhos",
+        "shortName": "Marquinhos",
+        "position": "D",
+        "jerseyNumber": "3",
+        "userCount": 9,
+        "id": 43655
+      },
+      "id": 119476151,
+      "time": 59,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 32,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "Deyverson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "deyverson",
+        "shortName": "Deyverson",
+        "position": "F",
+        "jerseyNumber": "16",
+        "userCount": 1846,
+        "id": 270287,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ديفيرسون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Lucas Lima",
+        "slug": "lucas-lima",
+        "shortName": "L. Lima",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 988,
+        "id": 244589
+      },
+      "id": 126761571,
+      "time": 54,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 37,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Jonathan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jonathan",
+        "shortName": "Jonathan",
+        "position": "F",
+        "userCount": 40,
+        "id": 994466
+      },
+      "playerName": "Jonathan",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119349952,
+      "time": 49,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 42,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Felipe Melo",
+        "slug": "felipe-melo",
+        "shortName": "F. Melo",
+        "position": "D",
+        "jerseyNumber": "30",
+        "userCount": 1449,
+        "id": 4811
+      },
+      "playerName": "Felipe Melo",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119349954,
+      "time": 49,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 42,
+      "incidentType": "card"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 4,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Betão",
+        "firstName": "",
+        "lastName": "",
+        "slug": "betao",
+        "shortName": "Betão",
+        "position": "D",
+        "jerseyNumber": "3",
+        "userCount": 14,
+        "id": 34054
+      },
+      "playerName": "Betão",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119349951,
+      "time": 40,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 6,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Léo",
+        "slug": "leo",
+        "shortName": "Léo",
+        "position": "D",
+        "userCount": 17,
+        "id": 329005
+      },
+      "playerOut": {
+        "name": "Lourenço",
+        "firstName": "",
+        "lastName": "",
+        "slug": "lourenco",
+        "shortName": "Lourenço",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 60,
+        "id": 879871
+      },
+      "injury": true,
+      "id": 119476150,
+      "time": 33,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 13,
+      "incidentType": "substitution"
+    }
+  ]
+}

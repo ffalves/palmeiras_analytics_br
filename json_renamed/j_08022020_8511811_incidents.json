@@ -1,0 +1,437 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 0,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Dudu",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119436967,
+      "time": 90,
+      "addedTime": 5,
+      "isHome": false,
+      "incidentClass": "yellowRed",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "João Paulo",
+        "slug": "joao-paulo",
+        "shortName": "J. Paulo",
+        "position": "M",
+        "jerseyNumber": "18",
+        "userCount": 80,
+        "id": 869433
+      },
+      "playerName": "João Paulo",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119436966,
+      "time": 90,
+      "addedTime": 5,
+      "isHome": true,
+      "incidentClass": "yellowRed",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "playerIn": {
+        "name": "Allison Safira",
+        "slug": "allison-safira",
+        "shortName": "A. Safira",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 86,
+        "id": 870927
+      },
+      "playerOut": {
+        "name": "Bruno Rodrigues",
+        "firstName": "",
+        "lastName": "",
+        "slug": "bruno-rodrigues",
+        "shortName": "Bruno Rodrigues",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 1092,
+        "id": 817650
+      },
+      "id": 119588871,
+      "time": 89,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 2,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Felipe Melo",
+        "slug": "felipe-melo",
+        "shortName": "F. Melo",
+        "position": "D",
+        "jerseyNumber": "30",
+        "userCount": 1449,
+        "id": 4811
+      },
+      "playerName": "Felipe Melo",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119436964,
+      "time": 85,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 6,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Wellington Carvalho",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wellington-carvalho",
+        "shortName": "W. Carvalho",
+        "position": "D",
+        "userCount": 19,
+        "id": 829487
+      },
+      "playerName": "Wellington Carvalho",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119436954,
+      "time": 80,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 11,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Vinicius Zanocelo",
+        "slug": "vinicius-zanocelo",
+        "shortName": "Vinicius Zanocelo",
+        "position": "M",
+        "jerseyNumber": "25",
+        "userCount": 302,
+        "id": 973841
+      },
+      "playerOut": {
+        "name": "Índio",
+        "slug": "indio",
+        "shortName": "Índio",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 17,
+        "id": 981621
+      },
+      "id": 119588859,
+      "time": 77,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 14,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Bruno Henrique",
+        "slug": "bruno-henrique",
+        "shortName": "Bruno Henrique",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 389,
+        "id": 345113,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برونو هنريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Luiz Adriano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-adriano",
+        "shortName": "L. Adriano",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 763,
+        "id": 39438
+      },
+      "id": 119588855,
+      "time": 71,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Apodi",
+        "firstName": "",
+        "lastName": "",
+        "slug": "apodi",
+        "shortName": "Apodi",
+        "position": "F",
+        "jerseyNumber": "22",
+        "userCount": 145,
+        "id": 33119
+      },
+      "playerName": "Apodi",
+      "reason": "Persistent fouling",
+      "rescinded": false,
+      "id": 119436951,
+      "time": 62,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 29,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Dudu",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119436949,
+      "time": 47,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 44,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Felipe Saraiva",
+        "slug": "felipe-saraiva",
+        "shortName": "F. Saraiva",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 49,
+        "id": 882076
+      },
+      "playerOut": {
+        "name": "Mateus Anderson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "mateus-anderson",
+        "shortName": "M. Anderson",
+        "position": "M",
+        "userCount": 20,
+        "id": 871181
+      },
+      "id": 119588854,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 3,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "João Paulo",
+        "slug": "joao-paulo",
+        "shortName": "J. Paulo",
+        "position": "M",
+        "jerseyNumber": "18",
+        "userCount": 80,
+        "id": 869433
+      },
+      "playerName": "João Paulo",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119436944,
+      "time": 43,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 3,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Mayke",
+        "slug": "mayke",
+        "shortName": "Mayke",
+        "position": "D",
+        "jerseyNumber": "12",
+        "userCount": 937,
+        "id": 273329,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايكي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Marcos Rocha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcos-rocha",
+        "shortName": "Marcos Rocha",
+        "position": "D",
+        "jerseyNumber": "2",
+        "userCount": 976,
+        "id": 82576
+      },
+      "injury": true,
+      "id": 119588853,
+      "time": 41,
+      "isHome": false,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Mateus Anderson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "mateus-anderson",
+        "shortName": "M. Anderson",
+        "position": "M",
+        "userCount": 20,
+        "id": 871181
+      },
+      "playerName": "Mateus Anderson",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119436942,
+      "time": 38,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 8,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Luiz Adriano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-adriano",
+        "shortName": "L. Adriano",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 763,
+        "id": 39438
+      },
+      "id": 127846357,
+      "time": 33,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 13,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Patrick de Paula",
+        "firstName": "",
+        "lastName": "",
+        "slug": "patrick-de-paula",
+        "shortName": "Patrick de Paula",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 729,
+        "id": 1015291
+      },
+      "playerOut": {
+        "name": "Ramires",
+        "slug": "ramires",
+        "shortName": "Ramires",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 309,
+        "id": 33110
+      },
+      "injury": true,
+      "id": 119588843,
+      "time": 24,
+      "isHome": false,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 22,
+      "incidentType": "substitution"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores, Group A",
+      "slug": "conmebol-libertadores-group-a",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 214891,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 593,
+      "competitionType": 1,
+      "id": 2928
+    },
+    "season": {
+      "name": "Copa Libertadores 2022",
+      "year": "2022",
+      "editor": false,
+      "id": 40174
+    },
+    "roundInfo": {
+      "round": 5
+    },
+    "customId": "nOsffc",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 1,
+    "venue": {
+      "city": {
+        "name": "Sao Paulo"
+      },
+      "stadium": {
+        "name": "Allianz Parque",
+        "capacity": 45000
+      },
+      "id": 15699,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      }
+    },
+    "referee": {
+      "name": "Julio Bascunan",
+      "slug": "julio-bascunan",
+      "yellowCards": 790,
+      "redCards": 32,
+      "yellowRedCards": 15,
+      "games": 154,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 177455,
+      "country": {
+        "alpha2": "CL",
+        "name": "Chile"
+      }
+    },
+    "homeTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209465,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 45000
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "awayTeam": {
+      "name": "Emelec",
+      "slug": "emelec",
+      "shortName": "Emelec",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 13264,
+      "manager": {
+        "name": "Hernan Torres Oliveros",
+        "slug": "hernan-torres-oliveros",
+        "shortName": "H. Torres",
+        "id": 792282,
+        "country": {
+          "alpha2": "CO",
+          "name": "Colombia"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Guayaquil"
+        },
+        "stadium": {
+          "name": "Estadio Banco del Pacífico Capwell",
+          "capacity": 40020
+        },
+        "id": 1305,
+        "country": {
+          "alpha2": "EC",
+          "name": "Ecuador"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "CSE",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 5255,
+      "country": {
+        "alpha2": "EC",
+        "name": "Ecuador"
+      },
+      "subTeams": [],
+      "fullName": "Emelec",
+      "teamColors": {
+        "primary": "#0000cc",
+        "secondary": "#333399",
+        "text": "#333399"
+      },
+      "foundationDateTimestamp": -1283731200
+    },
+    "homeScore": {
+      "current": 1,
+      "display": 1,
+      "period1": 0,
+      "period2": 1,
+      "normaltime": 1
+    },
+    "awayScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 1,
+      "injuryTime2": 4,
+      "currentPeriodStartTimestamp": 1652917860
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.period2",
+        "homeScore.normaltime",
+        "awayScore.period2",
+        "awayScore.normaltime",
+        "time.currentPeriodStart"
+      ],
+      "changeTimestamp": 1652917863
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 10220363,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1652917860,
+    "startTimestamp": 1652911200,
+    "slug": "emelec-palmeiras",
+    "finalResultOnly": false,
+    "hasBet365LiveStream": true,
+    "bet365ExcludedCountryCodes": [
+      "AR",
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC",
+      "PE",
+      "PY",
+      "UY",
+      "VE",
+      "XA",
+      "XB",
+      "IR",
+      "GR",
+      "RU",
+      "CH",
+      "CA"
+    ],
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

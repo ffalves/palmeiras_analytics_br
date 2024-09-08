@@ -1,0 +1,853 @@
+{
+  "incidents": [
+    {
+      "text": "PEN",
+      "homeScore": 3,
+      "awayScore": 4,
+      "isLive": false,
+      "time": 999,
+      "addedTime": 999,
+      "reversedPeriodTime": 7,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Igor Gomes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "igor-gomes",
+        "shortName": "I. Gomes",
+        "position": "M",
+        "userCount": 659,
+        "id": 913598
+      },
+      "homeScore": 3,
+      "awayScore": 4,
+      "sequence": 10,
+      "description": "Scored",
+      "id": 118401731,
+      "incidentType": "penaltyShootout",
+      "isHome": false,
+      "incidentClass": "scored",
+      "reason": "scored"
+    },
+    {
+      "player": {
+        "name": "Wesley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley",
+        "shortName": "Wesley",
+        "position": "F",
+        "userCount": 699,
+        "id": 985766
+      },
+      "homeScore": 3,
+      "awayScore": 3,
+      "sequence": 9,
+      "description": "Goalkeeper save",
+      "id": 118401730,
+      "incidentType": "penaltyShootout",
+      "isHome": true,
+      "incidentClass": "missed",
+      "reason": "goalkeeperSave"
+    },
+    {
+      "player": {
+        "name": "Igor Vinícius",
+        "firstName": "",
+        "lastName": "",
+        "slug": "igor-vinicius",
+        "shortName": "I. Vinícius",
+        "position": "D",
+        "userCount": 529,
+        "id": 840119
+      },
+      "homeScore": 3,
+      "awayScore": 3,
+      "sequence": 8,
+      "description": "Scored",
+      "id": 118401729,
+      "incidentType": "penaltyShootout",
+      "isHome": false,
+      "incidentClass": "scored",
+      "reason": "scored"
+    },
+    {
+      "player": {
+        "name": "Joaquín Piquerez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "joaquin-piquerez",
+        "shortName": "J. Piquerez",
+        "position": "D",
+        "userCount": 1961,
+        "id": 881110
+      },
+      "homeScore": 3,
+      "awayScore": 2,
+      "sequence": 7,
+      "description": "Scored",
+      "id": 118401728,
+      "incidentType": "penaltyShootout",
+      "isHome": true,
+      "incidentClass": "scored",
+      "reason": "scored"
+    },
+    {
+      "player": {
+        "name": "Nikão",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nikao",
+        "shortName": "Nikão",
+        "position": "M",
+        "userCount": 486,
+        "id": 139300
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "sequence": 6,
+      "description": "Scored",
+      "id": 118401727,
+      "incidentType": "penaltyShootout",
+      "isHome": false,
+      "incidentClass": "scored",
+      "reason": "scored"
+    },
+    {
+      "player": {
+        "name": "Gustavo Gómez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-gomez",
+        "shortName": "G. Gómez",
+        "position": "D",
+        "userCount": 2788,
+        "id": 220833,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غوميز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "homeScore": 2,
+      "awayScore": 1,
+      "sequence": 5,
+      "description": "Scored",
+      "id": 118401726,
+      "incidentType": "penaltyShootout",
+      "isHome": true,
+      "incidentClass": "scored",
+      "reason": "scored"
+    },
+    {
+      "player": {
+        "name": "Jonathan Calleri",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jonathan-calleri",
+        "shortName": "J. Calleri",
+        "position": "F",
+        "userCount": 4743,
+        "id": 340519
+      },
+      "homeScore": 1,
+      "awayScore": 1,
+      "sequence": 4,
+      "description": "Scored",
+      "id": 118401724,
+      "incidentType": "penaltyShootout",
+      "isHome": false,
+      "incidentClass": "scored",
+      "reason": "scored"
+    },
+    {
+      "player": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "homeScore": 1,
+      "awayScore": 0,
+      "sequence": 3,
+      "description": "Scored",
+      "id": 118401723,
+      "incidentType": "penaltyShootout",
+      "isHome": true,
+      "incidentClass": "scored",
+      "reason": "scored"
+    },
+    {
+      "player": {
+        "name": "Luciano",
+        "slug": "luciano",
+        "shortName": "Luciano",
+        "position": "F",
+        "userCount": 2759,
+        "id": 282557,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوتشيانو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "sequence": 2,
+      "description": "Goalkeeper save",
+      "id": 118401725,
+      "incidentType": "penaltyShootout",
+      "isHome": false,
+      "incidentClass": "missed",
+      "reason": "goalkeeperSave"
+    },
+    {
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "userCount": 7967,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "sequence": 1,
+      "description": "Goalkeeper save",
+      "id": 118401722,
+      "incidentType": "penaltyShootout",
+      "isHome": true,
+      "incidentClass": "missed",
+      "reason": "goalkeeperSave"
+    },
+    {
+      "text": "FT",
+      "homeScore": 2,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Marcos Rocha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marcos-rocha",
+        "shortName": "Marcos Rocha",
+        "position": "D",
+        "userCount": 975,
+        "id": 82576
+      },
+      "playerName": "Marcos Rocha",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120380592,
+      "time": 90,
+      "addedTime": 2,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 5,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Nikão",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nikao",
+        "shortName": "Nikão",
+        "position": "M",
+        "userCount": 486,
+        "id": 139300
+      },
+      "playerName": "Nikão",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120380590,
+      "time": 87,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 4,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Wesley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley",
+        "shortName": "Wesley",
+        "position": "F",
+        "userCount": 699,
+        "id": 985766
+      },
+      "playerOut": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "userCount": 4179,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121186652,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "userCount": 1984,
+        "id": 974556
+      },
+      "playerOut": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "userCount": 1387,
+        "id": 329069
+      },
+      "id": 121186651,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Talles Costa",
+        "slug": "talles-costa",
+        "shortName": "T. Costa",
+        "position": "M",
+        "userCount": 453,
+        "id": 1002360
+      },
+      "playerOut": {
+        "name": "Gabriel Neves",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-neves",
+        "shortName": "G. Neves",
+        "position": "M",
+        "userCount": 999,
+        "id": 875294
+      },
+      "id": 121186654,
+      "time": 86,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Luizão",
+        "firstName": "Luizão",
+        "lastName": "",
+        "slug": "luizao",
+        "shortName": "Luizão",
+        "position": "D",
+        "userCount": 326,
+        "id": 1116953
+      },
+      "playerOut": {
+        "name": "Welington",
+        "firstName": "",
+        "lastName": "",
+        "slug": "welington",
+        "shortName": "Welington",
+        "position": "D",
+        "userCount": 582,
+        "id": 1009920,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويلينغتون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121186653,
+      "time": 86,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Pablo Maia",
+        "firstName": "Pablo Maia",
+        "lastName": "",
+        "slug": "pablo-maia",
+        "shortName": "P. Maia",
+        "position": "M",
+        "userCount": 1083,
+        "id": 1120721
+      },
+      "playerOut": {
+        "name": "Rodrigo Nestor",
+        "slug": "rodrigo-nestor",
+        "shortName": "R. Nestor",
+        "position": "M",
+        "userCount": 1093,
+        "id": 905461
+      },
+      "id": 121186640,
+      "time": 77,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 14,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "userCount": 783,
+        "id": 937552
+      },
+      "playerOut": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "userCount": 2668,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121186639,
+      "time": 77,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 14,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Nikão",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nikao",
+        "shortName": "Nikão",
+        "position": "M",
+        "userCount": 486,
+        "id": 139300
+      },
+      "playerOut": {
+        "name": "Miranda",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miranda",
+        "shortName": "Miranda",
+        "position": "D",
+        "userCount": 970,
+        "id": 13017
+      },
+      "id": 121186637,
+      "time": 72,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 19,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 1,
+      "player": {
+        "name": "Luciano",
+        "slug": "luciano",
+        "shortName": "Luciano",
+        "position": "F",
+        "userCount": 2759,
+        "id": 282557,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوتشيانو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 164927552,
+      "time": 70,
+      "isHome": false,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 21,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Gustavo Gómez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-gomez",
+        "shortName": "G. Gómez",
+        "position": "D",
+        "userCount": 2788,
+        "id": 220833,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غوميز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Gustavo Gómez",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120380578,
+      "time": 69,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 22,
+      "incidentType": "card"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Jonathan Calleri",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jonathan-calleri",
+        "shortName": "J. Calleri",
+        "position": "F",
+        "userCount": 4743,
+        "id": 340519
+      },
+      "isHome": false,
+      "id": 12193,
+      "time": 67,
+      "incidentClass": "penaltyNotAwarded",
+      "reversedPeriodTime": 24,
+      "incidentType": "varDecision"
+    },
+    {
+      "time": 66,
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "userCount": 7967,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "description": "Off target",
+      "id": 118401721,
+      "incidentType": "inGamePenalty",
+      "isHome": true,
+      "incidentClass": "missed",
+      "reason": "offTarget",
+      "reversedPeriodTime": 25
+    },
+    {
+      "player": {
+        "name": "Jonathan Calleri",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jonathan-calleri",
+        "shortName": "J. Calleri",
+        "position": "F",
+        "userCount": 4743,
+        "id": 340519
+      },
+      "playerName": "Jonathan Calleri",
+      "reason": "Handball",
+      "rescinded": false,
+      "id": 120380576,
+      "time": 64,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 27,
+      "incidentType": "card"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Gustavo Scarpa",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-scarpa",
+        "shortName": "Gustavo Scarpa",
+        "position": "M",
+        "userCount": 6377,
+        "id": 559036,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سكاربا, غوستافو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "id": 12192,
+      "time": 63,
+      "incidentClass": "penaltyNotAwarded",
+      "reversedPeriodTime": 28,
+      "incidentType": "varDecision"
+    },
+    {
+      "player": {
+        "name": "Rodrigo Nestor",
+        "slug": "rodrigo-nestor",
+        "shortName": "R. Nestor",
+        "position": "M",
+        "userCount": 1093,
+        "id": 905461
+      },
+      "playerName": "Rodrigo Nestor",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120380574,
+      "time": 56,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 35,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Luciano",
+        "slug": "luciano",
+        "shortName": "Luciano",
+        "position": "F",
+        "userCount": 2759,
+        "id": 282557,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوتشيانو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Patrick",
+        "firstName": "",
+        "lastName": "",
+        "slug": "patrick",
+        "shortName": "Patrick",
+        "position": "M",
+        "userCount": 615,
+        "id": 594428,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "باتريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 121186628,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Gabriel Neves",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-neves",
+        "shortName": "G. Neves",
+        "position": "M",
+        "userCount": 999,
+        "id": 875294
+      },
+      "playerName": "Gabriel Neves",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120380563,
+      "time": 45,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 3,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "userCount": 7967,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Raphael Veiga",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120380559,
+      "time": 30,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 16,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 0,
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "userCount": 7967,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 164925555,
+      "time": 13,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 33,
+      "incidentType": "goal"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Joaquín Piquerez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "joaquin-piquerez",
+        "shortName": "J. Piquerez",
+        "position": "D",
+        "userCount": 1961,
+        "id": 881110
+      },
+      "assist1": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "userCount": 2668,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 164925463,
+      "time": 10,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 36,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Welington",
+        "firstName": "",
+        "lastName": "",
+        "slug": "welington",
+        "shortName": "Welington",
+        "position": "D",
+        "userCount": 582,
+        "id": 1009920,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويلينغتون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Welington",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 120380553,
+      "time": 5,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 41,
+      "incidentType": "card"
+    }
+  ]
+}

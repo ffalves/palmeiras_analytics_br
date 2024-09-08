@@ -1,0 +1,262 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores, Group A",
+      "slug": "conmebol-libertadores-group-a",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 215551,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 593,
+      "competitionType": 1,
+      "id": 2928
+    },
+    "season": {
+      "name": "Copa Libertadores 2021",
+      "year": "2021",
+      "editor": false,
+      "id": 35576
+    },
+    "roundInfo": {
+      "round": 1
+    },
+    "customId": "nOsfW",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 2,
+    "venue": {
+      "city": {
+        "name": "Lima"
+      },
+      "stadium": {
+        "name": "Estadio Monumental",
+        "capacity": 80093
+      },
+      "id": 1008,
+      "country": {
+        "alpha2": "PE",
+        "name": "Peru"
+      }
+    },
+    "referee": {
+      "name": "Christian Ferreyra",
+      "slug": "christian-ferreyra",
+      "yellowCards": 1095,
+      "redCards": 46,
+      "yellowRedCards": 43,
+      "games": 182,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 387248,
+      "country": {
+        "alpha2": "UY",
+        "name": "Uruguay"
+      }
+    },
+    "homeTeam": {
+      "name": "Universitario De Deportes",
+      "slug": "universitario-de-deportes",
+      "shortName": "Universitario",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 23464,
+      "manager": {
+        "name": "Fabian Bustos",
+        "slug": "fabian-bustos",
+        "shortName": "F. Bustos",
+        "id": 790060,
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Lima"
+        },
+        "stadium": {
+          "name": "Estadio Monumental",
+          "capacity": 80093
+        },
+        "id": 1008,
+        "country": {
+          "alpha2": "PE",
+          "name": "Peru"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "UNI",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 2305,
+      "country": {
+        "alpha2": "PE",
+        "name": "Peru"
+      },
+      "subTeams": [],
+      "fullName": "Universitario De Deportes",
+      "teamColors": {
+        "primary": "#ffffcc",
+        "secondary": "#ffffcc",
+        "text": "#ffffcc"
+      },
+      "foundationDateTimestamp": -1432771200
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209961,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 43713
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 0,
+      "normaltime": 2
+    },
+    "awayScore": {
+      "current": 3,
+      "display": 3,
+      "period1": 1,
+      "normaltime": 3
+    },
+    "coverage": 1,
+    "time": {
+      "injuryTime1": 1,
+      "injuryTime2": 4,
+      "currentPeriodStartTimestamp": 1619056382
+    },
+    "changes": {
+      "changes": [
+        "homeScore.normaltime",
+        "awayScore.normaltime"
+      ],
+      "changeTimestamp": 1619056592
+    },
+    "hasGlobalHighlights": false,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 9470465,
+    "awayRedCards": 1,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1619056382,
+    "startTimestamp": 1619049600,
+    "slug": "universitario-de-deportes-palmeiras",
+    "finalResultOnly": false,
+    "hasBet365LiveStream": true,
+    "bet365ExcludedCountryCodes": [
+      "AR",
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC",
+      "PE",
+      "PY",
+      "UY",
+      "VE",
+      "IR"
+    ],
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}

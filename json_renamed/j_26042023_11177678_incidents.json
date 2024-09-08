@@ -1,0 +1,394 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 1,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Elton",
+        "firstName": "",
+        "lastName": "",
+        "slug": "elton",
+        "shortName": "Elton",
+        "position": "M",
+        "userCount": 46,
+        "id": 158555
+      },
+      "playerName": "Elton",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 120735527,
+      "time": 90,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 1,
+      "player": {
+        "name": "Alex Sandro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "alex-sandro",
+        "shortName": "A. Sandro",
+        "position": "F",
+        "userCount": 72,
+        "id": 936929
+      },
+      "id": 168746916,
+      "time": 86,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 5,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Franco Mederos",
+        "firstName": "Franco Mederos",
+        "lastName": "",
+        "slug": "franco-mederos",
+        "shortName": "F. Mederos",
+        "position": "M",
+        "userCount": 4,
+        "id": 1487067
+      },
+      "playerOut": {
+        "name": "Marcelinho",
+        "firstName": "Marcelinho",
+        "lastName": "",
+        "slug": "marcelinho",
+        "shortName": "Marcelinho",
+        "position": "F",
+        "userCount": 125,
+        "id": 1046439
+      },
+      "id": 121734924,
+      "time": 82,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 9,
+      "incidentType": "substitution"
+    },
+    {
+      "confirmed": false,
+      "player": {
+        "name": "Luis Guilherme",
+        "firstName": "Luis Guilherme",
+        "lastName": "",
+        "slug": "luis-guilherme",
+        "shortName": "Luis Guilherme",
+        "position": "F",
+        "userCount": 1252,
+        "id": 1464248
+      },
+      "isHome": false,
+      "id": 17067,
+      "time": 82,
+      "incidentClass": "goalAwarded",
+      "reversedPeriodTime": 9,
+      "incidentType": "varDecision"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "userCount": 1980,
+        "id": 974556
+      },
+      "playerOut": {
+        "name": "Richard Ríos",
+        "slug": "richard-rios",
+        "shortName": "R. Ríos",
+        "position": "M",
+        "userCount": 2199,
+        "id": 1015292
+      },
+      "id": 121734919,
+      "time": 79,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 12,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Luis Guilherme",
+        "firstName": "Luis Guilherme",
+        "lastName": "",
+        "slug": "luis-guilherme",
+        "shortName": "Luis Guilherme",
+        "position": "F",
+        "userCount": 1252,
+        "id": 1464248
+      },
+      "playerOut": {
+        "name": "Jhon Jhon",
+        "firstName": "Jhon Jhon",
+        "lastName": "",
+        "slug": "jhon-jhon",
+        "shortName": "Jhon Jhon",
+        "position": "M",
+        "userCount": 559,
+        "id": 1167069
+      },
+      "id": 121734918,
+      "time": 76,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 15,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Luiz Fernando",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-fernando",
+        "shortName": "L. Fernando",
+        "position": "F",
+        "userCount": 9,
+        "id": 895781
+      },
+      "playerOut": {
+        "name": "Jaderson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jaderson",
+        "shortName": "Jaderson",
+        "position": "M",
+        "userCount": 25,
+        "id": 869639
+      },
+      "id": 121734910,
+      "time": 72,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 19,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Patricio Gregorio",
+        "slug": "gregorio-patricio",
+        "shortName": "P. Gregorio",
+        "position": "F",
+        "userCount": 16,
+        "id": 930410
+      },
+      "playerOut": {
+        "name": "Matheus Frizzo",
+        "slug": "matheus-frizzo",
+        "shortName": "M. Frizzo",
+        "position": "M",
+        "userCount": 114,
+        "id": 1005337
+      },
+      "id": 121734909,
+      "time": 72,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 19,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Luis Felipe",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luis-felipe",
+        "shortName": "Luis Felipe",
+        "position": "D",
+        "userCount": 68,
+        "id": 1049019
+      },
+      "playerOut": {
+        "name": "Ze Vitor",
+        "firstName": "",
+        "lastName": "",
+        "slug": "ze-vitor",
+        "shortName": "Zé Vitor",
+        "position": "D",
+        "userCount": 25,
+        "id": 1112474
+      },
+      "id": 121734908,
+      "time": 72,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 19,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Mayke",
+        "slug": "mayke",
+        "shortName": "Mayke",
+        "position": "D",
+        "userCount": 935,
+        "id": 273329,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "مايكي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Giovani",
+        "firstName": "Giovani",
+        "lastName": "",
+        "slug": "giovani",
+        "shortName": "Giovani",
+        "position": "F",
+        "userCount": 1257,
+        "id": 1066717
+      },
+      "id": 121734913,
+      "time": 71,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Joaquín Piquerez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "joaquin-piquerez",
+        "shortName": "J. Piquerez",
+        "position": "D",
+        "userCount": 1959,
+        "id": 881110
+      },
+      "playerOut": {
+        "name": "Vanderlan",
+        "firstName": "Vanderlan",
+        "lastName": "",
+        "slug": "vanderlan",
+        "shortName": "Vanderlan",
+        "position": "D",
+        "userCount": 742,
+        "id": 1067640
+      },
+      "id": 121734912,
+      "time": 71,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Rony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "rony",
+        "shortName": "Rony",
+        "position": "F",
+        "userCount": 3828,
+        "id": 835260,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "José López",
+        "firstName": "José López",
+        "slug": "jose-lopez",
+        "shortName": "José López",
+        "position": "F",
+        "userCount": 1272,
+        "id": 1094179
+      },
+      "id": 121734911,
+      "time": 71,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "playerIn": {
+        "name": "Pierre",
+        "slug": "pierre",
+        "shortName": "Pierre",
+        "position": "M",
+        "userCount": 10,
+        "id": 1017710
+      },
+      "playerOut": {
+        "name": "Kevin",
+        "slug": "kevin",
+        "shortName": "Kevin",
+        "position": "D",
+        "userCount": 104,
+        "id": 810691
+      },
+      "injury": true,
+      "id": 121734869,
+      "time": 22,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 24,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "Breno Lopes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "breno-lopes",
+        "shortName": "Breno Lopes",
+        "position": "F",
+        "userCount": 782,
+        "id": 937552
+      },
+      "assist1": {
+        "name": "Giovani",
+        "firstName": "Giovani",
+        "lastName": "",
+        "slug": "giovani",
+        "shortName": "Giovani",
+        "position": "F",
+        "userCount": 1257,
+        "id": 1066717
+      },
+      "id": 168746760,
+      "time": 13,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 33,
+      "incidentType": "goal"
+    }
+  ]
+}

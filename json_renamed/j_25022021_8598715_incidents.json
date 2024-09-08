@@ -1,0 +1,431 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 2,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "playerIn": {
+        "name": "Alan Franco",
+        "slug": "alan-franco",
+        "shortName": "Alan Franco",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 633,
+        "id": 822729,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ألان فرانكو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Allan",
+        "slug": "allan",
+        "shortName": "Allan",
+        "position": "M",
+        "jerseyNumber": "21",
+        "userCount": 1362,
+        "id": 828839
+      },
+      "id": 120078507,
+      "time": 90,
+      "addedTime": 2,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 1,
+      "incidentType": "substitution"
+    },
+    {
+      "length": 4,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "homeScore": 2,
+      "awayScore": 0,
+      "player": {
+        "name": "Eduardo Sasha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "eduardo-sasha",
+        "shortName": "E. Sasha",
+        "position": "F",
+        "jerseyNumber": "19",
+        "userCount": 950,
+        "id": 143846
+      },
+      "assist1": {
+        "name": "Keno",
+        "firstName": "",
+        "lastName": "",
+        "slug": "keno",
+        "shortName": "Keno",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 1143,
+        "id": 787607
+      },
+      "id": 142358632,
+      "time": 89,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 2,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Guga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "guga",
+        "shortName": "Guga",
+        "position": "D",
+        "jerseyNumber": "23",
+        "userCount": 610,
+        "id": 928134
+      },
+      "playerName": "Guga",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119739942,
+      "time": 84,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 7,
+      "incidentType": "card"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 0,
+      "player": {
+        "name": "Jair",
+        "slug": "jair",
+        "shortName": "Jair",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 604,
+        "id": 268419
+      },
+      "assist1": {
+        "name": "Keno",
+        "firstName": "",
+        "lastName": "",
+        "slug": "keno",
+        "shortName": "Keno",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 1143,
+        "id": 787607
+      },
+      "id": 142358631,
+      "time": 79,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 12,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Eduardo Sasha",
+        "firstName": "",
+        "lastName": "",
+        "slug": "eduardo-sasha",
+        "shortName": "E. Sasha",
+        "position": "F",
+        "jerseyNumber": "19",
+        "userCount": 950,
+        "id": 143846
+      },
+      "playerOut": {
+        "name": "Marrony",
+        "firstName": "",
+        "lastName": "",
+        "slug": "marrony",
+        "shortName": "Marrony",
+        "position": "F",
+        "jerseyNumber": "38",
+        "userCount": 332,
+        "id": 926871,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ماروني"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 120078506,
+      "time": 77,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 14,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Marcelinho",
+        "firstName": "Marcelinho",
+        "lastName": "",
+        "slug": "marcelinho",
+        "shortName": "Marcelinho",
+        "position": "F",
+        "jerseyNumber": "21",
+        "userCount": 128,
+        "id": 1046439
+      },
+      "playerOut": {
+        "name": "Gabriel Silva",
+        "firstName": "Gabriel Silva",
+        "lastName": "",
+        "slug": "gabriel-silva",
+        "shortName": "Gabriel Silva",
+        "position": "M",
+        "jerseyNumber": "49",
+        "userCount": 387,
+        "id": 1046794
+      },
+      "id": 120078510,
+      "time": 70,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 21,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Gabriel Veron",
+        "slug": "gabriel-veron",
+        "shortName": "G. Veron",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 2669,
+        "id": 1002819,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "فيرون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Wesley",
+        "firstName": "",
+        "lastName": "",
+        "slug": "wesley",
+        "shortName": "Wesley",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 697,
+        "id": 985766
+      },
+      "id": 120078509,
+      "time": 59,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 32,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Eduardo Vargas",
+        "slug": "eduardo-vargas",
+        "shortName": "E. Vargas",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 1612,
+        "id": 37006
+      },
+      "playerOut": {
+        "name": "Jefferson Savarino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jefferson-savarino",
+        "shortName": "Jefferson Savarino",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 1040,
+        "id": 874739,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سافارينو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 120078505,
+      "time": 57,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 34,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Danilo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "danilo",
+        "shortName": "Danilo",
+        "position": "M",
+        "jerseyNumber": "28",
+        "userCount": 3809,
+        "id": 1064039,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوليفيرا ، دانيلو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 120078508,
+      "time": 46,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Matías Zaracho",
+        "firstName": "",
+        "lastName": "",
+        "slug": "matias-zaracho",
+        "shortName": "M. Zaracho",
+        "position": "M",
+        "jerseyNumber": "15",
+        "userCount": 1350,
+        "id": 859970
+      },
+      "id": 120078504,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Keno",
+        "firstName": "",
+        "lastName": "",
+        "slug": "keno",
+        "shortName": "Keno",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 1143,
+        "id": 787607
+      },
+      "playerOut": {
+        "name": "Diego Tardelli",
+        "firstName": "",
+        "lastName": "",
+        "slug": "diego-tardelli",
+        "shortName": "D. Tardelli",
+        "position": "F",
+        "userCount": 258,
+        "id": 14261
+      },
+      "id": 120078503,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "length": 1,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Matías Zaracho",
+        "firstName": "",
+        "lastName": "",
+        "slug": "matias-zaracho",
+        "shortName": "M. Zaracho",
+        "position": "M",
+        "jerseyNumber": "15",
+        "userCount": 1350,
+        "id": 859970
+      },
+      "playerName": "Matías Zaracho",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119739941,
+      "time": 33,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 13,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Éverson",
+        "firstName": "",
+        "lastName": "",
+        "slug": "everson",
+        "shortName": "Éverson",
+        "position": "G",
+        "jerseyNumber": "22",
+        "userCount": 641,
+        "id": 870748
+      },
+      "playerName": "Éverson",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119739940,
+      "time": 5,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 41,
+      "incidentType": "card"
+    }
+  ]
+}

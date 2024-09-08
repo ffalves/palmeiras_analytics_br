@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+.env
+
+# Jupyter notebook files setup
+.ipynb_checkpoints/
+
+# Cache and compiled files
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+
+#  Lock or specific setup from Poetry
+poetry.lock

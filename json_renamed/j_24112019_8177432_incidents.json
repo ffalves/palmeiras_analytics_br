@@ -1,0 +1,439 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 1,
+      "awayScore": 2,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 2,
+      "player": {
+        "name": "Pepê",
+        "slug": "pepe",
+        "shortName": "Pepê",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 3175,
+        "id": 882664,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Michel",
+        "slug": "michel",
+        "shortName": "Michel",
+        "position": "M",
+        "userCount": 43,
+        "id": 869642
+      },
+      "id": 127048373,
+      "time": 90,
+      "addedTime": 4,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 1,
+      "incidentType": "goal"
+    },
+    {
+      "length": 5,
+      "time": 90,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    },
+    {
+      "player": {
+        "name": "Pepê",
+        "slug": "pepe",
+        "shortName": "Pepê",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 3175,
+        "id": 882664,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Pepê",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119381121,
+      "time": 86,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 5,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Patrick",
+        "slug": "patrick",
+        "shortName": "Patrick",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 74,
+        "id": 892126
+      },
+      "playerOut": {
+        "name": "Diego Tardelli",
+        "firstName": "",
+        "lastName": "",
+        "slug": "diego-tardelli",
+        "shortName": "D. Tardelli",
+        "position": "F",
+        "userCount": 258,
+        "id": 14261
+      },
+      "id": 119516277,
+      "time": 84,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 7,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 1,
+      "player": {
+        "name": "Bruno Henrique",
+        "slug": "bruno-henrique",
+        "shortName": "Bruno Henrique",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 389,
+        "id": 345113,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "برونو هنريك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 127048371,
+      "time": 83,
+      "isHome": true,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 8,
+      "incidentType": "goal"
+    },
+    {
+      "player": {
+        "name": "Diego Tardelli",
+        "firstName": "",
+        "lastName": "",
+        "slug": "diego-tardelli",
+        "shortName": "D. Tardelli",
+        "position": "F",
+        "userCount": 258,
+        "id": 14261
+      },
+      "playerName": "Diego Tardelli",
+      "reason": "Argument",
+      "rescinded": false,
+      "id": 119381120,
+      "time": 82,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 9,
+      "incidentType": "card"
+    },
+    {
+      "player": {
+        "name": "Dudu",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dudu",
+        "shortName": "Dudu",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 4183,
+        "id": 147464,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دودو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Dudu",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119381118,
+      "time": 76,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 15,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Michel",
+        "slug": "michel",
+        "shortName": "Michel",
+        "position": "M",
+        "userCount": 43,
+        "id": 869642
+      },
+      "playerOut": {
+        "name": "Maicon",
+        "firstName": "",
+        "lastName": "",
+        "slug": "maicon",
+        "shortName": "Maicon",
+        "position": "M",
+        "userCount": 138,
+        "id": 26230
+      },
+      "id": 119516276,
+      "time": 71,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Ramires",
+        "slug": "ramires",
+        "shortName": "Ramires",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 309,
+        "id": 33110
+      },
+      "playerOut": {
+        "name": "Gustavo Gómez",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gustavo-gomez",
+        "shortName": "G. Gómez",
+        "position": "D",
+        "jerseyNumber": "15",
+        "userCount": 2799,
+        "id": 220833,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "غوميز"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "injury": true,
+      "id": 119516274,
+      "time": 71,
+      "isHome": true,
+      "incidentClass": "injury",
+      "reversedPeriodTime": 20,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "Everton",
+        "firstName": "Everton",
+        "lastName": "",
+        "slug": "everton",
+        "shortName": "Everton",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 6266,
+        "id": 386198,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "إيفرتون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 127048372,
+      "time": 69,
+      "isHome": false,
+      "incidentClass": "penalty",
+      "reversedPeriodTime": 22,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Pepê",
+        "slug": "pepe",
+        "shortName": "Pepê",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 3175,
+        "id": 882664,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيبي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Luciano",
+        "slug": "luciano",
+        "shortName": "Luciano",
+        "position": "F",
+        "jerseyNumber": "10",
+        "userCount": 2761,
+        "id": 282557,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "لوتشيانو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119516275,
+      "time": 66,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 25,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Willian",
+        "firstName": "",
+        "lastName": "",
+        "slug": "willian",
+        "shortName": "Willian",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 606,
+        "id": 146308,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ويليان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Zé Rafael",
+        "slug": "ze-rafael",
+        "shortName": "Z. Rafael",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 1391,
+        "id": 329069
+      },
+      "id": 119516273,
+      "time": 64,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 27,
+      "incidentType": "substitution"
+    },
+    {
+      "player": {
+        "name": "Thiago Santos",
+        "firstName": "",
+        "lastName": "",
+        "slug": "thiago-santos",
+        "shortName": "Thiago Santos",
+        "position": "M",
+        "jerseyNumber": "29",
+        "userCount": 279,
+        "id": 378590
+      },
+      "playerName": "Thiago Santos",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119381117,
+      "time": 50,
+      "isHome": true,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 41,
+      "incidentType": "card"
+    },
+    {
+      "playerIn": {
+        "name": "Luiz Adriano",
+        "firstName": "",
+        "lastName": "",
+        "slug": "luiz-adriano",
+        "shortName": "L. Adriano",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 763,
+        "id": 39438
+      },
+      "playerOut": {
+        "name": "Miguel Borja",
+        "firstName": "",
+        "lastName": "",
+        "slug": "miguel-borja",
+        "shortName": "Miguel Borja",
+        "position": "F",
+        "jerseyNumber": "9",
+        "userCount": 2347,
+        "id": 329601
+      },
+      "id": 119516272,
+      "time": 46,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 45,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "player": {
+        "name": "Matheus Henrique",
+        "firstName": "",
+        "lastName": "",
+        "slug": "matheus-henrique",
+        "shortName": "Matheus Henrique",
+        "position": "M",
+        "jerseyNumber": "7",
+        "userCount": 1130,
+        "id": 912786,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هينريك, ماثيوس"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerName": "Matheuzinho",
+      "reason": "Foul",
+      "rescinded": false,
+      "id": 119381119,
+      "time": 45,
+      "isHome": false,
+      "incidentClass": "yellow",
+      "reversedPeriodTime": 1,
+      "incidentType": "card"
+    },
+    {
+      "length": 2,
+      "time": 45,
+      "addedTime": 0,
+      "reversedPeriodTime": 1,
+      "incidentType": "injuryTime"
+    }
+  ]
+}

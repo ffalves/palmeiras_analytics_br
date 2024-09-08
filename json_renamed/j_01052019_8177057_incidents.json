@@ -1,0 +1,273 @@
+{
+  "incidents": [
+    {
+      "text": "FT",
+      "homeScore": 1,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 90,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "playerIn": {
+        "name": "Leandro Souza",
+        "firstName": "",
+        "lastName": "",
+        "slug": "leandro-souza",
+        "shortName": "L. Souza",
+        "position": "D",
+        "jerseyNumber": "30",
+        "userCount": 2,
+        "id": 870610
+      },
+      "playerOut": {
+        "name": "Naldo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "naldo",
+        "shortName": "Naldo",
+        "position": "M",
+        "userCount": 4,
+        "id": 339973
+      },
+      "id": 119259804,
+      "time": 83,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 8,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Matheus Fernandes",
+        "firstName": "",
+        "lastName": "",
+        "slug": "matheus-fernandes",
+        "shortName": "Matheus Fernandes",
+        "position": "M",
+        "jerseyNumber": "35",
+        "userCount": 1014,
+        "id": 840150
+      },
+      "playerOut": {
+        "name": "Moisés",
+        "slug": "moises",
+        "shortName": "Moises",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 559,
+        "id": 243249
+      },
+      "id": 119259795,
+      "time": 82,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 9,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Felipe Pires",
+        "firstName": "",
+        "lastName": "",
+        "slug": "felipe-pires",
+        "shortName": "Felipe Pires",
+        "position": "M",
+        "userCount": 125,
+        "id": 576378,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيريس, فيليبي"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "playerOut": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119259789,
+      "time": 78,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 13,
+      "incidentType": "substitution"
+    },
+    {
+      "playerIn": {
+        "name": "Dawhan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dawhan",
+        "shortName": "Dawhan",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 59,
+        "id": 926823
+      },
+      "playerOut": {
+        "name": "Bruno Ramires",
+        "slug": "bruno-ramires",
+        "shortName": "B. Ramires",
+        "position": "M",
+        "jerseyNumber": "6",
+        "userCount": 25,
+        "id": 780440
+      },
+      "id": 119259766,
+      "time": 67,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 24,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 1,
+      "awayScore": 1,
+      "player": {
+        "name": "Matheus Sávio",
+        "slug": "matheus-savio",
+        "shortName": "M. Sávio",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 251,
+        "id": 795034
+      },
+      "id": 125984704,
+      "time": 63,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 28,
+      "incidentType": "goal"
+    },
+    {
+      "playerIn": {
+        "name": "Carlos Eduardo",
+        "firstName": "",
+        "lastName": "",
+        "slug": "carlos-eduardo",
+        "shortName": "Carlos Eduardo",
+        "position": "F",
+        "jerseyNumber": "28",
+        "userCount": 206,
+        "id": 795295
+      },
+      "playerOut": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 8015,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 119259755,
+      "time": 62,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 29,
+      "incidentType": "substitution"
+    },
+    {
+      "text": "HT",
+      "homeScore": 0,
+      "awayScore": 1,
+      "isLive": false,
+      "time": 45,
+      "addedTime": 999,
+      "reversedPeriodTime": 1,
+      "incidentType": "period"
+    },
+    {
+      "playerIn": {
+        "name": "Matheus Sávio",
+        "slug": "matheus-savio",
+        "shortName": "M. Sávio",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 251,
+        "id": 795034
+      },
+      "playerOut": {
+        "name": "Cristián Maidana",
+        "slug": "cristian-maidana",
+        "shortName": "C. Maidana",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 9,
+        "id": 32202
+      },
+      "id": 119259610,
+      "time": 25,
+      "isHome": true,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 21,
+      "incidentType": "substitution"
+    },
+    {
+      "homeScore": 0,
+      "awayScore": 1,
+      "player": {
+        "name": "Raphael Veiga",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raphael-veiga",
+        "shortName": "Raphael Veiga",
+        "position": "M",
+        "jerseyNumber": "23",
+        "userCount": 8015,
+        "id": 840020,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "رافائيل فييغا"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "assist1": {
+        "name": "Hyoran",
+        "firstName": "",
+        "lastName": "",
+        "slug": "hyoran",
+        "shortName": "Hyoran",
+        "position": "M",
+        "userCount": 468,
+        "id": 551348,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هيوران"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "id": 125984517,
+      "time": 9,
+      "isHome": false,
+      "incidentClass": "regular",
+      "reversedPeriodTime": 37,
+      "incidentType": "goal"
+    }
+  ]
+}

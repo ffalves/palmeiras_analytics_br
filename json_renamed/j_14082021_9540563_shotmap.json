@@ -1,0 +1,895 @@
+{
+  "shotmap": [
+    {
+      "player": {
+        "name": "Keno",
+        "firstName": "",
+        "lastName": "",
+        "slug": "keno",
+        "shortName": "Keno",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 1143,
+        "id": 787607
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 10.3,
+        "y": 33.2,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "low-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 50.6,
+        "z": 8.2
+      },
+      "blockCoordinates": {
+        "x": 0.7,
+        "y": 47.3,
+        "z": 0
+      },
+      "id": 852776,
+      "time": 90,
+      "addedTime": 3,
+      "timeSeconds": 5561,
+      "draw": {
+        "start": {
+          "x": 33.2,
+          "y": 10.3
+        },
+        "block": {
+          "x": 47.3,
+          "y": 0.7
+        },
+        "end": {
+          "x": 49.4,
+          "y": 0
+        },
+        "goal": {
+          "x": 49.4,
+          "y": 91.8
+        }
+      },
+      "reversedPeriodTime": 1,
+      "reversedPeriodTimeSeconds": 739,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Dylan Borrero",
+        "firstName": "",
+        "lastName": "",
+        "slug": "dylan-borrero",
+        "shortName": "Dylan Borrero",
+        "position": "M",
+        "jerseyNumber": "11",
+        "userCount": 423,
+        "id": 980933
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "corner",
+      "playerCoordinates": {
+        "x": 5,
+        "y": 36.7,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "high",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 52.1,
+        "z": 68.1
+      },
+      "id": 852774,
+      "time": 90,
+      "addedTime": 2,
+      "timeSeconds": 5467,
+      "draw": {
+        "start": {
+          "x": 36.7,
+          "y": 5
+        },
+        "end": {
+          "x": 47.9,
+          "y": 0
+        },
+        "goal": {
+          "x": 47.9,
+          "y": 31.9
+        }
+      },
+      "reversedPeriodTime": 1,
+      "reversedPeriodTimeSeconds": 833,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Nathan",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nathan",
+        "shortName": "Nathan",
+        "position": "M",
+        "jerseyNumber": "14",
+        "userCount": 362,
+        "id": 358538,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ناثان"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "block",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 22.6,
+        "y": 51.5,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "low-right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 48,
+        "z": 19
+      },
+      "blockCoordinates": {
+        "x": 16.7,
+        "y": 51.6,
+        "z": 0
+      },
+      "id": 852772,
+      "time": 90,
+      "addedTime": 1,
+      "timeSeconds": 5430,
+      "draw": {
+        "start": {
+          "x": 51.5,
+          "y": 22.6
+        },
+        "block": {
+          "x": 51.6,
+          "y": 16.7
+        },
+        "end": {
+          "x": 52,
+          "y": 0
+        },
+        "goal": {
+          "x": 52,
+          "y": 81
+        }
+      },
+      "reversedPeriodTime": 1,
+      "reversedPeriodTimeSeconds": 870,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Hulk",
+        "slug": "hulk",
+        "shortName": "Hulk",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 9921,
+        "id": 34705,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هولك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 30.5,
+        "y": 53.6,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "low-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 53.7,
+        "z": 7
+      },
+      "blockCoordinates": {
+        "x": 1.2,
+        "y": 47.1,
+        "z": 0
+      },
+      "id": 852770,
+      "time": 73,
+      "timeSeconds": 4358,
+      "draw": {
+        "start": {
+          "x": 53.6,
+          "y": 30.5
+        },
+        "block": {
+          "x": 47.1,
+          "y": 1.2
+        },
+        "end": {
+          "x": 46.3,
+          "y": 0
+        },
+        "goal": {
+          "x": 46.3,
+          "y": 93
+        }
+      },
+      "reversedPeriodTime": 18,
+      "reversedPeriodTimeSeconds": 1042,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Eduardo Vargas",
+        "slug": "eduardo-vargas",
+        "shortName": "E. Vargas",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 1612,
+        "id": 37006
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "fast-break",
+      "playerCoordinates": {
+        "x": 10.2,
+        "y": 55.7,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "high",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 47.1,
+        "z": 80.6
+      },
+      "id": 852768,
+      "time": 71,
+      "timeSeconds": 4209,
+      "draw": {
+        "start": {
+          "x": 55.7,
+          "y": 10.2
+        },
+        "end": {
+          "x": 52.9,
+          "y": 0
+        },
+        "goal": {
+          "x": 52.9,
+          "y": 19.4
+        }
+      },
+      "reversedPeriodTime": 20,
+      "reversedPeriodTimeSeconds": 1191,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Jefferson Savarino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jefferson-savarino",
+        "shortName": "Jefferson Savarino",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 1040,
+        "id": 874739,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سافارينو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "goal",
+      "goalType": "regular",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 3.3,
+        "y": 53.2,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "low-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 49.9,
+        "z": 4.4
+      },
+      "id": 852766,
+      "time": 62,
+      "timeSeconds": 3695,
+      "draw": {
+        "start": {
+          "x": 53.2,
+          "y": 3.3
+        },
+        "end": {
+          "x": 50.1,
+          "y": 0
+        },
+        "goal": {
+          "x": 50.1,
+          "y": 95.6
+        }
+      },
+      "reversedPeriodTime": 29,
+      "reversedPeriodTimeSeconds": 1705,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Hulk",
+        "slug": "hulk",
+        "shortName": "Hulk",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 9921,
+        "id": 34705,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هولك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "block",
+      "situation": "regular",
+      "playerCoordinates": {
+        "x": 4.8,
+        "y": 30.3,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "low-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 50.5,
+        "z": 19
+      },
+      "blockCoordinates": {
+        "x": 3.7,
+        "y": 34.7,
+        "z": 0
+      },
+      "id": 852764,
+      "time": 56,
+      "timeSeconds": 3348,
+      "draw": {
+        "start": {
+          "x": 30.3,
+          "y": 4.8
+        },
+        "block": {
+          "x": 34.7,
+          "y": 3.7
+        },
+        "end": {
+          "x": 49.5,
+          "y": 0
+        },
+        "goal": {
+          "x": 49.5,
+          "y": 81
+        }
+      },
+      "reversedPeriodTime": 35,
+      "reversedPeriodTimeSeconds": 2052,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Nathan Silva",
+        "firstName": "",
+        "lastName": "",
+        "slug": "nathan-silva",
+        "shortName": "Nathan Silva",
+        "position": "D",
+        "jerseyNumber": "6",
+        "userCount": 348,
+        "id": 841129
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "corner",
+      "playerCoordinates": {
+        "x": 8.6,
+        "y": 48.6,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "goalMouthLocation": "low-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 51,
+        "z": 15.8
+      },
+      "blockCoordinates": {
+        "x": 0.7,
+        "y": 48.7,
+        "z": 0
+      },
+      "id": 852762,
+      "time": 54,
+      "timeSeconds": 3195,
+      "draw": {
+        "start": {
+          "x": 48.6,
+          "y": 8.6
+        },
+        "block": {
+          "x": 48.7,
+          "y": 0.7
+        },
+        "end": {
+          "x": 49,
+          "y": 0
+        },
+        "goal": {
+          "x": 49,
+          "y": 84.2
+        }
+      },
+      "reversedPeriodTime": 37,
+      "reversedPeriodTimeSeconds": 2205,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Guilherme Arana",
+        "slug": "guilherme-arana",
+        "shortName": "G. Arana",
+        "position": "D",
+        "jerseyNumber": "13",
+        "userCount": 2212,
+        "id": 1127439
+      },
+      "isHome": true,
+      "shotType": "block",
+      "situation": "corner",
+      "playerCoordinates": {
+        "x": 29.1,
+        "y": 46.6,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "low-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 52.8,
+        "z": 19
+      },
+      "blockCoordinates": {
+        "x": 21.2,
+        "y": 46.8,
+        "z": 0
+      },
+      "id": 852760,
+      "time": 53,
+      "timeSeconds": 3134,
+      "draw": {
+        "start": {
+          "x": 46.6,
+          "y": 29.1
+        },
+        "block": {
+          "x": 46.8,
+          "y": 21.2
+        },
+        "end": {
+          "x": 47.2,
+          "y": 0
+        },
+        "goal": {
+          "x": 47.2,
+          "y": 81
+        }
+      },
+      "reversedPeriodTime": 38,
+      "reversedPeriodTimeSeconds": 2266,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Jefferson Savarino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jefferson-savarino",
+        "shortName": "Jefferson Savarino",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 1040,
+        "id": 874739,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سافارينو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "goal",
+      "goalType": "regular",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 5,
+        "y": 54,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "high-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 50,
+        "z": 33.5
+      },
+      "id": 852758,
+      "time": 45,
+      "addedTime": 4,
+      "timeSeconds": 2880,
+      "draw": {
+        "start": {
+          "x": 54,
+          "y": 5
+        },
+        "end": {
+          "x": 50,
+          "y": 0
+        },
+        "goal": {
+          "x": 50,
+          "y": 66.5
+        }
+      },
+      "reversedPeriodTime": 1,
+      "reversedPeriodTimeSeconds": 2520,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Jefferson Savarino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "jefferson-savarino",
+        "shortName": "Jefferson Savarino",
+        "position": "M",
+        "jerseyNumber": "10",
+        "userCount": 1040,
+        "id": 874739,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "سافارينو"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "block",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 13.4,
+        "y": 68.9,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "low-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 50.6,
+        "z": 19
+      },
+      "blockCoordinates": {
+        "x": 10.3,
+        "y": 64.4,
+        "z": 0
+      },
+      "id": 852756,
+      "time": 45,
+      "addedTime": 3,
+      "timeSeconds": 2837,
+      "draw": {
+        "start": {
+          "x": 68.9,
+          "y": 13.4
+        },
+        "block": {
+          "x": 64.4,
+          "y": 10.3
+        },
+        "end": {
+          "x": 49.4,
+          "y": 0
+        },
+        "goal": {
+          "x": 49.4,
+          "y": 81
+        }
+      },
+      "reversedPeriodTime": 1,
+      "reversedPeriodTimeSeconds": 2563,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Jair",
+        "slug": "jair",
+        "shortName": "Jair",
+        "position": "M",
+        "jerseyNumber": "8",
+        "userCount": 604,
+        "id": 268419
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "corner",
+      "playerCoordinates": {
+        "x": 6.7,
+        "y": 56,
+        "z": 0
+      },
+      "bodyPart": "head",
+      "goalMouthLocation": "close-left",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 56.6,
+        "z": 6.9
+      },
+      "id": 852754,
+      "time": 45,
+      "timeSeconds": 2649,
+      "draw": {
+        "start": {
+          "x": 56,
+          "y": 6.7
+        },
+        "end": {
+          "x": 43.4,
+          "y": 0
+        },
+        "goal": {
+          "x": 43.4,
+          "y": 93.1
+        }
+      },
+      "reversedPeriodTime": 1,
+      "reversedPeriodTimeSeconds": 51,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Eduardo Vargas",
+        "slug": "eduardo-vargas",
+        "shortName": "E. Vargas",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 1612,
+        "id": 37006
+      },
+      "isHome": true,
+      "shotType": "save",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 22.1,
+        "y": 49.3,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "high-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 49.4,
+        "z": 32.9
+      },
+      "blockCoordinates": {
+        "x": 1,
+        "y": 50.7,
+        "z": 0
+      },
+      "id": 852752,
+      "time": 44,
+      "timeSeconds": 2612,
+      "draw": {
+        "start": {
+          "x": 49.3,
+          "y": 22.1
+        },
+        "block": {
+          "x": 50.7,
+          "y": 1
+        },
+        "end": {
+          "x": 50.6,
+          "y": 0
+        },
+        "goal": {
+          "x": 50.6,
+          "y": 67.1
+        }
+      },
+      "reversedPeriodTime": 2,
+      "reversedPeriodTimeSeconds": 88,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Hulk",
+        "slug": "hulk",
+        "shortName": "Hulk",
+        "position": "F",
+        "jerseyNumber": "7",
+        "userCount": 9921,
+        "id": 34705,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هولك"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "free-kick",
+      "playerCoordinates": {
+        "x": 31.9,
+        "y": 46.4,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "right",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 36.6,
+        "z": 5.6
+      },
+      "blockCoordinates": {
+        "x": 15.1,
+        "y": 54.2,
+        "z": 0
+      },
+      "id": 852751,
+      "time": 30,
+      "timeSeconds": 1746,
+      "draw": {
+        "start": {
+          "x": 46.4,
+          "y": 31.9
+        },
+        "block": {
+          "x": 54.2,
+          "y": 15.1
+        },
+        "end": {
+          "x": 63.4,
+          "y": 0
+        },
+        "goal": {
+          "x": 63.4,
+          "y": 94.4
+        }
+      },
+      "reversedPeriodTime": 16,
+      "reversedPeriodTimeSeconds": 954,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Gabriel Menino",
+        "firstName": "",
+        "lastName": "",
+        "slug": "gabriel-menino",
+        "shortName": "Gabriel Menino",
+        "position": "M",
+        "jerseyNumber": "25",
+        "userCount": 1987,
+        "id": 974556
+      },
+      "isHome": false,
+      "shotType": "save",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 18.9,
+        "y": 62.9,
+        "z": 0
+      },
+      "bodyPart": "left-foot",
+      "goalMouthLocation": "low-centre",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 49.9,
+        "z": 0.6
+      },
+      "blockCoordinates": {
+        "x": 3.3,
+        "y": 53.2,
+        "z": 0
+      },
+      "id": 852750,
+      "time": 21,
+      "timeSeconds": 1223,
+      "draw": {
+        "start": {
+          "x": 62.9,
+          "y": 18.9
+        },
+        "block": {
+          "x": 53.2,
+          "y": 3.3
+        },
+        "end": {
+          "x": 50.1,
+          "y": 0
+        },
+        "goal": {
+          "x": 50.1,
+          "y": 99.4
+        }
+      },
+      "reversedPeriodTime": 25,
+      "reversedPeriodTimeSeconds": 1477,
+      "incidentType": "shot"
+    },
+    {
+      "player": {
+        "name": "Eduardo Vargas",
+        "slug": "eduardo-vargas",
+        "shortName": "E. Vargas",
+        "position": "F",
+        "jerseyNumber": "11",
+        "userCount": 1612,
+        "id": 37006
+      },
+      "isHome": true,
+      "shotType": "miss",
+      "situation": "assisted",
+      "playerCoordinates": {
+        "x": 25.2,
+        "y": 33,
+        "z": 0
+      },
+      "bodyPart": "right-foot",
+      "goalMouthLocation": "high",
+      "goalMouthCoordinates": {
+        "x": 0,
+        "y": 52.3,
+        "z": 75
+      },
+      "id": 852749,
+      "time": 9,
+      "timeSeconds": 507,
+      "draw": {
+        "start": {
+          "x": 33,
+          "y": 25.2
+        },
+        "end": {
+          "x": 47.7,
+          "y": 0
+        },
+        "goal": {
+          "x": 47.7,
+          "y": 25
+        }
+      },
+      "reversedPeriodTime": 37,
+      "reversedPeriodTimeSeconds": 2193,
+      "incidentType": "shot"
+    }
+  ]
+}

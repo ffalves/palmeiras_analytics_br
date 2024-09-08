@@ -1,0 +1,256 @@
+{
+  "event": {
+    "tournament": {
+      "name": "CONMEBOL Libertadores, Group C",
+      "slug": "conmebol-libertadores-group-c",
+      "category": {
+        "name": "South America",
+        "slug": "south-america",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "id": 1470,
+        "country": {},
+        "flag": "south-america"
+      },
+      "uniqueTournament": {
+        "name": "CONMEBOL Libertadores",
+        "slug": "conmebol-libertadores",
+        "primaryColorHex": "#573215",
+        "secondaryColorHex": "#dfaf49",
+        "category": {
+          "name": "South America",
+          "slug": "south-america",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "id": 1470,
+          "country": {},
+          "flag": "south-america"
+        },
+        "userCount": 214773,
+        "id": 384,
+        "country": {},
+        "hasEventPlayerStatistics": true,
+        "crowdsourcingEnabled": false,
+        "hasPerformanceGraphFeature": false,
+        "displayInverseHomeAwayTeams": false
+      },
+      "priority": 591,
+      "competitionType": 1,
+      "id": 2930
+    },
+    "season": {
+      "name": "Copa Libertadores 2023",
+      "year": "2023",
+      "editor": false,
+      "seasonCoverageInfo": {},
+      "id": 47974
+    },
+    "roundInfo": {
+      "round": 3
+    },
+    "customId": "nOsafc",
+    "status": {
+      "code": 100,
+      "description": "Ended",
+      "type": "finished"
+    },
+    "winnerCode": 2,
+    "venue": {
+      "city": {
+        "name": "Guayaquil"
+      },
+      "stadium": {
+        "name": "Estadio Monumental Banco Pichincha",
+        "capacity": 60000
+      },
+      "id": 1980,
+      "country": {
+        "alpha2": "EC",
+        "name": "Ecuador"
+      }
+    },
+    "referee": {
+      "name": "Andres Rojas",
+      "slug": "rojas-andres",
+      "yellowCards": 976,
+      "redCards": 33,
+      "yellowRedCards": 23,
+      "games": 172,
+      "sport": {
+        "id": 1,
+        "slug": "football",
+        "name": "Football"
+      },
+      "id": 786086,
+      "country": {
+        "alpha2": "CO",
+        "name": "Colombia"
+      }
+    },
+    "homeTeam": {
+      "name": "Barcelona SC",
+      "slug": "barcelona-sc",
+      "shortName": "Barcelona SC",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 22603,
+      "manager": {
+        "name": "Diego Lopez",
+        "slug": "diego-lopez",
+        "shortName": "D. Lopez",
+        "id": 1931,
+        "country": {
+          "alpha2": "UY",
+          "name": "Uruguay"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Guayaquil"
+        },
+        "stadium": {
+          "name": "Estadio Monumental Banco Pichincha",
+          "capacity": 60000
+        },
+        "id": 1980,
+        "country": {
+          "alpha2": "EC",
+          "name": "Ecuador"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "BSC",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 5250,
+      "country": {
+        "alpha2": "EC",
+        "name": "Ecuador"
+      },
+      "subTeams": [],
+      "fullName": "Barcelona SC",
+      "teamColors": {
+        "primary": "#ffff00",
+        "secondary": "#000000",
+        "text": "#000000"
+      },
+      "foundationDateTimestamp": -1409702400
+    },
+    "awayTeam": {
+      "name": "Palmeiras",
+      "slug": "palmeiras",
+      "shortName": "Palmeiras",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 209415,
+      "manager": {
+        "name": "Abel Ferreira",
+        "slug": "abel-ferreira",
+        "shortName": "A. Ferreira",
+        "id": 784709,
+        "country": {
+          "alpha2": "PT",
+          "name": "Portugal"
+        }
+      },
+      "venue": {
+        "city": {
+          "name": "Sao Paulo"
+        },
+        "stadium": {
+          "name": "Allianz Parque",
+          "capacity": 45000
+        },
+        "id": 15699,
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        }
+      },
+      "foundationDate": {},
+      "nameCode": "PAL",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "id": 1963,
+      "country": {
+        "alpha2": "BR",
+        "name": "Brazil"
+      },
+      "subTeams": [],
+      "fullName": "Palmeiras",
+      "teamColors": {
+        "primary": "#339966",
+        "secondary": "#336633",
+        "text": "#336633"
+      },
+      "foundationDateTimestamp": -1746748800
+    },
+    "homeScore": {
+      "current": 0,
+      "display": 0,
+      "period1": 0,
+      "period2": 0,
+      "normaltime": 0
+    },
+    "awayScore": {
+      "current": 2,
+      "display": 2,
+      "period1": 1,
+      "period2": 1,
+      "normaltime": 2
+    },
+    "time": {
+      "injuryTime1": 7,
+      "injuryTime2": 4,
+      "currentPeriodStartTimestamp": 1683167228
+    },
+    "changes": {
+      "changes": [
+        "status.code",
+        "status.description",
+        "status.type",
+        "homeScore.period2",
+        "homeScore.normaltime",
+        "awayScore.period2",
+        "awayScore.normaltime",
+        "time.currentPeriodStart"
+      ],
+      "changeTimestamp": 1683167230
+    },
+    "hasGlobalHighlights": false,
+    "hasXg": true,
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": true,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 11173694,
+    "defaultPeriodCount": 2,
+    "defaultPeriodLength": 45,
+    "defaultOvertimeLength": 15,
+    "crowdsourcingEnabled": false,
+    "currentPeriodStartTimestamp": 1683167228,
+    "startTimestamp": 1683160200,
+    "slug": "barcelona-sc-palmeiras",
+    "finalResultOnly": false,
+    "fanRatingEvent": false,
+    "seasonStatisticsType": "overall",
+    "showTotoPromo": false,
+    "isEditor": false
+  }
+}
