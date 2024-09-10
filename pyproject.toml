@@ -4,11 +4,16 @@ version = "0.1.0"
 description = "This is my capstone project for my MBA in Data Science and Analytics from USP/ESALQ (Brazil). It aims to analyze data from the Brazilian football team Palmeiras during the Brazi"
 authors = ["Fefe Alves <monitore.falves@gmail.com>"]
 readme = "README.md"
+package-mode = false
+
 
 [tool.poetry.dependencies]
 python = "^3.12"
+pandas = "^2.2.2"
+jupyter = "^1.1.1"
 
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
