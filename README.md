@@ -1,6 +1,6 @@
 # Palmeiras Analytics BR
 
-This is my captstone project to my MBA in Data Science and Analytics from USP/ESALQ (Brazil). It aims to analyze the data from a Brazilian football team Palmeiras (SEP) along the Brazilian Championship during 2020 to 2023.
+This is my captstone project to my MBA in Data Science and Analytics from USP/ESALQ (Brazil), under the guidance of professor Patricia Belfiore. It aims to analyze the data from a Brazilian football team Palmeiras (SEP) along the Brazilian Championship during 2020 to 2023.
 
 ## Structure
 ```bash
